@@ -1,0 +1,49 @@
+﻿生成启动时间为 2017/11/30 11:00:49。
+     1>项目“E:\R3\MyProject\ApplyWB\ApplyWB\ApplyWB.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\ApplyWB.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\ApplyWB.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ApplyWB.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ApplyWB.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ApplyWB.cpp ApplyWB_TestItem.cpp OptionDlg.cpp
+         ApplyWB.cpp
+         ApplyWB_TestItem.cpp
+     1>ApplyWB_TestItem.cpp(1268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1269): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1275): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1280): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1285): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\ApplyWB.res" ApplyWB.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AE\Release\ApplyWB.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\ApplyWB.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AE\Release\ApplyWB.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AE\Release\ApplyWB.lib" /MACHINE:X86 /DLL Release\ApplyWB.res
+         Release\ApplyWB.obj
+         Release\ApplyWB_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 E:\R3\MyProject\AE\Release\ApplyWB.lib 和对象 E:\R3\MyProject\AE\Release\ApplyWB.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         ApplyWB.vcxproj -> E:\R3\MyProject\AE\Release\ApplyWB.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\MyProject\AE\Release\ApplyWB.dll;#2" /manifest Release\ApplyWB.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\R3\MyProject\AE\Release\ApplyWB.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\ApplyWB.unsuccessfulbuild”。
+         正在对“Release\ApplyWB.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\ApplyWB\ApplyWB\ApplyWB.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.04

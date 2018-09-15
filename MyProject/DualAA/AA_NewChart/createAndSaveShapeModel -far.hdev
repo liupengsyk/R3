@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.0" halcon_version="10.0" cs="-877624426">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image(Image,'E:/CCMSDK_1224/测试项开发SDK/MyProject/DualAA/AA_NewChart/ImgSave/20160812-095535Cam1.jpg')</l>
+<l>rgb1_to_gray(Image, GrayImage)</l>
+<l>get_image_size(GrayImage, Width, Height)</l>
+<c></c>
+<l>*gen_circle(Circle, Height/2, Width/2, Width/3)</l>
+<c></c>
+<l>*reduce_domain(GrayImage, Circle, Circle_domain)</l>
+<c>  </c>
+<l>*get_domain(Circle_domain, Domain)</l>
+<c> </c>
+<l>*mean_image(Circle_domain, ImageMean2, Width/10, Height/10)</l>
+<l>*sub_image(GrayImage,ImageMean2, ImageSub1, 1, 128)</l>
+<l>*emphasize(ImageSub1, ImageEmphasize1, Width, Height, 1)</l>
+<c> </c>
+<c> </c>
+<l>*complement (Circle, RegionComplement)</l>
+<l>*reduce_domain(GrayImage,RegionComplement,RegionComplement_domain)</l>
+<c></c>
+<l>*mean_image(GrayImage,ImageMean3, Width/10, Height/10)</l>
+<c></c>
+<l>*sub_image(GrayImage,ImageMean3,ImageSub2, 1, 128)</l>
+<l>*emphasize(ImageSub2, ImageEmphasize2, Width, Height, 1)</l>
+<c> </c>
+<l>mean_image(GrayImage, ImageMean, Width/10, Width/10)</l>
+<l>*mean_image(GrayImage, ImageMean1, Width/50, Width/50)</l>
+<l>sub_image(GrayImage, ImageMean, ImageSub, 1, 120)</l>
+<l>emphasize(ImageSub, ImageEmphasize, Width, Height, 1)</l>
+<l>*stop()</l>
+<l>threshold(ImageEmphasize, Region, 0,60)</l>
+<l>*fill_up(Region, RegionFillUp)</l>
+<l>*stop()</l>
+<l>connection(Region, ConnectedRegions)</l>
+<l>*dilation_circle(ConnectedRegions, RegionDilation, 10)</l>
+<l>*erosion1(ConnectedRegions, ConnectedRegions, RegionErosion, 3.5)</l>
+<c></c>
+<l>gen_rectangle1(Rectangle0, 20, 150, 150, 300)</l>
+<l>gen_rectangle1(Rectangle1, 20, 900, 150,1000)</l>
+<l>*gen_rectangle1(Rectangle1, 20, 1250, 150, 1350)</l>
+<l>gen_rectangle1(Rectangle2, 20, 1250, 150, 1350)</l>
+<l>*stop()</l>
+<l>reduce_domain(ConnectedRegions, Rectangle0, ImageReduced0)</l>
+<l>reduce_domain(ConnectedRegions, Rectangle1, ImageReduced1)</l>
+<l>reduce_domain(ConnectedRegions, Rectangle2, ImageReduced2)</l>
+<c></c>
+<l>union1(ImageReduced0, RegionUnion0)</l>
+<l>area_center(RegionUnion0, Area0, Row0, Column0)</l>
+<c></c>
+<l>union1(ImageReduced1, RegionUnion1)</l>
+<l>area_center(RegionUnion1, Area1, Row1, Column1)</l>
+<c></c>
+<l>union1(ImageReduced2, RegionUnion2)</l>
+<l>area_center(RegionUnion2, Area2, Row2, Column2)</l>
+<c></c>
+<l>gen_rectangle1(Rectangle00, Row0-50, Column0-50, Row0+50, Column0+50)</l>
+<l>reduce_domain(ImageEmphasize, Rectangle00, ImageReduced00)</l>
+<l>stop()</l>
+<l>gen_rectangle1(Rectangle10, Row1-50, Column1-50, Row1+50, Column1+50)</l>
+<l>reduce_domain(ImageEmphasize, Rectangle10, ImageReduced10)</l>
+<c></c>
+<l>gen_rectangle1(Rectangle20, Row2-50, Column2-50, Row2+50, Column2+50)</l>
+<l>reduce_domain(ImageEmphasize, Rectangle20, ImageReduced20)</l>
+<c></c>
+<l>*stop()</l>
+<l>create_shape_model(ImageReduced00, 'auto', -0.5, 0.79, 'auto', 'auto', 'use_polarity', 'auto', 'auto', ModelID0)</l>
+<c></c>
+<l>create_shape_model(ImageReduced10, 'auto', -0.5, 0.79, 'auto', 'auto', 'use_polarity', 'auto', 'auto', ModelID1)</l>
+<c></c>
+<l>create_shape_model(ImageReduced20, 'auto', -0.5, 0.79, 'auto', 'auto', 'use_polarity', 'auto', 'auto', ModelID2)</l>
+<c></c>
+<c></c>
+<l>*write_shape_model(ModelID0,'E:/CCMSDK_1224/MyProject/DualAA/AA_NewChart/ImgSave/shapModeT1.shm')</l>
+<l>find_shape_model(ImageEmphasize, ModelID0, -0.9, 0.9, 0.5, 0, 0.5, 'least_squares', 0, 0.9, Row00, Column00, Angle, Score)</l>
+<l>tuple_length(Row00,Length00)</l>
+<l>for Index := 1 to Length00-1 by 1</l>
+<l>    gen_cross_contour_xld(Cross0, Row00[Index], Column00[Index], 30, 0)</l>
+<l>endfor</l>
+<c></c>
+<c></c>
+<l>find_shape_model(ImageEmphasize, ModelID1, -0.9, 0.9, 0.5, 0, 0.5, 'least_squares', 0, 0.9, Row10, Column10, Angle, Score)</l>
+<l>tuple_length(Row10,Length10)</l>
+<l>for Index := 1 to Length10-1 by 1</l>
+<l>    gen_cross_contour_xld(Cross, Row10[Index], Column10[Index], 30, 0)</l>
+<l>endfor</l>
+<c></c>
+<l>find_shape_model(ImageEmphasize, ModelID2, -0.9, 0.9, 0.5, 0, 0.5, 'least_squares', 0, 0.9, Row20, Column20, Angle, Score)</l>
+<l>tuple_length(Row20,Length20)</l>
+<l>for Index := 1 to Length20-1 by 1</l>
+<l>    gen_cross_contour_xld(Cross, Row20[Index], Column20[Index], 30, 0)</l>
+<l>endfor</l>
+<l>stop()</l>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

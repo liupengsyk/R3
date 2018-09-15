@@ -1,0 +1,51 @@
+﻿生成启动时间为 2017/11/30 10:44:13。
+     1>项目“E:\R3\MyProject\Shading49\Shading49\Shading49.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Shading49.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Shading49.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Shading49.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp Shading49.cpp Shading49_Inspection.cpp
+         OptionDlg.cpp
+         Shading49.cpp
+         Shading49_Inspection.cpp
+     1>Shading49_Inspection.cpp(708): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Shading49_Inspection.cpp(709): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Shading49_Inspection.cpp(710): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Shading49_Inspection.cpp(711): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Shading49_Inspection.cpp(750): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>Shading49_Inspection.cpp(751): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>Shading49_Inspection.cpp(752): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>Shading49_Inspection.cpp(753): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>Shading49_Inspection.cpp(754): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+     1>Shading49_Inspection.cpp(755): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\Shading49.res" Shading49.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AE\Release\Shading49.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\Shading49.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AE\Release\Shading49.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AE\Release\Shading49.lib" /MACHINE:X86 /DLL Release\Shading49.res
+         Release\OptionDlg.obj
+         Release\Shading49.obj
+         Release\Shading49_Inspection.obj
+         Release\stdafx.obj
+            正在创建库 E:\R3\MyProject\AE\Release\Shading49.lib 和对象 E:\R3\MyProject\AE\Release\Shading49.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(ImageProc.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(ImageProc.obj)”或在“E:\R3\MyProject\AE\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(stdafx.obj)”或在“E:\R3\MyProject\AE\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         Shading49.vcxproj -> E:\R3\MyProject\AE\Release\Shading49.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\MyProject\AE\Release\Shading49.dll;#2" /manifest Release\Shading49.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\R3\MyProject\AE\Release\Shading49.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\Shading49.unsuccessfulbuild”。
+         正在对“Release\Shading49.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\Shading49\Shading49\Shading49.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.34

@@ -1,0 +1,71 @@
+﻿生成启动时间为 2016/10/15 11:41:47。
+     1>项目“E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\DualAA\DualAA.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\DualAA.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DualAA.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DualAA_TestItem.cpp
+         DualAA_TestItem.cpp
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(206): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(209): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(212): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(452): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(476): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(499): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(521): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(545): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(546): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(596): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(710): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(711): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(712): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(860): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(861): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(904): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(911): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(999): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1228): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1231): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1556): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1557): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1632): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1633): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1674): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1674): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1675): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1675): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1679): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1679): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1680): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1680): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1696): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\dualaa\dualaa\dualaa_testitem.cpp(1703): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\Debug\DualAA.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug /LIBPATH:LIB_Halcon TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\DualAA.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\Debug\DualAA.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\Debug\DualAA.lib" /MACHINE:X86 /DLL Debug\DualAA.res
+         Debug\DualAA.dll.embed.manifest.res
+         Debug\DualAA.obj
+         Debug\DualAA_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DualAA.dll.embed.manifest" /manifest Debug\DualAA.dll.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         DualAA.vcxproj -> E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\Debug\DualAA.dll
+       PostBuildEvent:
+         copy "E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\Debug\DualAA.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DualAA.unsuccessfulbuild”。
+         正在对“Debug\DualAA.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\CCMSDK_1224\Z_SDK\MyProject\DualAA\DualAA\DualAA.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.89

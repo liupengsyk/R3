@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\bin\Debug\SocketNetLib.dll
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\bin\Debug\SocketNetLib.pdb
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\obj\Debug\SocketNetLib.dll
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\obj\Debug\SocketNetLib.pdb
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\bin\Debug\SocketNetLib.dll
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\bin\Debug\SocketNetLib.pdb
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\obj\Debug\SocketNetLib.dll
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\obj\Debug\SocketNetLib.pdb

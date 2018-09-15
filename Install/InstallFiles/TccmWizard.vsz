@@ -1,0 +1,5 @@
+VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine.10.0
+Param="WIZARD_NAME = TccmWizard"
+Param="ABSOLUTE_PATH = C:\Users\N231328\Documents\Visual Studio 2010\Wizards\TccmWizard"
+Param="FALLBACK_LCID = 2052"

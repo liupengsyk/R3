@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/9/21 8:13:13。
+     1>项目“F:\DualShare_r3\MyProject\Shading5forjs10\TccmShading\TccmShading.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Shading5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Inspection_Shading.cpp
+         Inspection_Shading.cpp
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(320): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(424): error C2059: 语法错误:“,”
+     1>f:\dualshare_r3\myproject\shading5forjs10\tccmshading\inspection_shading.cpp(726): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>已完成生成项目“F:\DualShare_r3\MyProject\Shading5forjs10\TccmShading\TccmShading.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:10.16

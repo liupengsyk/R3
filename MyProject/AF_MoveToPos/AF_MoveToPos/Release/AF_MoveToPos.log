@@ -1,0 +1,67 @@
+﻿生成启动时间为 2017/11/23 10:55:26。
+     1>项目“D:\R3\MyProject\AF_MoveToPos\AF_MoveToPos\AF_MoveToPos.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\AF_MoveToPos.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\AF_MoveToPos.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\AF_MoveToPos.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AF_MoveToPos.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AF_MoveToPos.cpp AF_MoveToPos_TestItem.cpp OptionDlg.cpp
+         AF_MoveToPos.cpp
+         AF_MoveToPos_TestItem.cpp
+     1>AF_MoveToPos_TestItem.cpp(83): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(89): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(95): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(96): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>AF_MoveToPos_TestItem.cpp(97): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(98): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>AF_MoveToPos_TestItem.cpp(116): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(118): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(119): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>AF_MoveToPos_TestItem.cpp(120): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(121): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>AF_MoveToPos_TestItem.cpp(139): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>AF_MoveToPos_TestItem.cpp(145): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>AF_MoveToPos_TestItem.cpp(169): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\AF_MoveToPos.res" AF_MoveToPos.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\AF_MoveToPos.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.lib" /MACHINE:X86 /DLL Release\AF_MoveToPos.res
+         Release\AF_MoveToPos.obj
+         Release\AF_MoveToPos_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.lib 和对象 D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“D:\R3\MyProject\AF_MoveToPos\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“D:\R3\MyProject\AF_MoveToPos\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         AF_MoveToPos.vcxproj -> D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.dll;#2" /manifest Release\AF_MoveToPos.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AF_MoveToPos\Release\AF_MoveToPos.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\AF_MoveToPos.unsuccessfulbuild”。
+         正在对“Release\AF_MoveToPos.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\AF_MoveToPos\AF_MoveToPos\AF_MoveToPos.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.31

@@ -1,0 +1,78 @@
+﻿生成启动时间为 2017/9/27 11:51:28。
+     1>项目“D:\R3\MyProject\DualAA\DualAA\DualAA.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\DualAA.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\DualAA.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\DualAA.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DualAA.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DualAA.cpp DualAA_TestItem.cpp OptionDlg.cpp
+         DualAA.cpp
+         DualAA_TestItem.cpp
+     1>DualAA_TestItem.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(232): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(482): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(506): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(529): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(551): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(575): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(576): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(626): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(736): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualAA_TestItem.cpp(737): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualAA_TestItem.cpp(738): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualAA_TestItem.cpp(883): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(884): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(925): warning C4018: “<”: 有符号/无符号不匹配
+     1>DualAA_TestItem.cpp(932): warning C4018: “<”: 有符号/无符号不匹配
+     1>DualAA_TestItem.cpp(1022): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1254): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1257): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1344): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1345): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1346): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1613): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1614): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1692): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1693): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1734): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1734): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1735): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1735): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1739): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1739): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1740): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1740): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>DualAA_TestItem.cpp(1756): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>DualAA_TestItem.cpp(1763): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\DualAA.res" DualAA.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AE\Release\DualAA.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release /LIBPATH:LIB_Halcon TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\DualAA.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AE\Release\DualAA.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AE\Release\DualAA.lib" /MACHINE:X86 /DLL Release\DualAA.res
+         Release\DualAA.obj
+         Release\DualAA_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 D:\R3\MyProject\AE\Release\DualAA.lib 和对象 D:\R3\MyProject\AE\Release\DualAA.exp
+         正在生成代码
+         已完成代码的生成
+         DualAA.vcxproj -> D:\R3\MyProject\AE\Release\DualAA.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AE\Release\DualAA.dll;#2" /manifest Release\DualAA.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AE\Release\DualAA.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\DualAA.unsuccessfulbuild”。
+         正在对“Release\DualAA.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\DualAA\DualAA\DualAA.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.93

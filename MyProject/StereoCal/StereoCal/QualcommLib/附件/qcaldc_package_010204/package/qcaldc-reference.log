@@ -1,0 +1,87 @@
+
+qcaldc version  = 0x10204
+Private version = 0  
+Major version   = 1  
+Minor version   = 2  
+Patch version   = 4  
+
+===========================
+Validating config file qcaldc.cfg ...
+
+===========================
+Parsed config file qcaldc.cfg ...
+
+main_native_width=4224
+main_native_height=3136
+main_f_number=2.000000
+main_fovd_degrees=80.900002
+main_pixel_pitch_mm=0.001120
+main_focal_length_mm=3.790000
+main_focal_length_ratio=1.006900
+main_calib_input_width=4224
+main_calib_input_height=3136
+main_calib_l_chart_image=main-l.bmp
+main_calib_flat_chart_image=main-flat.bmp
+aux_native_width=1600
+aux_native_height=1200
+aux_f_number=2.400000
+aux_fovd_degrees=89.199997
+aux_pixel_pitch_mm=0.001750
+aux_focal_length_mm=2.000000
+aux_focal_length_ratio=1.000000
+aux_calib_input_width=1600
+aux_calib_input_height=1200
+aux_calib_l_chart_image=aux-l.bmp
+aux_calib_flat_chart_image=aux-flat.bmp
+calib_square_size_mm=50.200001
+cam_baseline_mm=20.000000
+main_aux_position_flag=1
+l_chart_distance_mm=850.000000
+flat_chart_distance_mm=560.000000
+calib_otp_data_file=qcaldc-otp.bin
+residual_vertical_disparity_threshold_pixels=3.000000
+scale_difference_threshold_percent=1.000000
+l_chart_origin_distance_threshold_percent=20.000000
+===========================
+Calibration verification results ...
+
+                                            Metric  Value  Threshold Result
+     L-chart: Residual vertical disparity [pixels]   1.52       3.00   PASS
+                       L-chart: Distance error [%]   3.60      20.00   PASS
+  Flat-chart: Residual vertical disparity [pixels]   1.86       3.00   PASS
+                    Flat-chart: Distance error [%]   6.20      20.00   PASS
+                  Flat-chart: Scale difference [%]   0.55       1.00   PASS
+
+===========================
+Calibration output ...
+
+Writing calibration OTP data to qcaldc-otp.bin ...
+
+version=10204
+main_focal_length_pixels=1024.250732
+main_native_width=4224
+main_native_height=3136
+main_calib_width=1280
+main_calib_height=950
+main_focal_length_ratio=1.006900
+aux_focal_length_pixels=914.285706
+aux_native_width=1600
+aux_native_height=1200
+aux_calib_width=1280
+aux_calib_height=960
+aux_focal_length_ratio=1.000000
+R = 1.000005 0.000529 0.004291
+    -0.000522 0.999984 -0.006424
+    -0.001062 0.006421 1.000356
+G = -0.532107 -0.982822 7.884248
+    -1.482315 -0.040381 -6.248629
+    -0.196651 -1.222970 -0.490077
+ox=0.000000
+oy=0.000000
+position=1
+cam_baseline_mm=20.000000
+relative_pitch_degrees=0.060803
+relative_yaw_degrees=0.367738
+relative_roll_degrees=-0.029925
+===========================
+qcaldc calibration success!

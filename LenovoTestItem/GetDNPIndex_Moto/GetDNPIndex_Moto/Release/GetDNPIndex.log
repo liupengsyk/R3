@@ -1,0 +1,78 @@
+﻿生成启动时间为 2017/11/17 14:30:32。
+     1>项目“F:\OHP0792\MyProject\GetDNPIndex\GetDNPIndex\GetDNPIndex.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\GetDNPIndex.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\GetDNPIndex.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\GetDNPIndex.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\GetDNPIndex.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GetDNPIndex.cpp GetDNPIndex_TestItem.cpp OptionDlg.cpp
+         GetDNPIndex.cpp
+         GetDNPIndex_TestItem.cpp
+     1>GetDNPIndex_TestItem.cpp(189): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(190): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(191): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(192): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(193): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(194): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(195): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(196): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(256): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(257): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(258): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(316): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(317): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(318): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(319): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(341): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(342): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(343): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(366): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(367): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(368): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(369): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(370): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(371): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(372): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(500): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_TestItem.cpp(504): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_TestItem.cpp(505): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_TestItem.cpp(1156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1157): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1163): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1168): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_TestItem.cpp(1173): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\GetDNPIndex.res" GetDNPIndex.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\GetDNPIndex.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\GetDNPIndex.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\GetDNPIndex.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\GetDNPIndex.lib" /MACHINE:X86 /DLL Release\GetDNPIndex.res
+         Release\GetDNPIndex.obj
+         Release\GetDNPIndex_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\GetDNPIndex.lib 和对象 F:\OHP0792\MyProject\AE\Release\GetDNPIndex.exp
+         正在生成代码
+         已完成代码的生成
+         GetDNPIndex.vcxproj -> F:\OHP0792\MyProject\AE\Release\GetDNPIndex.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\GetDNPIndex.dll;#2" /manifest Release\GetDNPIndex.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\GetDNPIndex.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\GetDNPIndex.unsuccessfulbuild”。
+         正在对“Release\GetDNPIndex.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\GetDNPIndex\GetDNPIndex\GetDNPIndex.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.51

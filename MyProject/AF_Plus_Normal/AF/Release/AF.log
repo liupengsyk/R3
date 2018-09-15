@@ -1,0 +1,57 @@
+﻿生成启动时间为 2018/8/27 15:12:31。
+     1>项目“E:\R3\MyProject\AF_Plus_Normal\AF\AF.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\R3\MyProject\AF_Plus_Normal\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\AF.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\AF.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp /D "_CRT_SECURE_NO_WARNINGS" 
+         stdafx.cpp
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AF.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AF.cpp AF_TestItem.cpp DlgContrast.cpp DlgMotoCharSfr.cpp DlgMtf.cpp DlgSfr.cpp DlgSquareChartSfr.cpp OptionDlg.cpp /D "_CRT_SECURE_NO_WARNINGS" 
+         AF.cpp
+         AF_TestItem.cpp
+         DlgContrast.cpp
+         DlgMotoCharSfr.cpp
+         DlgMtf.cpp
+         DlgSfr.cpp
+         DlgSquareChartSfr.cpp
+         OptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\AF.res" AF.rc 
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AF_Plus_Normal\Release\AF.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\AF.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AF_Plus_Normal\Release\AF.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AF_Plus_Normal\Release\AF.lib" /MACHINE:X86 /DLL Release\AF.res
+         Release\AF.obj
+         Release\AF_TestItem.obj
+         Release\DlgContrast.obj
+         Release\DlgMotoCharSfr.obj
+         Release\DlgMtf.obj
+         Release\DlgSfr.obj
+         Release\DlgSquareChartSfr.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 E:\R3\MyProject\AF_Plus_Normal\Release\AF.lib 和对象 E:\R3\MyProject\AF_Plus_Normal\Release\AF.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\AF_Plus_Normal\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\R3\MyProject\AF_Plus_Normal\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(ImageProc.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(ImageProc.obj)”或在“E:\R3\MyProject\AF_Plus_Normal\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(stdafx.obj)”或在“E:\R3\MyProject\AF_Plus_Normal\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         AF.vcxproj -> E:\R3\MyProject\AF_Plus_Normal\Release\AF.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\MyProject\AF_Plus_Normal\Release\AF.dll;#2" /manifest Release\AF.dll.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\R3\MyProject\AF_Plus_Normal\Release\AF.dll"  "..\..\..\Execute\Release\TestItem"
+         copy "ofSFR.dll"  ..\..\..\Execute\Release\
+         copy "SFRMatLib.dll" ..\..\..\Execute\Release\
+         :VCEnd
+         已复制         1 个文件。
+         已复制         1 个文件。
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\AF.unsuccessfulbuild”。
+         正在对“Release\AF.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\AF_Plus_Normal\AF\AF.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.38

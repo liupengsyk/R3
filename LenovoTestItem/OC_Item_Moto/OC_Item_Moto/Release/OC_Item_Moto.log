@@ -1,0 +1,59 @@
+﻿生成启动时间为 2018/5/4 14:11:23。
+     1>项目“F:\OHP0792\MyProject\OC_Item_Moto\OC_Item_Moto\OC_Item_Moto.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\OC_Item_Moto.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\OC_Item_Moto.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OC_Item_Moto_TestItem.cpp OptionDlg.cpp
+         OC_Item_Moto_TestItem.cpp
+     1>OC_Item_Moto_TestItem.cpp(175): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(176): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(408): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(412): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(416): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(418): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(420): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(426): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(429): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(582): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(583): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(984): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(985): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(998): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(999): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(1015): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>OC_Item_Moto_TestItem.cpp(1016): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         OptionDlg.cpp
+     1>OptionDlg.cpp(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\OC_Item_Moto.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.lib" /MACHINE:X86 /DLL Release\OC_Item_Moto.res
+         Release\OC_Item_Moto.obj
+         Release\OC_Item_Moto_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.lib 和对象 F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.exp
+         正在生成代码
+         已完成代码的生成
+         OC_Item_Moto.vcxproj -> F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.dll;#2" /manifest Release\OC_Item_Moto.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\OC_Item_Moto.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\OC_Item_Moto.unsuccessfulbuild”。
+         正在对“Release\OC_Item_Moto.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\OC_Item_Moto\OC_Item_Moto\OC_Item_Moto.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.11

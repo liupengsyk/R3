@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OtpSensorInterface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_HI544.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_DW9807.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_S5k4ec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EEPROM_GT24C16.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EEPROM_GT24C32.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_S5K4H8_F1X9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EEPROM_GT24C128_256.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_S5k5E8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_DW9767.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_GC5025A.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_Hi556.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_DW9763_WrtProtect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_S5K4H7YX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_OV8856.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EEPROM_BL24SA64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OTP_OV5675.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EEPROM_M24C64S.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OtpSensorInterface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_HI544.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_DW9807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_S5k4ec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EEPROM_GT24C16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EEPROM_GT24C32.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_S5K4H8_F1X9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EEPROM_GT24C128_256.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_S5k5E8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_DW9767.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_Hi556.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_GC5025A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_DW9763_WrtProtect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_S5K4H7YX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_OV8856.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EEPROM_BL24SA64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OTP_OV5675.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EEPROM_M24C64S.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OtpSensorInterface.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

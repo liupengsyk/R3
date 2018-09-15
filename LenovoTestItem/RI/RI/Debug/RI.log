@@ -1,0 +1,36 @@
+﻿生成启动时间为 2017/12/27 14:07:57。
+     1>项目“F:\OHP0792\MyProject\RI\RI\RI.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RI.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\RI.res" RI.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Debug\RI.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\RI.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Debug\RI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Debug\RI.lib" /MACHINE:X86 /DLL Debug\RI.res
+         Debug\RI.dll.embed.manifest.res
+         Debug\OptionDlg.obj
+         Debug\RI.obj
+         Debug\RI_TestItem.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RI.dll.embed.manifest" /manifest Debug\RI.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RI.vcxproj -> F:\OHP0792\MyProject\AE\Debug\RI.dll
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Debug\RI.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RI.unsuccessfulbuild”。
+         正在对“Debug\RI.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\RI\RI\RI.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.99

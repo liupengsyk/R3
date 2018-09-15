@@ -1,0 +1,53 @@
+﻿生成启动时间为 2016/6/14 13:59:26。
+     1>项目“D:\WorkSpace\测试项开发SDK\MyProject\OC_Item\OC_Item\OC_Item.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\OC_Item.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\OC_Item.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\OC_Item.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\OC_Item.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OC_Item.cpp OC_Item_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         OC_Item_TestItem.cpp
+         OC_Item.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OC_Item.res" OC_Item.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OC_Item.dll.embed.manifest.res" Debug\OC_Item_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\OC_Item.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.lib" /MACHINE:X86 /DLL Debug\OC_Item.res
+         Debug\OC_Item.dll.embed.manifest.res
+         Debug\OC_Item.obj
+         Debug\OC_Item_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.lib 和对象 D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+       Manifest:
+         正在删除文件“Debug\OC_Item.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OC_Item.dll.embed.manifest" /manifest Debug\OC_Item.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OC_Item.dll.embed.manifest.res" Debug\OC_Item_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\OC_Item.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.lib" /MACHINE:X86 /DLL Debug\OC_Item.res
+         Debug\OC_Item.dll.embed.manifest.res
+         Debug\OC_Item.obj
+         Debug\OC_Item_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.lib 和对象 D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         OC_Item.vcxproj -> D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.dll
+       PostBuildEvent:
+         copy "D:\WorkSpace\测试项开发SDK\MyProject\AE\Debug\OC_Item.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OC_Item.unsuccessfulbuild”。
+         正在对“Debug\OC_Item.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\WorkSpace\测试项开发SDK\MyProject\OC_Item\OC_Item\OC_Item.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.85

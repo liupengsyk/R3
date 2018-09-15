@@ -1,0 +1,39 @@
+﻿生成启动时间为 2018/5/9 15:21:31。
+     1>项目“F:\OHP0792\MyProject\RU\RU\RU.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\RU.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\RU.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp RU_TestItem.cpp
+         OptionDlg.cpp
+         RU_TestItem.cpp
+     1>RU_TestItem.cpp(397): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>RU_TestItem.cpp(399): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>RU_TestItem.cpp(401): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>RU_TestItem.cpp(403): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\RU.res" RU.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\RU.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\RU.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\RU.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\RU.lib" /MACHINE:X86 /DLL Release\RU.res
+         Release\OptionDlg.obj
+         Release\RU.obj
+         Release\RU_TestItem.obj
+         Release\stdafx.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\RU.lib 和对象 F:\OHP0792\MyProject\AE\Release\RU.exp
+         正在生成代码
+         已完成代码的生成
+         RU.vcxproj -> F:\OHP0792\MyProject\AE\Release\RU.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\RU.dll;#2" /manifest Release\RU.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\RU.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\RU.unsuccessfulbuild”。
+         正在对“Release\RU.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\RU\RU\RU.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.90

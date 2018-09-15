@@ -1,0 +1,88 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LSCCalibrationDll - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Script1.res" /d "NDEBUG" "E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\Script1.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP138C.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "LSCCALIBRATIONDLL_EXPORTS" /Fp"Release/LSCCalibrationDll.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp"
+"E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\StaAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP138C.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP138D.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release/LSCCalibrationDll.pdb" /machine:I386 /out:"Release/LSCCalibrationDll.dll" /implib:"Release/LSCCalibrationDll.lib" 
+".\Release\LSCCalibrationDll.obj"
+".\Release\StaAfx.obj"
+".\Release\Script1.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP138D.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+LSCCalibrationDll.cpp
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(110) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(143) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(193) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(242) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(295) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(351) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(406) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(464) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(523) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(575) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(623) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(624) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(648) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(664) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(676) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(684) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(692) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(701) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(811) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(799) : warning C4101: 'i' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(799) : warning C4101: 'j' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(902) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(845) : warning C4101: 'ptr' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1147) : warning C4101: 'ptr' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1158) : warning C4101: 'common_max_y' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1158) : warning C4101: 'common_max_x' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1147) : warning C4101: 'ii' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1157) : warning C4101: 'w1' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_b_y' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1155) : warning C4101: 'Nx' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1147) : warning C4101: 'd' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1157) : warning C4101: 'w2' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_b_x' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_gr_y' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1155) : warning C4101: 'Ny' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1154) : warning C4101: 'sum_b' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1154) : warning C4101: 'sum_gb' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1154) : warning C4101: 'sum_gr' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1154) : warning C4101: 'sum_r' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_gr_x' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1157) : warning C4101: 'h1' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1157) : warning C4101: 'h2' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1147) : warning C4101: 'jj' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1149) : warning C4101: 'gain' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_r_y' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_gb_y' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_r_x' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1156) : warning C4101: 'max_gb_x' : unreferenced local variable
+E:\dragon----important\框架\高通LSC\P_LSCCalibrationDll\LSCCalibrationDll.cpp(1472) : warning C4273: 'LensCorrectionLib' : inconsistent dll linkage.  dllexport assumed.
+StaAfx.cpp
+Linking...
+   Creating library Release/LSCCalibrationDll.lib and object Release/LSCCalibrationDll.exp
+
+
+
+<h3>Results</h3>
+LSCCalibrationDll.dll - 0 error(s), 49 warning(s)
+</pre>
+</body>
+</html>

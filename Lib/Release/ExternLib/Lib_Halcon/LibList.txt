@@ -1,0 +1,3 @@
+LibList
+halcon.lib
+halconcpp.lib

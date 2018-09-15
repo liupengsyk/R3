@@ -1,0 +1,57 @@
+﻿生成启动时间为 2018/5/10 19:45:39。
+     1>项目“F:\OHP0792\MyProject\ApplyWB_Moto\ApplyWB\ApplyWB.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ApplyWB.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ApplyWB.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ApplyWB_TestItem.cpp
+         ApplyWB_TestItem.cpp
+     1>ApplyWB_TestItem.cpp(513): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(515): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(517): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(519): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(523): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(524): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(525): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(526): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(671): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(672): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(673): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(674): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1619): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>ApplyWB_TestItem.cpp(1579): warning C4101: “j”: 未引用的局部变量
+     1>ApplyWB_TestItem.cpp(1869): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1870): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1874): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1875): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1879): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1880): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1884): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>ApplyWB_TestItem.cpp(1885): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\ApplyWB.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\ApplyWB.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\ApplyWB.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\ApplyWB.lib" /MACHINE:X86 /DLL Release\ApplyWB.res
+         Release\ApplyWB.obj
+         Release\ApplyWB_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\ApplyWB.lib 和对象 F:\OHP0792\MyProject\AE\Release\ApplyWB.exp
+         正在生成代码
+         已完成代码的生成
+         ApplyWB.vcxproj -> F:\OHP0792\MyProject\AE\Release\ApplyWB.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\ApplyWB.dll;#2" /manifest Release\ApplyWB.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\ApplyWB.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\ApplyWB.unsuccessfulbuild”。
+         正在对“Release\ApplyWB.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\ApplyWB_Moto\ApplyWB\ApplyWB.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.19

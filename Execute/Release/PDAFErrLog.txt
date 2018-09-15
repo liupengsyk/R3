@@ -1,0 +1,5 @@
+[Thu Jan 12 18:14:50 2017][s1][In] Input image's intensity is out of range. Check exposure time or light source. [L:56][R:55][min:60][max:230][ROI(X,Y,W,H):1424,1064,1360,1000]
+[Thu Jan 12 18:14:50 2017][s1][In] Input image's intensity is out of range. Check exposure time or light source. [L:34][R:33][min:40][max:230][ROI(X,Y,W,H):64,64,1360,1000]
+[Thu Jan 12 18:14:50 2017][s1][In] Input image's intensity is out of range. Check exposure time or light source. [L:34][R:33][min:40][max:230][ROI(X,Y,W,H):64,64,1360,1000]
+[Sat Jan 14 13:56:00 2017][s1][In] Input image's intensity is out of range. Check exposure time or light source. [L:17][R:17][min:40][max:230][ROI(X,Y,W,H):64,2072,1360,1000]
+[Sat Jan 14 13:56:00 2017][s1][In] Input image's intensity is out of range. Check exposure time or light source. [L:17][R:17][min:40][max:230][ROI(X,Y,W,H):64,2064,1360,1000]

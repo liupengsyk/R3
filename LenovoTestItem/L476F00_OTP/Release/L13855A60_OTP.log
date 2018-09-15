@@ -1,0 +1,54 @@
+﻿生成启动时间为 2018/4/14 8:07:55。
+     1>项目“E:\LYC\R3\MyProject\L13855A60_OTP\L13855A60_OTP\L13855A60_OTP.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\L13855A60_OTP.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\L13855A60_OTP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\L13855A60_OTP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt L13855A60_OTP.cpp L13855A60_OTP_TestItem.cpp OptionDlg.cpp
+         L13855A60_OTP.cpp
+         L13855A60_OTP_TestItem.cpp
+     1>L13855A60_OTP_TestItem.cpp(21): warning C4005: “OTP_CHK_MODULE_SERIAL_NUMBER”: 宏重定义
+                 e:\lyc\r3\myproject\l13855a60_otp\l13855a60_otp\L13855A60_OTP_TestItem.h(15) : 参见“OTP_CHK_MODULE_SERIAL_NUMBER”的前一个定义
+     1>L13855A60_OTP_TestItem.cpp(22): warning C4005: “OTP_CHK_MODULE_ID_REVERSED_ADDR_END”: 宏重定义
+                 e:\lyc\r3\myproject\l13855a60_otp\l13855a60_otp\L13855A60_OTP_TestItem.h(18) : 参见“OTP_CHK_MODULE_ID_REVERSED_ADDR_END”的前一个定义
+     1>L13855A60_OTP_TestItem.cpp(177): warning C4244: “=”: 从“wchar_t”转换到“unsigned char”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(178): warning C4244: “=”: 从“wchar_t”转换到“unsigned char”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(323): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(325): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(173): warning C4101: “u16Tmp”: 未引用的局部变量
+     1>L13855A60_OTP_TestItem.cpp(1530): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>L13855A60_OTP_TestItem.cpp(1559): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>L13855A60_OTP_TestItem.cpp(1583): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\L13855A60_OTP.res" L13855A60_OTP.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\L13855A60_OTP.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.lib" /MACHINE:X86 /DLL Release\L13855A60_OTP.res
+         Release\L13855A60_OTP.obj
+         Release\L13855A60_OTP_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.lib 和对象 E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\LYC\R3\MyProject\AE_Moto\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\LYC\R3\MyProject\AE_Moto\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         L13855A60_OTP.vcxproj -> E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.dll;#2" /manifest Release\L13855A60_OTP.dll.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\LYC\R3\MyProject\AE_Moto\Release\L13855A60_OTP.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\L13855A60_OTP.unsuccessfulbuild”。
+         正在对“Release\L13855A60_OTP.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\LYC\R3\MyProject\L13855A60_OTP\L13855A60_OTP\L13855A60_OTP.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.92

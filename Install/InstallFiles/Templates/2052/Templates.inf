@@ -1,0 +1,15 @@
+readme.txt
+sample.txt
+Tccm_TestItem.h
+Tccm_TestItem.cpp
+OptionDlg.cpp
+OptionDlg.h
+resource.h
+stdafx.cpp
+stdafx.h
+targetver.h
+Tccm.cpp
+Tccm.def
+Tccm.h
+Tccm.rc
+res/Tccm.rc2

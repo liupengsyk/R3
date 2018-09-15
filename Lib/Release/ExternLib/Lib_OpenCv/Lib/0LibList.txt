@@ -1,0 +1,13 @@
+cv.lib
+cvaux.lib
+cvcam.lib
+cvd.lib
+cvhaartraining.lib
+cxcore.lib
+cxcored.lib
+cxts.lib
+cxtsd.lib
+highgui.lib
+highguid.lib
+ml.lib
+mld.lib

@@ -1,0 +1,69 @@
+﻿Build started 2017/3/9 15:12:25.
+     1>Project "D:\DualShare_r3\MyProject\AE\AE\AE.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\AE.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\AE.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AE.cpp AE_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         AE_TestItem.cpp
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(153): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(161): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(165): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(173): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(379): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(380): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(384): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(385): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(403): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(403): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(529): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(616): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(618): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(620): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(622): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(624): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(626): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(716): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         AE.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\AE.res" AE.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            Creating library D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib and object D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4204: 'D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+       Manifest:
+         Deleting file "Debug\AE.dll.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AE.dll.embed.manifest" /manifest Debug\AE.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+         AE.vcxproj -> D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll
+       PostBuildEvent:
+         copy "D:\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         Deleting file "Debug\AE.unsuccessfulbuild".
+         Touching "Debug\AE.lastbuildstate".
+     1>Done Building Project "D:\DualShare_r3\MyProject\AE\AE\AE.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.03

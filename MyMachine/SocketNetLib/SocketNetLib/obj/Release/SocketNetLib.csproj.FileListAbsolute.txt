@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\bin\Release\SocketNetLib.dll
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\bin\Release\SocketNetLib.pdb
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\obj\Release\SocketNetLib.dll
+C:\Users\Administrator\Desktop\SocketNetLib\SocketNetLib\obj\Release\SocketNetLib.pdb
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\bin\Release\SocketNetLib.dll
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\bin\Release\SocketNetLib.pdb
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\obj\Release\SocketNetLib.dll
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\obj\Release\SocketNetLib.pdb
+E:\CCMSDK_1224\ExternSrc\SocketNetLib\SocketNetLib\obj\Release\SocketNetLib.csprojResolveAssemblyReference.cache

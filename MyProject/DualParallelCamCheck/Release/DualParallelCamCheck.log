@@ -1,0 +1,58 @@
+﻿生成启动时间为 2017/9/27 11:51:39。
+     1>项目“D:\R3\MyProject\DualParallelCamCheck\DualParallelCamCheck.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\DualParallelCamCheck.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\DualParallelCamCheck.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Include /ILIB_Halcon\include /ILIB_Halcon\include\cpp /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\DualParallelCamCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Include /ILIB_Halcon\include /ILIB_Halcon\include\cpp /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DualParallelCamCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DualParallelCamCheck.cpp DualParallelCamCheck_TestItem.cpp OptionDlg.cpp
+         DualParallelCamCheck.cpp
+         DualParallelCamCheck_TestItem.cpp
+     1>DualParallelCamCheck_TestItem.cpp(213): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(268): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(269): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(613): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(614): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(615): warning C4244: “参数”: 从“float”转换到“USHORT”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(796): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(867): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(869): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(881): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(952): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(954): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(1308): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(1309): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(1310): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>DualParallelCamCheck_TestItem.cpp(1311): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\DualParallelCamCheck.res" DualParallelCamCheck.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AE\Release\DualParallelCamCheck.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\Lib\Release /LIBPATH:LIB_Halcon TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\DualParallelCamCheck.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AE\Release\DualParallelCamCheck.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AE\Release\DualParallelCamCheck.lib" /MACHINE:X86 /DLL Release\DualParallelCamCheck.res
+         Release\DualParallelCamCheck.obj
+         Release\DualParallelCamCheck_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 D:\R3\MyProject\AE\Release\DualParallelCamCheck.lib 和对象 D:\R3\MyProject\AE\Release\DualParallelCamCheck.exp
+         正在生成代码
+         已完成代码的生成
+         DualParallelCamCheck.vcxproj -> D:\R3\MyProject\AE\Release\DualParallelCamCheck.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AE\Release\DualParallelCamCheck.dll;#2" /manifest Release\DualParallelCamCheck.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AE\Release\DualParallelCamCheck.dll" ..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\DualParallelCamCheck.unsuccessfulbuild”。
+         正在对“Release\DualParallelCamCheck.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\DualParallelCamCheck\DualParallelCamCheck.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.92

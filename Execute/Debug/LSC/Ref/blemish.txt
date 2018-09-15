@@ -1,0 +1,5 @@
+Inner 42.128571, Outer 48.536667
+Inner 61.214287, Outer 68.353333
+Inner 56.585712, Outer 63.570000
+Inner 37.885715, Outer 44.426666
+MaxDiff 7.139046

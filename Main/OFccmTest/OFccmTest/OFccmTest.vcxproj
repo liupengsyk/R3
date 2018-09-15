@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{74CC0697-473B-44B4-9E72-1AEA39B48DDD}</ProjectGuid>
+    <RootNamespace>OFccmTest</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <PlatformToolset>v100</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <PlatformToolset>v100</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>E:\My_Work\SVN_HW\DualShare_R3_0705\Main\OFccmTest\</OutDir>
+    <IntDir>E:\My_Work\SVN_HW\DualShare_R3_0705\Main\OFccmTest\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <GenerateManifest>true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <DelayLoadDLLs>
+      </DelayLoadDLLs>
+      <AssemblyLinkResource>
+      </AssemblyLinkResource>
+      <AdditionalDependencies>DeviceInterface_d.lib;ImageProc_d.lib;OfilmLib.lib;TestItemInterface_d.lib;ImgSensorLib_d.lib;VcmDriverInterface_d.lib;OtpSensorInterface_d.lib;MachineInterfaceLib_d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>../../../Lib/$(Configuration)\;../../../Lib/Release/ExternLib/Lib_Mes/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <ProjectReference>
+      <UseLibraryDependencyInputs>true</UseLibraryDependencyInputs>
+    </ProjectReference>
+    <PostBuildEvent>
+      <Command>copy "ccmBaseInterface.h" "../../../Include\"
+copy "$(TargetPath)"  "../../../Execute/$(Configuration)\"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <CallingConvention>Cdecl</CallingConvention>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>../../../Lib/$(Configuration)\;../../../Lib/$(Configuration)/ExternLib/Lib_Mes/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>DeviceInterface.lib;ImageProc.lib;OfilmLib.lib;ImgSensorLib.lib;TestItemInterface.lib;VcmDriverInterface.lib;OtpSensorInterface.lib;MachineInterfaceLib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <LargeAddressAware>true</LargeAddressAware>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" "../../../Execute/$(Configuration)</Command>
+    </PostBuildEvent>
+    <Manifest />
+    <Manifest>
+      <OutputManifestFile>$(IntDir)$(TargetName)$(TargetExt).embed.manifest</OutputManifestFile>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\20130818044547697_easyicon_net_24.png" />
+    <None Include="res\20130818044559626_easyicon_net_24.png" />
+    <None Include="res\20130818045619669_easyicon_net_24.png" />
+    <None Include="res\20130818045648591_easyicon_net_24.png" />
+    <None Include="res\continue.png" />
+    <None Include="res\Gray.png" />
+    <None Include="res\OFccmTest.ico" />
+    <None Include="res\OFccmTest.rc2" />
+    <None Include="res\off32.bmp" />
+    <None Include="res\pause.png" />
+    <None Include="res\play.png" />
+    <None Include="res\stop.png" />
+    <None Include="res\SystemShow.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Include\ccmBaseInterface.h" />
+    <ClInclude Include="BaseSetDlg.h" />
+    <ClInclude Include="CamCodeDlg.h" />
+    <ClInclude Include="CameraControl.h" />
+    <ClInclude Include="ClientMFCSocket.h" />
+    <ClInclude Include="ConfigFileRw.h" />
+    <ClInclude Include="ConfigManage.h" />
+    <ClInclude Include="CreateExTestItem.h" />
+    <ClInclude Include="external\msjexhnd.h" />
+    <ClInclude Include="GeneralSettingPage.h" />
+    <ClInclude Include="GlobalSetting.h" />
+    <ClInclude Include="ImageExplorer.h" />
+    <ClInclude Include="LoggerManage.h" />
+    <ClInclude Include="LoginDlg.h" />
+    <ClInclude Include="MachineControl.h" />
+    <ClInclude Include="MachineDlg.h" />
+    <ClInclude Include="MyCameraSettingPage.h" />
+    <ClInclude Include="MyCurrentListCtrl.h" />
+    <ClInclude Include="MyCurrentSetting.h" />
+    <ClInclude Include="MyDestListCtrl.h" />
+    <ClInclude Include="MyErrorCode.h" />
+    <ClInclude Include="MyIICdebug.h" />
+    <ClInclude Include="MyMaskedEdit.h" />
+    <ClInclude Include="MyOSListCtrl.h" />
+    <ClInclude Include="MyPictureCtrl.h" />
+    <ClInclude Include="MyPropertyGridCtrl.h" />
+    <ClInclude Include="MyPropertySheet.h" />
+    <ClInclude Include="MyRichEdit.h" />
+    <ClInclude Include="MySrcListCtrl.h" />
+    <ClInclude Include="MyTabSheet.h" />
+    <ClInclude Include="MyTestButton.h" />
+    <ClInclude Include="MyTestItem.h" />
+    <ClInclude Include="MyTestItemOptionDlg.h" />
+    <ClInclude Include="MyTestPanel.h" />
+    <ClInclude Include="MyTestTree.h" />
+    <ClInclude Include="OFccmControl.h" />
+    <ClInclude Include="OFccmTest.h" />
+    <ClInclude Include="OFccmTestDlg.h" />
+    <ClInclude Include="RawOptionDlg.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ServerMFCSocket.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TestItemControl.h" />
+    <ClInclude Include="TestItemManage.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseSetDlg.cpp" />
+    <ClCompile Include="CamCodeDlg.cpp" />
+    <ClCompile Include="CameraControl.cpp" />
+    <ClCompile Include="ClientMFCSocket.cpp" />
+    <ClCompile Include="ConfigFileRw.cpp" />
+    <ClCompile Include="ConfigManage.cpp" />
+    <ClCompile Include="CreateExTestItem.cpp" />
+    <ClCompile Include="external\msjexhnd.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="GeneralSettingPage.cpp" />
+    <ClCompile Include="GlobalSetting.cpp" />
+    <ClCompile Include="ImageExplorer.cpp" />
+    <ClCompile Include="LoggerManage.cpp" />
+    <ClCompile Include="LoginDlg.cpp" />
+    <ClCompile Include="MachineControl.cpp" />
+    <ClCompile Include="MachineDlg.cpp" />
+    <ClCompile Include="MyCameraSettingPage.cpp" />
+    <ClCompile Include="MyCurrentListCtrl.cpp" />
+    <ClCompile Include="MyCurrentSetting.cpp" />
+    <ClCompile Include="MyDestListCtrl.cpp" />
+    <ClCompile Include="MyErrorCode.cpp" />
+    <ClCompile Include="MyIICdebug.cpp" />
+    <ClCompile Include="MyMaskedEdit.cpp" />
+    <ClCompile Include="MyOSListCtrl.cpp" />
+    <ClCompile Include="MyPictureCtrl.cpp" />
+    <ClCompile Include="MyPropertyGridCtrl.cpp" />
+    <ClCompile Include="MyPropertySheet.cpp" />
+    <ClCompile Include="MyRichEdit.cpp" />
+    <ClCompile Include="MySrcListCtrl.cpp" />
+    <ClCompile Include="MyTabSheet.cpp" />
+    <ClCompile Include="MyTestButton.cpp" />
+    <ClCompile Include="MyTestItem.cpp" />
+    <ClCompile Include="MyTestItemOptionDlg.cpp" />
+    <ClCompile Include="MyTestPanel.cpp" />
+    <ClCompile Include="MyTestTree.cpp" />
+    <ClCompile Include="OFccmControl.cpp" />
+    <ClCompile Include="OFccmTest.cpp" />
+    <ClCompile Include="OFccmTestDlg.cpp" />
+    <ClCompile Include="RawOptionDlg.cpp" />
+    <ClCompile Include="ServerMFCSocket.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TestItemControl.cpp" />
+    <ClCompile Include="TestItemManage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OFccmTest.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="OFccmTest.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

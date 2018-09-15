@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{42AE9DC6-A1DE-496A-9612-31EBF80693EF}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>ImgSensorLib</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <UseOfAtl>Static</UseOfAtl>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>$(ProjectName)_d</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;IMGSENSORLIB_EXPORTS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command> copy "$(TargetPath)" "..\..\..\Execute\$(Configuration)\"
+copy "$(SolutionDir)$(Configuration)\ImgSensorLib_d.lib" "..\..\..\Lib\$(Configuration)"
+copy "$(ProjectDir)ImgSensorLib.h" "..\..\..\Include\"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;IMGSENSORLIB_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" ..\..\..\Execute\$(Configuration)\</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AR1335.h" />
+    <ClInclude Include="GC2375.h" />
+    <ClInclude Include="GC5025.h" />
+    <ClInclude Include="GC5025A.h" />
+    <ClInclude Include="HI_1333.h" />
+    <ClInclude Include="HI_259.h" />
+    <ClInclude Include="HI_556.h" />
+    <ClInclude Include="HI_846.h" />
+    <ClInclude Include="ImgSensorLib.h" />
+    <ClInclude Include="IMX_214.h" />
+    <ClInclude Include="IMX_230.h" />
+    <ClInclude Include="IMX_258_0AQH5.h" />
+    <ClInclude Include="IMX_268.h" />
+    <ClInclude Include="IMX_278.h" />
+    <ClInclude Include="IMX_286.h" />
+    <ClInclude Include="IMX_298.h" />
+    <ClInclude Include="IMX_319.h" />
+    <ClInclude Include="IMX_350.h" />
+    <ClInclude Include="IMX_351.h" />
+    <ClInclude Include="IMX_355.h" />
+    <ClInclude Include="IMX_362.h" />
+    <ClInclude Include="IMX_363.h" />
+    <ClInclude Include="IMX_371.h" />
+    <ClInclude Include="IMX_376.h" />
+    <ClInclude Include="IMX_380.h" />
+    <ClInclude Include="IMX_386.h" />
+    <ClInclude Include="IMX_398.h" />
+    <ClInclude Include="IMX_476.h" />
+    <ClInclude Include="IMX_486.h" />
+    <ClInclude Include="IMX_498.h" />
+    <ClInclude Include="IMX_519.h" />
+    <ClInclude Include="IMX_550.h" />
+    <ClInclude Include="IMX_576.h" />
+    <ClInclude Include="IMX_600.h" />
+    <ClInclude Include="OV02A10.h" />
+    <ClInclude Include="OV08A10.h" />
+    <ClInclude Include="OV12870.h" />
+    <ClInclude Include="OV12A10.h" />
+    <ClInclude Include="OV13358.h" />
+    <ClInclude Include="OV13853.h" />
+    <ClInclude Include="OV13855.h" />
+    <ClInclude Include="OV13880.h" />
+    <ClInclude Include="OV13A40.h" />
+    <ClInclude Include="OV16880.h" />
+    <ClInclude Include="OV16885.h" />
+    <ClInclude Include="OV16B10.h" />
+    <ClInclude Include="OV20880.h" />
+    <ClInclude Include="OV24A1B.h" />
+    <ClInclude Include="OV5670.h" />
+    <ClInclude Include="OV5675.h" />
+    <ClInclude Include="OV5695.h" />
+    <ClInclude Include="OV8835.h" />
+    <ClInclude Include="OV8856.h" />
+    <ClInclude Include="OV8865.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="S5K2L7SA.h" />
+    <ClInclude Include="S5K2L8SX.h" />
+    <ClInclude Include="S5K2P7SX03_FGX9.h" />
+    <ClInclude Include="S5K2T7SP.h" />
+    <ClInclude Include="S5K2X7SP03.h" />
+    <ClInclude Include="S5K2X7SX.h" />
+    <ClInclude Include="S5K3L2.h" />
+    <ClInclude Include="S5K3L6XX03_FGX9.h" />
+    <ClInclude Include="S5K3L8XXM3_FGX9.h" />
+    <ClInclude Include="S5K3M2xxM3.h" />
+    <ClInclude Include="S5K3M3.h" />
+    <ClInclude Include="S5K3P3.h" />
+    <ClInclude Include="S5K3P3SP06.h" />
+    <ClInclude Include="S5K3P8SP03-FGX9.h" />
+    <ClInclude Include="S5K3P9SP04-FGX9.h" />
+    <ClInclude Include="S5K3T1.h" />
+    <ClInclude Include="S5K4H7YX.h" />
+    <ClInclude Include="S5K4H8_F1X9.h" />
+    <ClInclude Include="S5K5E2.h" />
+    <ClInclude Include="S5K5E8.h" />
+    <ClInclude Include="S5K5E9.h" />
+    <ClInclude Include="Sample.h" />
+    <ClInclude Include="SP2509.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AR1335.cpp" />
+    <ClCompile Include="GC2375.cpp" />
+    <ClCompile Include="GC5025.cpp" />
+    <ClCompile Include="GC5025A.cpp" />
+    <ClCompile Include="HI_1333.cpp" />
+    <ClCompile Include="HI_259.cpp" />
+    <ClCompile Include="HI_556.cpp" />
+    <ClCompile Include="HI_846.cpp" />
+    <ClCompile Include="ImgSensorLib.cpp" />
+    <ClCompile Include="IMX_214.cpp" />
+    <ClCompile Include="IMX_230.cpp" />
+    <ClCompile Include="IMX_258_0AQH5.cpp" />
+    <ClCompile Include="IMX_268.cpp" />
+    <ClCompile Include="IMX_278.cpp" />
+    <ClCompile Include="IMX_286.cpp" />
+    <ClCompile Include="IMX_298.cpp" />
+    <ClCompile Include="IMX_319.cpp" />
+    <ClCompile Include="IMX_350.cpp" />
+    <ClCompile Include="IMX_351.cpp" />
+    <ClCompile Include="IMX_355.cpp" />
+    <ClCompile Include="IMX_362.cpp" />
+    <ClCompile Include="IMX_363.cpp" />
+    <ClCompile Include="IMX_371.cpp" />
+    <ClCompile Include="IMX_376.cpp" />
+    <ClCompile Include="IMX_380.cpp" />
+    <ClCompile Include="IMX_386.cpp" />
+    <ClCompile Include="IMX_398.cpp" />
+    <ClCompile Include="IMX_476.cpp" />
+    <ClCompile Include="IMX_486.cpp" />
+    <ClCompile Include="IMX_498.cpp" />
+    <ClCompile Include="IMX_519.cpp" />
+    <ClCompile Include="IMX_550.cpp" />
+    <ClCompile Include="IMX_576.cpp" />
+    <ClCompile Include="IMX_600.cpp" />
+    <ClCompile Include="OV02A10.cpp" />
+    <ClCompile Include="OV08A10.cpp" />
+    <ClCompile Include="OV12870.cpp" />
+    <ClCompile Include="OV12A10.cpp" />
+    <ClCompile Include="OV13358.cpp" />
+    <ClCompile Include="OV13853.cpp" />
+    <ClCompile Include="OV13855.cpp" />
+    <ClCompile Include="OV13880.cpp" />
+    <ClCompile Include="OV13A40.cpp" />
+    <ClCompile Include="OV16880.cpp" />
+    <ClCompile Include="OV16885.cpp" />
+    <ClCompile Include="OV16B10.cpp" />
+    <ClCompile Include="OV20880.cpp" />
+    <ClCompile Include="OV24A1B.cpp" />
+    <ClCompile Include="OV5670.cpp" />
+    <ClCompile Include="OV5675.cpp" />
+    <ClCompile Include="OV5695.cpp" />
+    <ClCompile Include="OV8835.cpp" />
+    <ClCompile Include="OV8856.cpp" />
+    <ClCompile Include="OV8865.cpp" />
+    <ClCompile Include="S5K2L7SA.cpp" />
+    <ClCompile Include="S5K2L8SX.cpp" />
+    <ClCompile Include="S5K2P7SX03_FGX9.cpp" />
+    <ClCompile Include="S5K2T7SP.cpp" />
+    <ClCompile Include="S5K2X7SP03.cpp" />
+    <ClCompile Include="S5K2X7SX.cpp" />
+    <ClCompile Include="S5K3L2.cpp" />
+    <ClCompile Include="S5K3L6XX03_FGX9.cpp" />
+    <ClCompile Include="S5K3L8XXM3_FGX9.cpp" />
+    <ClCompile Include="S5K3M2xxM3.cpp" />
+    <ClCompile Include="S5K3M3.cpp" />
+    <ClCompile Include="S5K3P3.cpp" />
+    <ClCompile Include="S5K3P3SP06.cpp" />
+    <ClCompile Include="S5K3P8SP03-FGX9.cpp" />
+    <ClCompile Include="S5K3P9SP04-FGX9.cpp" />
+    <ClCompile Include="S5K3T1.cpp" />
+    <ClCompile Include="S5K4H7YX.cpp" />
+    <ClCompile Include="S5K4H8_F1X9.cpp" />
+    <ClCompile Include="S5K5E2.cpp" />
+    <ClCompile Include="S5K5E8.cpp" />
+    <ClCompile Include="S5K5E9.cpp" />
+    <ClCompile Include="Sample.cpp" />
+    <ClCompile Include="SP2509.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ImgSensorLib.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

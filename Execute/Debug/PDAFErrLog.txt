@@ -1,0 +1,26 @@
+[Mon Jan 09 14:52:38 2017][Quality] cross-talk verify fail. [max:7] Data: block1,36.651809,36.315944,37.638775,32.699973,33.842198,34.254256,36.094614,33.321402,
+[Mon Jan 09 14:52:54 2017][Quality] cross-talk verify fail. [max:7] Data: block1,36.887433,36.837170,37.618552,32.868190,34.175129,34.266435,36.322856,33.423152,
+[Mon Jan 09 14:53:35 2017][Quality] cross-talk verify fail. [max:7] Data: block1,36.851475,36.556320,37.461693,32.932446,34.013511,34.154262,36.232015,33.691403,
+[Mon Jan 09 14:54:00 2017][Quality] cross-talk verify fail. [max:7] Data: block1,37.212355,37.023836,37.657912,33.042070,34.403687,34.894081,36.397156,33.546604,
+[Mon Jan 09 14:54:54 2017][Quality] cross-talk verify fail. [max:7] Data: block1,37.119081,37.169060,37.572410,32.870406,34.378262,34.834531,36.378065,33.486913,
+[Mon Jan 09 17:17:20 2017][Quality] cross-talk verify fail. [max:7] Data: block1,91.616619,91.373977,56.510317,51.926318,87.694618,87.315459,52.052348,49.363302,
+[Mon Jan 09 17:17:20 2017][Quality] Sensitivity verify fail. [min:0.45] block4,0.336813,0.328162,
+[Mon Jan 09 17:17:21 2017][Quality] defect PD verify fail. adjacent PD count, L:10, R:18. 1x10 grid count, L:8, R:8.
+[Tue Jan 10 08:16:47 2017][Quality] cross-talk verify fail. [max:7] Data: block1,35.679556,35.611712,37.733805,32.089703,33.131806,34.069940,36.384337,32.985436,
+[Tue Jan 10 08:17:03 2017][Quality] cross-talk verify fail. [max:7] Data: block1,35.343077,35.244638,37.713465,31.895880,32.930838,33.900660,36.288518,32.985511,
+[Tue Jan 10 08:18:05 2017][Quality] cross-talk verify fail. [max:7] Data: block1,35.992697,35.899461,37.638524,32.103272,33.324624,34.133734,36.298350,32.943536,
+[Tue Jan 10 08:29:32 2017][Quality] cross-talk verify fail. [max:7] Data: block1,35.275287,35.330307,37.284752,31.791625,32.783578,33.758283,35.866671,32.569685,
+[Tue Jan 10 10:05:39 2017][Quality] cross-talk verify fail. [max:7] Data: block1,36.913741,36.718195,37.600490,32.613731,34.086759,34.991199,36.075785,33.457037,
+[Tue Jan 10 10:18:40 2017][Quality] defect PD verify fail. adjacent PD count, L:54, R:49. 1x10 grid count, L:268, R:145.
+[Tue Jan 10 10:30:22 2017][Quality] defect PD verify fail. adjacent PD count, L:65, R:44. 1x10 grid count, L:224, R:149.
+[Tue Jan 10 10:30:59 2017][Quality] defect PD verify fail. adjacent PD count, L:60, R:40. 1x10 grid count, L:232, R:120.
+[Tue Jan 10 10:33:58 2017][Quality] defect PD verify fail. adjacent PD count, L:67, R:50. 1x10 grid count, L:268, R:188.
+[Tue Jan 10 10:34:01 2017][Quality] defect PD verify fail. adjacent PD count, L:85, R:58. 1x10 grid count, L:276, R:179.
+[Tue Jan 10 10:34:03 2017][Quality] defect PD verify fail. adjacent PD count, L:67, R:56. 1x10 grid count, L:267, R:183.
+[Tue Jan 10 10:34:05 2017][Quality] defect PD verify fail. adjacent PD count, L:89, R:51. 1x10 grid count, L:294, R:178.
+[Tue Jan 10 10:34:08 2017][Quality] defect PD verify fail. adjacent PD count, L:75, R:45. 1x10 grid count, L:252, R:187.
+[Tue Jan 10 10:34:10 2017][Quality] defect PD verify fail. adjacent PD count, L:73, R:58. 1x10 grid count, L:269, R:185.
+[Tue Jan 10 10:34:13 2017][Quality] defect PD verify fail. adjacent PD count, L:94, R:52. 1x10 grid count, L:329, R:170.
+[Tue Jan 10 10:35:23 2017][Quality] defect PD verify fail. adjacent PD count, L:93, R:38. 1x10 grid count, L:303, R:154.
+[Tue Jan 10 10:37:50 2017][Quality] defect PD verify fail. adjacent PD count, L:58, R:43. 1x10 grid count, L:249, R:143.
+[Tue Jan 10 10:48:55 2017][Quality] defect PD verify fail. adjacent PD count, L:86, R:66. 1x10 grid count, L:287, R:203.

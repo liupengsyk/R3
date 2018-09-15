@@ -1,0 +1,120 @@
+﻿生成启动时间为 2017/11/30 10:53:23。
+     1>项目“E:\R3\MyProject\WBCheck\WBCheck\WBCheck.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\WBCheck.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\WBCheck.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\WBCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\WBCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp WBCheck.cpp WBCheck_TestItem.cpp
+         OptionDlg.cpp
+         WBCheck.cpp
+         WBCheck_TestItem.cpp
+     1>WBCheck_TestItem.cpp(431): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(432): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(433): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(435): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(436): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(437): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(441): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(442): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(443): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(445): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(446): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(447): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(451): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(452): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(453): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(455): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(456): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(457): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(488): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(489): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(490): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(492): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(493): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(494): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(498): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(499): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(500): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(502): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(503): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(504): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(508): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(509): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(510): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(512): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(513): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(514): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(634): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(635): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(636): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(637): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(649): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(650): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(654): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(655): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(659): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(660): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(670): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(671): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(672): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(754): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(755): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(756): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(757): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(774): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(775): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(776): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(780): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(781): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(782): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(786): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(787): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(788): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(798): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(799): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(800): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1015): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>WBCheck_TestItem.cpp(1025): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>WBCheck_TestItem.cpp(1035): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>WBCheck_TestItem.cpp(1119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1120): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1126): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1131): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>WBCheck_TestItem.cpp(1136): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\WBCheck.res" WBCheck.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AE\Release\WBCheck.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\WBCheck.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AE\Release\WBCheck.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AE\Release\WBCheck.lib" /MACHINE:X86 /DLL Release\WBCheck.res
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+         Release\WBCheck.obj
+         Release\WBCheck_TestItem.obj
+            正在创建库 E:\R3\MyProject\AE\Release\WBCheck.lib 和对象 E:\R3\MyProject\AE\Release\WBCheck.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\R3\MyProject\AE\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         WBCheck.vcxproj -> E:\R3\MyProject\AE\Release\WBCheck.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\MyProject\AE\Release\WBCheck.dll;#2" /manifest Release\WBCheck.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\R3\MyProject\AE\Release\WBCheck.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\WBCheck.unsuccessfulbuild”。
+         正在对“Release\WBCheck.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\WBCheck\WBCheck\WBCheck.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.11

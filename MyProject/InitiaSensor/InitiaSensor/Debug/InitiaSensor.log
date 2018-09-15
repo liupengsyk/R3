@@ -1,0 +1,50 @@
+﻿生成启动时间为 2018/1/6 9:35:16。
+     1>项目“E:\R3\MyProject\InitiaSensor\InitiaSensor\InitiaSensor.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\InitiaSensor.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\InitiaSensor.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\InitiaSensor.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt InitiaSensor.cpp InitiaSensor_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         InitiaSensor_TestItem.cpp
+         InitiaSensor.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\InitiaSensor.res" InitiaSensor.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\InitiaSensor.dll.embed.manifest.res" Debug\InitiaSensor_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\InitiaSensor.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.lib" /MACHINE:X86 /DLL Debug\InitiaSensor.res
+         Debug\InitiaSensor.dll.embed.manifest.res
+         Debug\InitiaSensor.obj
+         Debug\InitiaSensor_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.lib 和对象 E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\InitiaSensor\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\InitiaSensor.dll.embed.manifest" /manifest Debug\InitiaSensor.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\InitiaSensor.dll.embed.manifest.res" Debug\InitiaSensor_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\InitiaSensor.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.lib" /MACHINE:X86 /DLL Debug\InitiaSensor.res
+         Debug\InitiaSensor.dll.embed.manifest.res
+         Debug\InitiaSensor.obj
+         Debug\InitiaSensor_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.lib 和对象 E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\InitiaSensor\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         InitiaSensor.vcxproj -> E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.dll
+       PostBuildEvent:
+         copy "E:\R3\MyProject\InitiaSensor\Debug\InitiaSensor.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\InitiaSensor.unsuccessfulbuild”。
+         正在对“Debug\InitiaSensor.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\InitiaSensor\InitiaSensor\InitiaSensor.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.79

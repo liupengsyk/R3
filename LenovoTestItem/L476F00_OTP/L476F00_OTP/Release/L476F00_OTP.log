@@ -1,0 +1,42 @@
+﻿生成启动时间为 2018/5/8 19:54:11。
+     1>项目“F:\OHP0792\OTP Source\Moto\L476F00_OTP\L476F00_OTP\L476F00_OTP.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\L476F00_OTP.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\L476F00_OTP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt L476F00_OTP_TestItem.cpp
+         L476F00_OTP_TestItem.cpp
+     1>L476F00_OTP_TestItem.cpp(295): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>L476F00_OTP_TestItem.cpp(408): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>L476F00_OTP_TestItem.cpp(918): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>L476F00_OTP_TestItem.cpp(947): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>L476F00_OTP_TestItem.cpp(971): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\L476F00_OTP.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\L476F00_OTP.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\L476F00_OTP.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\L476F00_OTP.lib" /MACHINE:X86 /DLL Release\L476F00_OTP.res
+         Release\L476F00_OTP.obj
+         Release\L476F00_OTP_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\L476F00_OTP.lib 和对象 F:\OHP0792\MyProject\AE\Release\L476F00_OTP.exp
+         正在生成代码
+         已完成代码的生成
+         L476F00_OTP.vcxproj -> F:\OHP0792\MyProject\AE\Release\L476F00_OTP.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\L476F00_OTP.dll;#2" /manifest Release\L476F00_OTP.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\L476F00_OTP.dll" ..\..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\L476F00_OTP.unsuccessfulbuild”。
+         正在对“Release\L476F00_OTP.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\OTP Source\Moto\L476F00_OTP\L476F00_OTP\L476F00_OTP.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.14

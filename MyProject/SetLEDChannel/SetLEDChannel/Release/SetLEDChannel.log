@@ -1,0 +1,51 @@
+﻿生成启动时间为 2017/9/27 11:56:36。
+     1>项目“D:\R3\MyProject\SetLEDChannel\SetLEDChannel\SetLEDChannel.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\SetLEDChannel.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\SetLEDChannel.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\SetLEDChannel.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SetLEDChannel.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp SetLEDChannel.cpp SetLEDChannel_TestItem.cpp
+         OptionDlg.cpp
+         SetLEDChannel.cpp
+         SetLEDChannel_TestItem.cpp
+     1>SetLEDChannel_TestItem.cpp(512): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(513): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(514): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(515): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(549): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(550): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(551): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(552): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(586): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(587): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(588): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>SetLEDChannel_TestItem.cpp(589): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\SetLEDChannel.res" SetLEDChannel.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AE\Release\SetLEDChannel.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\SetLEDChannel.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AE\Release\SetLEDChannel.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AE\Release\SetLEDChannel.lib" /MACHINE:X86 /DLL Release\SetLEDChannel.res
+         Release\OptionDlg.obj
+         Release\SetLEDChannel.obj
+         Release\SetLEDChannel_TestItem.obj
+         Release\stdafx.obj
+            正在创建库 D:\R3\MyProject\AE\Release\SetLEDChannel.lib 和对象 D:\R3\MyProject\AE\Release\SetLEDChannel.exp
+         正在生成代码
+         已完成代码的生成
+         SetLEDChannel.vcxproj -> D:\R3\MyProject\AE\Release\SetLEDChannel.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AE\Release\SetLEDChannel.dll;#2" /manifest Release\SetLEDChannel.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AE\Release\SetLEDChannel.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\SetLEDChannel.unsuccessfulbuild”。
+         正在对“Release\SetLEDChannel.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\SetLEDChannel\SetLEDChannel\SetLEDChannel.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.20

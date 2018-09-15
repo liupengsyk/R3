@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MsgShow", "MsgShow\MsgShow.vcxproj", "{C4235963-D319-46FB-A972-9F29471BC530}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OtpCheck", "..\OtpCheck\OtpCheck\OtpCheck.vcxproj", "{5F7E340B-5C1A-4C53-9D55-BAB701BFC9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4235963-D319-46FB-A972-9F29471BC530}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4235963-D319-46FB-A972-9F29471BC530}.Debug|Win32.Build.0 = Debug|Win32
+		{C4235963-D319-46FB-A972-9F29471BC530}.Release|Win32.ActiveCfg = Release|Win32
+		{C4235963-D319-46FB-A972-9F29471BC530}.Release|Win32.Build.0 = Release|Win32
+		{5F7E340B-5C1A-4C53-9D55-BAB701BFC9AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F7E340B-5C1A-4C53-9D55-BAB701BFC9AA}.Debug|Win32.Build.0 = Debug|Win32
+		{5F7E340B-5C1A-4C53-9D55-BAB701BFC9AA}.Release|Win32.ActiveCfg = Release|Win32
+		{5F7E340B-5C1A-4C53-9D55-BAB701BFC9AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

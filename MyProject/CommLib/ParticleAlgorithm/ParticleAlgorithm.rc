@@ -1,0 +1,250 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\ParticleAlgorithm.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 4,0,0,3
+ PRODUCTVERSION 4,0,0,3
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "For Dual Camera\0"
+            VALUE "FileVersion", "4, 0, 0, 3\0"
+            VALUE "InternalName", "ParticleAlgorithm\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2015\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "ParticleAlgorithm.DLL\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "ParticleAlgorithm Dynamic Link Library\0"
+            VALUE "ProductVersion", "4, 0, 0, 3\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PODSPECDLG_DIALOG DIALOGEX 0, 0, 404, 252
+STYLE WS_CHILD
+FONT 10, "System", 0, 0, 0x1
+BEGIN
+    LTEXT           "Left Shield Lines",IDC_STATIC,6,19,56,8
+    EDITTEXT        IDC_LEFT,69,19,21,12,ES_AUTOHSCROLL
+    LTEXT           "Right Shield Lines",IDC_STATIC,91,19,65,11
+    EDITTEXT        IDC_RIGHT,157,19,19,12,ES_AUTOHSCROLL
+    LTEXT           "Top Shield Lines",IDC_STATIC,6,32,56,8
+    EDITTEXT        IDC_TOP,69,32,21,12,ES_AUTOHSCROLL
+    LTEXT           "Bottom Shield Lines",IDC_STATIC,91,32,66,11
+    EDITTEXT        IDC_BOTTOM,157,32,19,12,ES_AUTOHSCROLL
+    LTEXT           "WLeft Shield Lines",IDC_STATIC,6,45,63,11
+    EDITTEXT        IDC_WoundLEFT,69,45,21,12,ES_AUTOHSCROLL
+    LTEXT           "WRight Shield Lines",IDC_STATIC,6,72,67,11
+    EDITTEXT        IDC_WoundRIGHT,80,71,21,12,ES_AUTOHSCROLL
+    LTEXT           "Area Define:",IDC_STATIC,8,98,51,11
+    EDITTEXT        IDC_EDIT_AREAWIDTH,80,98,21,12,ES_AUTOHSCROLL
+    LTEXT           " SmallArea Define:",IDC_STATIC,5,112,62,11
+    EDITTEXT        IDC_EDIT_SAREAWIDTH,80,112,21,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_AREAHEIGHT,117,98,21,12,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,102,98,11,10
+    EDITTEXT        IDC_EDIT_SAREAHEIGHT,117,112,21,12,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,102,112,11,10
+    CONTROL         "DeadUseUnit",IDC_USERAW,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,8,124,67,14
+    CONTROL         "Dead_Enable",IDC_DeadEn,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,8,137,67,14
+    CONTROL         "Wound_Enable",IDC_WoundEn,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,74,137,67,14
+    CONTROL         "WoundUseUnit",IDC_USERAW2,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,74,125,67,14
+    CONTROL         "UseLog",IDC_USELOG,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,9,180,67,12
+    LTEXT           "DeadType",IDC_STATIC,7,152,34,11
+    EDITTEXT        IDC_ClusterType,43,151,20,12,ES_AUTOHSCROLL
+    LTEXT           "WoundSpc_edge",IDC_STATIC,66,152,58,11
+    EDITTEXT        IDC_WoundSpec150_200,130,151,21,12,ES_AUTOHSCROLL
+    LTEXT           "WoundSpec_center",IDC_STATIC,66,165,63,11
+    EDITTEXT        IDC_WoundSpec_200,130,165,21,12,ES_AUTOHSCROLL
+    LTEXT           "DeadSpc",IDC_STATIC,7,166,32,11
+    EDITTEXT        IDC_DeadSpec,42,165,21,12,ES_AUTOHSCROLL
+    LTEXT           "WTop Shield Lines",IDC_STATIC,6,58,63,11
+    EDITTEXT        IDC_WoundTOP,69,58,21,12,ES_AUTOHSCROLL
+    LTEXT           "WBottom Shield Lines",IDC_STATIC,6,85,73,11
+    EDITTEXT        IDC_WoundBOTTOM,80,85,21,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "保存",IDC_BUTTON1,267,196,48,17,0,WS_EX_DLGMODALFRAME
+    GROUPBOX        "Cam0 Spc",IDC_STATIC,3,7,177,188
+    LTEXT           "Left Shield Lines",IDC_STATIC,185,18,55,11
+    EDITTEXT        IDC_LEFT2,250,18,21,12,ES_AUTOHSCROLL
+    LTEXT           "Right Shield Lines",IDC_STATIC,272,18,60,11
+    EDITTEXT        IDC_RIGHT2,339,17,21,12,ES_AUTOHSCROLL
+    LTEXT           "Top Shield Lines",IDC_STATIC,185,31,57,11
+    EDITTEXT        IDC_TOP2,250,31,21,12,ES_AUTOHSCROLL
+    LTEXT           "Bottom Shield Lines",IDC_STATIC,272,31,66,11
+    EDITTEXT        IDC_BOTTOM2,339,30,21,12,ES_AUTOHSCROLL
+    LTEXT           "WLeft Shield Lines",IDC_STATIC,185,44,63,11
+    EDITTEXT        IDC_WoundLEFT2,250,44,21,12,ES_AUTOHSCROLL
+    LTEXT           "WRight Shield Lines",IDC_STATIC,185,70,67,11
+    EDITTEXT        IDC_WoundRIGHT2,260,70,21,12,ES_AUTOHSCROLL
+    LTEXT           "Area Define:",IDC_STATIC,188,96,43,11
+    EDITTEXT        IDC_EDIT_AREAWIDTH2,260,96,21,12,ES_AUTOHSCROLL
+    LTEXT           " SmallArea Define:",IDC_STATIC,186,109,61,11
+    EDITTEXT        IDC_EDIT_SAREAWIDTH2,260,109,21,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_AREAHEIGHT2,301,96,21,12,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,285,97,11,10
+    EDITTEXT        IDC_EDIT_SAREAHEIGHT2,301,109,21,12,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,285,110,11,10
+    CONTROL         "DeadUseUnit",IDC_USERAW3,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,191,123,67,14
+    CONTROL         "Dead_Enable",IDC_DeadEn2,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,191,135,67,14
+    CONTROL         "Wound_Enable",IDC_WoundEn2,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,261,135,67,14
+    CONTROL         "WoundUseUnit",IDC_USERAW4,"Button",BS_AUTOCHECKBOX | 
+                    WS_DISABLED | WS_TABSTOP,261,122,67,14
+    CONTROL         "UseLog",IDC_USELOG2,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,191,177,67,14
+    LTEXT           "DeadType",IDC_STATIC,190,149,38,11
+    EDITTEXT        IDC_ClusterType2,230,148,20,12,ES_AUTOHSCROLL
+    LTEXT           "WoundSpc_edge",IDC_STATIC,259,149,58,11
+    EDITTEXT        IDC_WoundSpec150_201,332,149,21,12,ES_AUTOHSCROLL
+    LTEXT           "WoundSpec_center",IDC_STATIC,259,164,68,11
+    EDITTEXT        IDC_WoundSpec_201,332,164,21,12,ES_AUTOHSCROLL
+    LTEXT           "DeadSpc",IDC_STATIC,190,164,33,11
+    EDITTEXT        IDC_DeadSpec2,229,163,21,12,ES_AUTOHSCROLL
+    LTEXT           "WTop Shield Lines",IDC_STATIC,185,57,63,11
+    EDITTEXT        IDC_WoundTOP2,250,57,21,12,ES_AUTOHSCROLL
+    LTEXT           "WBottom Shield Lines",IDC_STATIC,185,83,73,11
+    EDITTEXT        IDC_WoundBOTTOM2,260,83,21,12,ES_AUTOHSCROLL
+    GROUPBOX        "Cam1 Spc",IDC_STATIC,182,7,182,188
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_PODSPECDLG_DIALOG, DIALOG
+    BEGIN
+        RIGHTMARGIN, 399
+        TOPMARGIN, 4
+        BOTTOMMARGIN, 250
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\ParticleAlgorithm.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

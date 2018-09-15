@@ -1,0 +1,22 @@
+[MESSetting]
+LineNoPos=OPPO 专线
+StaionNoPos=绑定+OTP
+LineNo=8
+StaionNo=47
+WindowLeft=408
+WindowTop=156
+ServerNo=1
+UseBarcode=1
+StationRouteID=1
+ModuleNoPos=OGP0628
+[StationInfo]
+Station[0].Name=绑定+OTP
+Station[0].RouteID=47
+Station[0].IsMust=1
+Station[1].Name=终检
+Station[1].RouteID=13
+Station[1].IsMust=1
+Station[2].Name=FQC
+Station[2].RouteID=14
+Station[2].IsMust=0
+RouteNum=3

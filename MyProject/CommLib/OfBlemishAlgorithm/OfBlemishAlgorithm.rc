@@ -1,0 +1,209 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\OfBlemishAlgorithm.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 3,0,0,2
+ PRODUCTVERSION 3,0,0,2
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "For Dual Camera\0"
+            VALUE "CompanyName", "OFilm-Tech of NanChang\0"
+            VALUE "FileDescription", " for dual camera\0"
+            VALUE "FileVersion", "3, 0, 0, 2\0"
+            VALUE "InternalName", "OfBlemishAlgorithm\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2015\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "OfBlemishAlgorithm.DLL\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "OfBlemishAlgorithm Dynamic Link Library\0"
+            VALUE "ProductVersion", "3, 0, 0, 2\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_BLEMISH_DLG DIALOG DISCARDABLE  0, 0, 349, 254
+STYLE WS_CHILD
+FONT 10, "System"
+BEGIN
+    CONTROL         "SaveImage",IDC_SAVEIMAGE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,12,144,48,12
+    CONTROL         "SaveLog",IDC_SAVELOG,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,12,159,41,12
+    RTEXT           "MedianA:",IDC_STATIC,12,18,30,10
+    GROUPBOX        "Cam0 Spec",IDC_STATIC,6,4,154,125
+    EDITTEXT        IDC_MEDIANA,47,17,24,13,ES_AUTOHSCROLL
+    RTEXT           "MedianB:",IDC_STATIC,13,34,30,10
+    EDITTEXT        IDC_MEDIANB,47,33,24,13,ES_AUTOHSCROLL
+    RTEXT           "Threshold:",IDC_STATIC,81,18,40,10
+    EDITTEXT        IDC_THRESHOLD,131,17,24,13,ES_AUTOHSCROLL
+    RTEXT           "Pixel Limit:",IDC_STATIC,80,35,40,10
+    EDITTEXT        IDC_PIXELLIMIT,131,33,24,13,ES_AUTOHSCROLL
+    PUSHBUTTON      "保存",IDC_BUTTON1,85,136,70,19,BS_FLAT
+    RTEXT           "AXStart:",IDC_STATIC,14,50,28,10
+    EDITTEXT        IDC_AXSTART,46,49,24,13,ES_AUTOHSCROLL
+    RTEXT           "AYStart:",IDC_STATIC,14,66,27,10
+    EDITTEXT        IDC_AYSTART,46,65,24,13,ES_AUTOHSCROLL
+    RTEXT           "AXEnd:",IDC_STATIC,80,50,40,10
+    EDITTEXT        IDC_AXEND,131,49,24,13,ES_AUTOHSCROLL
+    RTEXT           "AYEnd:",IDC_STATIC,80,66,40,10
+    EDITTEXT        IDC_AYEND,131,65,24,13,ES_AUTOHSCROLL
+    RTEXT           "Offset",IDC_STATIC,13,82,25,10
+    EDITTEXT        IDC_OFFSET,47,81,24,13,ES_AUTOHSCROLL
+    RTEXT           "intensity",IDC_STATIC,81,81,40,10
+    EDITTEXT        IDC_INTENSITY,131,80,24,13,ES_AUTOHSCROLL
+    RTEXT           "CornerDiff",IDC_STATIC,9,97,32,10
+    EDITTEXT        IDC_CORNERDIFF,47,96,24,13,ES_AUTOHSCROLL
+    RTEXT           "RangeSpc",IDC_STATIC,81,97,40,10
+    EDITTEXT        IDC_RANGESPC,131,95,24,13,ES_AUTOHSCROLL
+    RTEXT           "EdgeLimit",IDC_STATIC,9,113,33,10
+    EDITTEXT        IDC_EDGELIMIT,47,111,24,13,ES_AUTOHSCROLL
+    RTEXT           "EdgePixelLimit",IDC_STATIC,75,113,48,10
+    EDITTEXT        IDC_EDGEPIXELLIMIT,131,110,24,13,ES_AUTOHSCROLL
+    RTEXT           "MedianA:",IDC_STATIC,170,17,30,10
+    GROUPBOX        "Cam1 Spec",IDC_STATIC,164,4,154,124
+    EDITTEXT        IDC_MEDIANA2,205,15,24,13,ES_AUTOHSCROLL
+    RTEXT           "MedianB:",IDC_STATIC,171,31,30,10
+    EDITTEXT        IDC_MEDIANB2,205,30,24,13,ES_AUTOHSCROLL
+    RTEXT           "Threshold:",IDC_STATIC,239,16,40,10
+    EDITTEXT        IDC_THRESHOLD2,288,15,24,13,ES_AUTOHSCROLL
+    RTEXT           "Pixel Limit:",IDC_STATIC,239,31,40,10
+    EDITTEXT        IDC_PIXELLIMIT2,288,30,24,13,ES_AUTOHSCROLL
+    RTEXT           "AXStart:",IDC_STATIC,172,47,28,10
+    EDITTEXT        IDC_AXSTART2,205,46,24,13,ES_AUTOHSCROLL
+    RTEXT           "AYStart:",IDC_STATIC,172,63,27,10
+    EDITTEXT        IDC_AYSTART2,204,62,24,13,ES_AUTOHSCROLL
+    RTEXT           "AXEnd:",IDC_STATIC,238,47,40,10
+    EDITTEXT        IDC_AXEND2,288,46,24,13,ES_AUTOHSCROLL
+    RTEXT           "AYEnd:",IDC_STATIC,238,63,40,10
+    EDITTEXT        IDC_AYEND2,288,62,24,13,ES_AUTOHSCROLL
+    RTEXT           "Offset",IDC_STATIC,171,79,25,10
+    EDITTEXT        IDC_OFFSET2,204,78,24,13,ES_AUTOHSCROLL
+    RTEXT           "intensity",IDC_STATIC,239,79,40,10
+    EDITTEXT        IDC_INTENSITY2,288,78,24,13,ES_AUTOHSCROLL
+    RTEXT           "CornerDiff",IDC_STATIC,167,94,32,10
+    EDITTEXT        IDC_CORNERDIFF2,204,93,24,13,ES_AUTOHSCROLL
+    RTEXT           "RangeSpc",IDC_STATIC,239,95,40,10
+    EDITTEXT        IDC_RANGESPC2,288,94,24,13,ES_AUTOHSCROLL
+    RTEXT           "EdgeLimit",IDC_STATIC,167,110,33,10
+    EDITTEXT        IDC_EDGELIMIT2,204,109,24,13,ES_AUTOHSCROLL
+    RTEXT           "EdgePixelLimit",IDC_STATIC,234,111,51,10
+    EDITTEXT        IDC_EDGEPIXELLIMIT2,288,110,24,13,ES_AUTOHSCROLL
+    GROUPBOX        "Save Log",IDC_STATIC,6,132,76,44
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\OfBlemishAlgorithm.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

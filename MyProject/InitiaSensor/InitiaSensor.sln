@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InitiaSensor", "InitiaSensor\InitiaSensor.vcxproj", "{03154F81-27D6-4BA2-8EEB-A3C830766D70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OFccmTest", "..\..\Main\OFccmTest\OFccmTest\OFccmTest.vcxproj", "{74CC0697-473B-44B4-9E72-1AEA39B48DDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MesCheck", "..\MesCheck\MesCheck\MesCheck.vcxproj", "{21C0F369-FEB9-469B-9696-AB90FA8372B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03154F81-27D6-4BA2-8EEB-A3C830766D70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03154F81-27D6-4BA2-8EEB-A3C830766D70}.Debug|Win32.Build.0 = Debug|Win32
+		{03154F81-27D6-4BA2-8EEB-A3C830766D70}.Release|Win32.ActiveCfg = Release|Win32
+		{03154F81-27D6-4BA2-8EEB-A3C830766D70}.Release|Win32.Build.0 = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.Build.0 = Release|Win32
+		{21C0F369-FEB9-469B-9696-AB90FA8372B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21C0F369-FEB9-469B-9696-AB90FA8372B3}.Debug|Win32.Build.0 = Debug|Win32
+		{21C0F369-FEB9-469B-9696-AB90FA8372B3}.Release|Win32.ActiveCfg = Release|Win32
+		{21C0F369-FEB9-469B-9696-AB90FA8372B3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

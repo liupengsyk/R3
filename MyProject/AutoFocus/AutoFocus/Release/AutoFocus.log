@@ -1,0 +1,54 @@
+﻿生成启动时间为 2018/5/29 14:08:18。
+     1>项目“E:\R3_NEW\MyProject\AutoFocus\AutoFocus\AutoFocus.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\AutoFocus.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\AutoFocus.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\R3\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\AutoFocus.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IE:\R3\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\AutoFocus.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AFCurve.cpp AutoFocus.cpp AutoFocusOptionDlg.cpp Inspection_AutoFocus.cpp
+         AFCurve.cpp
+         AutoFocus.cpp
+         AutoFocusOptionDlg.cpp
+         Inspection_AutoFocus.cpp
+     1>Inspection_AutoFocus.cpp(460): warning C4018: “<”: 有符号/无符号不匹配
+     1>Inspection_AutoFocus.cpp(755): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Inspection_AutoFocus.cpp(762): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_AutoFocus.cpp(1191): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>Inspection_AutoFocus.cpp(1192): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>Inspection_AutoFocus.cpp(1193): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>Inspection_AutoFocus.cpp(1196): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797) : 参见“swscanf”的声明
+     1>Inspection_AutoFocus.cpp(1550): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>Inspection_AutoFocus.cpp(1708): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\AutoFocus.res" AutoFocus.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:E:\R3\Lib\Release TestItemInterface.lib ImageProc.lib /DEF:".\AutoFocus.def" /MANIFEST /ManifestFile:"Release\AutoFocus.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.lib" /MACHINE:X86 /DLL Release\AutoFocus.res
+         Release\AFCurve.obj
+         Release\AutoFocus.obj
+         Release\AutoFocusOptionDlg.obj
+         Release\Inspection_AutoFocus.obj
+         Release\stdafx.obj
+            正在创建库 E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.lib 和对象 E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\R3_NEW\MyProject\AutoFocus\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\R3_NEW\MyProject\AutoFocus\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(ImageProc.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(ImageProc.obj)”或在“E:\R3_NEW\MyProject\AutoFocus\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ImageProc.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“imageproc.pdb”(使用“ImageProc.lib(stdafx.obj)”或在“E:\R3_NEW\MyProject\AutoFocus\Release\imageproc.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         AutoFocus.vcxproj -> E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3_NEW\MyProject\AutoFocus\Release\AutoFocus.dll;#2" /manifest Release\AutoFocus.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\AutoFocus.unsuccessfulbuild”。
+         正在对“Release\AutoFocus.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3_NEW\MyProject\AutoFocus\AutoFocus\AutoFocus.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.14

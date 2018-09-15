@@ -1,0 +1,40 @@
+﻿生成启动时间为 2018/1/15 20:04:03。
+     1>项目“E:\WystanSong\Dungui\Algorithm--O-film\POD\4.0.0.2\ParticleAlgorithm.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\ParticleAlgorithm.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _WINDLL /D _USRDLL /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\ParticleAlgorithm.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _WINDLL /D _USRDLL /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\ParticleAlgorithm.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt OfPODTest.cpp ParticleAlgorithm.cpp PODSpecDlg.cpp
+         PODSpecDlg.cpp
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\podspecdlg.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\podspecdlg.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         ParticleAlgorithm.cpp
+         OfPODTest.cpp
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(144): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(141): warning C4101: “i”: 未引用的局部变量
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(699): error C2065: “i”: 未声明的标识符
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(815): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(872): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(880): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(960): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(968): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(970): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(1508): warning C4273: “OFPODTest”: dll 链接不一致
+                 e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.h(34) : 参见“OFPODTest”的前一个定义
+     1>e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.cpp(1585): warning C4273: “ShowPODSpecDlg”: dll 链接不一致
+                 e:\wystansong\dungui\algorithm--o-film\pod\4.0.0.2\ofpodtest.h(33) : 参见“ShowPODSpecDlg”的前一个定义
+         正在生成代码...
+     1>已完成生成项目“E:\WystanSong\Dungui\Algorithm--O-film\POD\4.0.0.2\ParticleAlgorithm.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.94

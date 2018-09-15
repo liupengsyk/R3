@@ -1,0 +1,78 @@
+﻿生成启动时间为 2017/9/27 11:56:27。
+     1>项目“D:\R3\MyProject\SerialPortLED\SerialPortLED\SerialPortLED.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\SerialPortLED.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\SerialPortLED.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\SerialPortLED.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SerialPortLED.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SerialPortLED.cpp
+         SerialPortLED.cpp
+     1>SerialPortLED.cpp(19): warning C4273: “CSerialPortLED::CSerialPortLED”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(21) : 参见“{ctor}”的前一个定义
+     1>SerialPortLED.cpp(40): warning C4273: “CSerialPortLED::~CSerialPortLED”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(22) : 参见“{dtor}”的前一个定义
+     1>SerialPortLED.cpp(62): warning C4273: “CSerialPortLED::InitPort”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(24) : 参见“InitPort”的前一个定义
+     1>SerialPortLED.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>SerialPortLED.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>SerialPortLED.cpp(197): warning C4273: “CSerialPortLED::CommThread”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(40) : 参见“CommThread”的前一个定义
+     1>SerialPortLED.cpp(357): warning C4273: “CSerialPortLED::StartMonitoring”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(27) : 参见“StartMonitoring”的前一个定义
+     1>SerialPortLED.cpp(368): warning C4273: “CSerialPortLED::RestartMonitoring”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(28) : 参见“RestartMonitoring”的前一个定义
+     1>SerialPortLED.cpp(379): warning C4273: “CSerialPortLED::StopMonitoring”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(29) : 参见“StopMonitoring”的前一个定义
+     1>SerialPortLED.cpp(390): warning C4273: “CSerialPortLED::ProcessErrorMessage”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(39) : 参见“ProcessErrorMessage”的前一个定义
+     1>SerialPortLED.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>SerialPortLED.cpp(416): warning C4273: “CSerialPortLED::WriteChar”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(42) : 参见“WriteChar”的前一个定义
+     1>SerialPortLED.cpp(498): warning C4273: “CSerialPortLED::ReceiveChar”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(41) : 参见“ReceiveChar”的前一个定义
+     1>SerialPortLED.cpp(599): warning C4273: “CSerialPortLED::WriteToPort”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(35) : 参见“WriteToPort”的前一个定义
+     1>SerialPortLED.cpp(603): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+     1>SerialPortLED.cpp(613): warning C4273: “CSerialPortLED::WriteToPort”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(36) : 参见“WriteToPort”的前一个定义
+     1>SerialPortLED.cpp(631): warning C4273: “CSerialPortLED::GetDCB”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(33) : 参见“GetDCB”的前一个定义
+     1>SerialPortLED.cpp(639): warning C4273: “CSerialPortLED::GetCommEvents”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(32) : 参见“GetCommEvents”的前一个定义
+     1>SerialPortLED.cpp(647): warning C4273: “CSerialPortLED::GetWriteBufferSize”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(31) : 参见“GetWriteBufferSize”的前一个定义
+     1>SerialPortLED.cpp(652): warning C4273: “CSerialPortLED::GetPortNO”: dll 链接不一致
+                 d:\r3\myproject\serialportled\serialportled\SerialPortLED.h(23) : 参见“GetPortNO”的前一个定义
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\SerialPortLED.res" SerialPortLED.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AE\Release\SerialPortLED.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release /DEF:".\SerialPortLED.def" /MANIFEST /ManifestFile:"Release\SerialPortLED.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AE\Release\SerialPortLED.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AE\Release\SerialPortLED.lib" /MACHINE:X86 /DLL Release\SerialPortLED.res
+         Release\dllmain.obj
+         Release\SerialPortLED.obj
+         Release\stdafx.obj
+            正在创建库 D:\R3\MyProject\AE\Release\SerialPortLED.lib 和对象 D:\R3\MyProject\AE\Release\SerialPortLED.exp
+         正在生成代码
+         已完成代码的生成
+         SerialPortLED.vcxproj -> D:\R3\MyProject\AE\Release\SerialPortLED.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AE\Release\SerialPortLED.dll;#2" /manifest Release\SerialPortLED.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AE\Release\SerialPortLED.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\SerialPortLED.unsuccessfulbuild”。
+         正在对“Release\SerialPortLED.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\SerialPortLED\SerialPortLED\SerialPortLED.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.95

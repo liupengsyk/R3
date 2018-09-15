@@ -1,0 +1,9 @@
+; OfBlemishAlgorithm.def : Declares the module parameters for the DLL.
+
+LIBRARY      "OfBlemishAlgorithm"
+DESCRIPTION  'OfBlemishAlgorithm Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+	ShowBlemishSpecDlg @1
+	fnBlemishAlgorithm @2

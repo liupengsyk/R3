@@ -1,0 +1,50 @@
+﻿生成启动时间为 2016/8/31 17:56:04。
+     1>项目“E:\CCMSDK_1224\Z_SDK\MyProject\FPN\FPN\FPN.vcxproj”在节点 6 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\FPN.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FPN.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FPN_TestItem.cpp OptionDlg.cpp
+         FPN_TestItem.cpp
+     1>e:\ccmsdk_1224\z_sdk\myproject\fpn\fpn\fpntest.h(13): warning C4005: “MIN”: 宏重定义
+                 e:\ccmsdk_1224\z_sdk\include\lib_halcon\include\hmacro.h(642) : 参见“MIN”的前一个定义
+     1>e:\ccmsdk_1224\z_sdk\myproject\fpn\fpn\fpntest.h(14): warning C4005: “MAX”: 宏重定义
+                 e:\ccmsdk_1224\z_sdk\include\lib_halcon\include\hmacro.h(646) : 参见“MAX”的前一个定义
+     1>e:\ccmsdk_1224\z_sdk\myproject\fpn\fpn\fpntest.h(15): warning C4005: “ABS”: 宏重定义
+                 e:\ccmsdk_1224\z_sdk\include\lib_halcon\include\hmacro.h(555) : 参见“ABS”的前一个定义
+     1>e:\ccmsdk_1224\z_sdk\myproject\fpn\fpn\fpn_testitem.cpp(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\ccmsdk_1224\z_sdk\myproject\fpn\fpn\fpn_testitem.cpp(110): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         OptionDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\FPN.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.lib" /MACHINE:X86 /DLL Debug\FPN.res
+         Debug\FPN.dll.embed.manifest.res
+         Debug\FPN.obj
+         Debug\FPN_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.lib 和对象 E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4204: “E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FPN.dll.embed.manifest" /manifest Debug\FPN.dll.intermediate.manifest "d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         FPN.vcxproj -> E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.dll
+       PostBuildEvent:
+         copy "E:\CCMSDK_1224\Z_SDK\Main\OFccmTest\OFccmTest\Debug\FPN.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\FPN.unsuccessfulbuild”。
+         正在对“Debug\FPN.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\CCMSDK_1224\Z_SDK\MyProject\FPN\FPN\FPN.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:29.91

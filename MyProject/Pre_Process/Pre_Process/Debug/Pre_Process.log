@@ -1,0 +1,52 @@
+﻿生成启动时间为 2017/11/21 11:30:29。
+     1>项目“D:\WorkSpace\SDK\R3\MyProject\Pre_Process\Pre_Process\Pre_Process.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Pre_Process.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Pre_Process.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Pre_Process.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp Pre_Process.cpp Pre_Process_TestItem.cpp
+         Pre_Process_TestItem.cpp
+     1>d:\workspace\sdk\r3\myproject\pre_process\pre_process\pre_process_testitem.cpp(89): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\swprintf.inl(85) : 参见“swprintf”的声明
+         Pre_Process.cpp
+         OptionDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Pre_Process.res" Pre_Process.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Pre_Process.dll.embed.manifest.res" Debug\Pre_Process_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\Pre_Process.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.lib" /MACHINE:X86 /DLL Debug\Pre_Process.res
+         Debug\Pre_Process.dll.embed.manifest.res
+         Debug\OptionDlg.obj
+         Debug\Pre_Process.obj
+         Debug\Pre_Process_TestItem.obj
+         Debug\stdafx.obj
+            正在创建库 D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.lib 和对象 D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Pre_Process.dll.embed.manifest" /manifest Debug\Pre_Process.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Pre_Process.dll.embed.manifest.res" Debug\Pre_Process_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\Pre_Process.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.lib" /MACHINE:X86 /DLL Debug\Pre_Process.res
+         Debug\Pre_Process.dll.embed.manifest.res
+         Debug\OptionDlg.obj
+         Debug\Pre_Process.obj
+         Debug\Pre_Process_TestItem.obj
+         Debug\stdafx.obj
+            正在创建库 D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.lib 和对象 D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         Pre_Process.vcxproj -> D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.dll
+       PostBuildEvent:
+         copy "D:\WorkSpace\SDK\R3\MyProject\MTKStep1-3.0.1.0322\Debug\Pre_Process.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Pre_Process.unsuccessfulbuild”。
+         正在对“Debug\Pre_Process.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\WorkSpace\SDK\R3\MyProject\Pre_Process\Pre_Process\Pre_Process.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.83

@@ -1,0 +1,5 @@
+[2015:10:27,17:15:38]-CHS300D::CloseVideo Error£ºFX2WriteFPGAI2C ADDR_BUFF_CTRL failed for error code 0
+[2015:11:11,16:35:13]-CDTLC2::CloseVideo Error£ºWriteFpgaReg ADDR_BUFF_CTRL failed for error code -1104
+[2015:11:11,16:36:39]-CDTLC2::CloseVideo Error£ºWriteFpgaReg ADDR_BUFF_CTRL failed for error code -1104
+[2015:11:11,16:37:31]-CDTLC2::CloseVideo Error£ºWriteFpgaReg ADDR_BUFF_CTRL failed for error code -1104
+[2015:11:11,16:38:08]-CDTLC2::CloseVideo Error£ºWriteFpgaReg ADDR_BUFF_CTRL failed for error code -1104

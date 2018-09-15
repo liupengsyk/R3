@@ -1,0 +1,103 @@
+﻿生成启动时间为 2018/5/12 18:06:24。
+     1>项目“E:\LYC\R3\MyProject\GetDNPIndex_Moto\GetDNPIndex_Moto\GetDNPIndex_Moto.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\GetDNPIndex_Moto.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\GetDNPIndex_Moto.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\GetDNPIndex_Moto.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GetDNPIndex_Moto.cpp GetDNPIndex_Moto_TestItem.cpp OptionDlg.cpp
+         GetDNPIndex_Moto.cpp
+         GetDNPIndex_Moto_TestItem.cpp
+     1>GetDNPIndex_Moto_TestItem.cpp(955): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(956): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(957): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(958): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(960): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(961): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(962): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(963): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1027): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1028): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1029): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1103): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1104): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1105): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1106): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1139): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1140): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1141): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1164): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1165): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1166): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1167): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1168): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1169): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1170): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1325): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(1329): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(1330): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(1540): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1541): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1542): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1543): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1544): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1545): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1546): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1547): warning C4244: “=”: 从“double”转换到“USHORT”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1681): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1718): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1719): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(1746): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(1750): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(1751): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85) : 参见“swprintf”的声明
+     1>GetDNPIndex_Moto_TestItem.cpp(2141): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2143): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2145): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2147): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2184): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2616): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2617): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2622): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2623): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2627): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2628): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2632): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>GetDNPIndex_Moto_TestItem.cpp(2633): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         OptionDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\GetDNPIndex_Moto.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.lib" /MACHINE:X86 /DLL Release\GetDNPIndex_Moto.res
+         Release\GetDNPIndex_Moto.obj
+         Release\GetDNPIndex_Moto_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.lib 和对象 E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(TestItemInterface.obj)”或在“E:\LYC\R3\MyProject\AE_Moto\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface.lib(stdafx.obj)”或在“E:\LYC\R3\MyProject\AE_Moto\Release\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         GetDNPIndex_Moto.vcxproj -> E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.dll;#2" /manifest Release\GetDNPIndex_Moto.dll.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\LYC\R3\MyProject\AE_Moto\Release\GetDNPIndex_Moto.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\GetDNPIndex_Moto.unsuccessfulbuild”。
+         正在对“Release\GetDNPIndex_Moto.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\LYC\R3\MyProject\GetDNPIndex_Moto\GetDNPIndex_Moto\GetDNPIndex_Moto.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.14

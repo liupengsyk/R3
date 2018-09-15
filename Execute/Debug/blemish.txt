@@ -1,0 +1,2916 @@
+Inner 27.671429, Outer 32.389999
+Inner 22.185715, Outer 26.730000
+Inner 20.100000, Outer 24.500000
+Inner 26.385714, Outer 30.803333
+MaxDiff 4.718571
+Inner 34.142857, Outer 37.456665
+Inner 33.900002, Outer 37.573334
+Inner 22.328571, Outer 25.596666
+Inner 13.400000, Outer 21.213333
+MaxDiff 7.813334
+POG Position(35, 140), PixelCount(725), Intensity(4754)
+POG Position(36, 139), PixelCount(712), Intensity(4644)
+Inner 16.928572, Outer 20.326666
+Inner 18.214285, Outer 22.036667
+Inner 12.514286, Outer 16.393333
+Inner 10.700000, Outer 14.343333
+MaxDiff 3.879047
+Inner 15.971429, Outer 19.360001
+Inner 17.314285, Outer 21.053333
+Inner 11.871428, Outer 15.730000
+Inner 10.214286, Outer 13.843333
+MaxDiff 3.858571
+Inner 18.428572, Outer 21.666666
+Inner 19.671429, Outer 23.383333
+Inner 14.242857, Outer 18.063334
+Inner 12.557143, Outer 16.063334
+MaxDiff 3.820477
+Inner 15.485714, Outer 18.756666
+Inner 17.171429, Outer 20.966667
+Inner 12.042857, Outer 15.903334
+Inner 10.000000, Outer 13.733334
+MaxDiff 3.860476
+Inner 19.171429, Outer 22.436666
+Inner 20.828571, Outer 24.533333
+Inner 15.842857, Outer 19.620001
+Inner 14.000000, Outer 17.559999
+MaxDiff 3.777143
+Inner 17.585714, Outer 20.933332
+Inner 18.671429, Outer 22.486666
+Inner 13.628572, Outer 17.446667
+Inner 12.214286, Outer 15.796667
+MaxDiff 3.818095
+Inner 15.900000, Outer 19.323334
+Inner 16.799999, Outer 20.513334
+Inner 11.657143, Outer 15.503333
+Inner 10.214286, Outer 13.920000
+MaxDiff 3.846190
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(183, 292), PixelCount(95), Intensity(190)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(137, 274), PixelCount(104), Intensity(208)
+POG Position(1, 20), PixelCount(7527), Intensity(15054)
+POG Position(318, 18), PixelCount(7695), Intensity(15390)
+POG Position(338, 136), PixelCount(41), Intensity(82)
+POG Position(336, 103), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(180, 11), PixelCount(77), Intensity(154)
+POG Position(180, 2), PixelCount(107), Intensity(214)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(183, 292), PixelCount(95), Intensity(190)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(137, 274), PixelCount(104), Intensity(208)
+POG Position(1, 20), PixelCount(7527), Intensity(15054)
+POG Position(318, 18), PixelCount(7695), Intensity(15390)
+POG Position(338, 136), PixelCount(41), Intensity(82)
+POG Position(336, 103), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(180, 11), PixelCount(77), Intensity(154)
+POG Position(180, 2), PixelCount(107), Intensity(214)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(183, 292), PixelCount(95), Intensity(190)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(137, 274), PixelCount(104), Intensity(208)
+POG Position(1, 20), PixelCount(7527), Intensity(15054)
+POG Position(318, 18), PixelCount(7695), Intensity(15390)
+POG Position(338, 136), PixelCount(41), Intensity(82)
+POG Position(336, 103), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(180, 11), PixelCount(77), Intensity(154)
+POG Position(180, 2), PixelCount(107), Intensity(214)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(183, 292), PixelCount(95), Intensity(190)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(137, 274), PixelCount(104), Intensity(208)
+POG Position(1, 20), PixelCount(7527), Intensity(15054)
+POG Position(318, 18), PixelCount(7695), Intensity(15390)
+POG Position(338, 136), PixelCount(41), Intensity(82)
+POG Position(336, 103), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(180, 11), PixelCount(77), Intensity(154)
+POG Position(180, 2), PixelCount(107), Intensity(214)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(183, 292), PixelCount(95), Intensity(190)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(137, 274), PixelCount(104), Intensity(208)
+POG Position(1, 20), PixelCount(7527), Intensity(15054)
+POG Position(318, 18), PixelCount(7695), Intensity(15390)
+POG Position(338, 136), PixelCount(41), Intensity(82)
+POG Position(336, 103), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(180, 11), PixelCount(77), Intensity(154)
+POG Position(180, 2), PixelCount(107), Intensity(214)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(183, 292), PixelCount(95), Intensity(95)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(137, 274), PixelCount(104), Intensity(104)
+POG Position(1, 20), PixelCount(7527), Intensity(7527)
+POG Position(318, 18), PixelCount(7695), Intensity(7695)
+POG Position(338, 136), PixelCount(41), Intensity(41)
+POG Position(336, 103), PixelCount(40), Intensity(40)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(180, 11), PixelCount(77), Intensity(77)
+POG Position(180, 2), PixelCount(107), Intensity(107)
+Inner 15.428572, Outer 18.906666
+Inner 18.242857, Outer 21.916666
+Inner 12.000000, Outer 15.766666
+Inner 11.900000, Outer 15.653334
+MaxDiff 3.766666
+Inner 15.885715, Outer 19.486666
+Inner 18.900000, Outer 22.583334
+Inner 12.557143, Outer 16.296667
+Inner 12.242857, Outer 15.903334
+MaxDiff 3.739524
+Inner 15.242857, Outer 18.736666
+Inner 18.157143, Outer 21.926666
+Inner 11.900000, Outer 15.740000
+Inner 11.857142, Outer 15.436666
+MaxDiff 3.840000
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(185, 291), PixelCount(115), Intensity(230)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(140, 275), PixelCount(77), Intensity(154)
+POG Position(142, 271), PixelCount(44), Intensity(88)
+POG Position(1, 18), PixelCount(7471), Intensity(14942)
+POG Position(318, 19), PixelCount(7845), Intensity(15690)
+POG Position(322, 140), PixelCount(37), Intensity(74)
+POG Position(333, 97), PixelCount(53), Intensity(106)
+POG Position(317, 33), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(178, 10), PixelCount(86), Intensity(172)
+POG Position(182, 1), PixelCount(112), Intensity(224)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(185, 291), PixelCount(115), Intensity(230)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(140, 275), PixelCount(77), Intensity(154)
+POG Position(142, 271), PixelCount(44), Intensity(88)
+POG Position(1, 18), PixelCount(7471), Intensity(14942)
+POG Position(318, 19), PixelCount(7845), Intensity(15690)
+POG Position(322, 140), PixelCount(37), Intensity(74)
+POG Position(333, 97), PixelCount(53), Intensity(106)
+POG Position(317, 33), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(178, 10), PixelCount(86), Intensity(172)
+POG Position(182, 1), PixelCount(112), Intensity(224)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(185, 291), PixelCount(115), Intensity(230)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(140, 275), PixelCount(77), Intensity(154)
+POG Position(142, 271), PixelCount(44), Intensity(88)
+POG Position(1, 18), PixelCount(7471), Intensity(14942)
+POG Position(318, 19), PixelCount(7845), Intensity(15690)
+POG Position(322, 140), PixelCount(37), Intensity(74)
+POG Position(333, 97), PixelCount(53), Intensity(106)
+POG Position(317, 33), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(178, 10), PixelCount(86), Intensity(172)
+POG Position(182, 1), PixelCount(112), Intensity(224)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(185, 291), PixelCount(115), Intensity(230)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(140, 275), PixelCount(77), Intensity(154)
+POG Position(142, 271), PixelCount(44), Intensity(88)
+POG Position(1, 18), PixelCount(7471), Intensity(14942)
+POG Position(318, 19), PixelCount(7845), Intensity(15690)
+POG Position(322, 140), PixelCount(37), Intensity(74)
+POG Position(333, 97), PixelCount(53), Intensity(106)
+POG Position(317, 33), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(178, 10), PixelCount(86), Intensity(172)
+POG Position(182, 1), PixelCount(112), Intensity(224)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(185, 291), PixelCount(115), Intensity(230)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(140, 275), PixelCount(77), Intensity(154)
+POG Position(142, 271), PixelCount(44), Intensity(88)
+POG Position(1, 18), PixelCount(7471), Intensity(14942)
+POG Position(318, 19), PixelCount(7845), Intensity(15690)
+POG Position(322, 140), PixelCount(37), Intensity(74)
+POG Position(333, 97), PixelCount(53), Intensity(106)
+POG Position(317, 33), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(178, 10), PixelCount(86), Intensity(172)
+POG Position(182, 1), PixelCount(112), Intensity(224)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(185, 291), PixelCount(115), Intensity(115)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(140, 275), PixelCount(77), Intensity(77)
+POG Position(142, 271), PixelCount(44), Intensity(44)
+POG Position(1, 18), PixelCount(7471), Intensity(7471)
+POG Position(318, 19), PixelCount(7845), Intensity(7845)
+POG Position(322, 140), PixelCount(37), Intensity(37)
+POG Position(333, 97), PixelCount(53), Intensity(53)
+POG Position(317, 33), PixelCount(36), Intensity(36)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(178, 10), PixelCount(86), Intensity(86)
+POG Position(182, 1), PixelCount(112), Intensity(112)
+Inner 15.671429, Outer 19.336666
+Inner 18.500000, Outer 22.100000
+Inner 11.928572, Outer 15.760000
+Inner 11.942857, Outer 15.646667
+MaxDiff 3.831429
+Inner 15.385715, Outer 18.876667
+Inner 18.371429, Outer 21.993334
+Inner 12.028571, Outer 15.913333
+Inner 11.957143, Outer 15.663333
+MaxDiff 3.884762
+Inner 14.828571, Outer 18.233334
+Inner 21.428572, Outer 25.190001
+Inner 13.800000, Outer 17.610001
+Inner 10.314285, Outer 13.923333
+MaxDiff 3.810000
+Inner 15.342857, Outer 18.766666
+Inner 22.014286, Outer 25.696667
+Inner 14.485714, Outer 18.379999
+Inner 11.085714, Outer 14.683333
+MaxDiff 3.894285
+Inner 15.185715, Outer 18.613333
+Inner 21.885714, Outer 25.536667
+Inner 14.142858, Outer 17.990000
+Inner 10.914286, Outer 14.266666
+MaxDiff 3.847142
+Inner 15.742857, Outer 19.133333
+Inner 22.528572, Outer 26.299999
+Inner 15.085714, Outer 19.096666
+Inner 11.771428, Outer 15.416667
+MaxDiff 4.010952
+Inner 14.671429, Outer 18.120001
+Inner 21.200001, Outer 24.853333
+Inner 13.685715, Outer 17.583334
+Inner 10.314285, Outer 13.970000
+MaxDiff 3.897619
+Inner 15.300000, Outer 18.733334
+Inner 22.414286, Outer 26.033333
+Inner 14.685715, Outer 18.660000
+Inner 11.328571, Outer 14.766666
+MaxDiff 3.974285
+Inner 15.185715, Outer 18.709999
+Inner 21.900000, Outer 25.536667
+Inner 14.142858, Outer 17.996666
+Inner 10.857142, Outer 14.366667
+MaxDiff 3.853808
+Inner 14.828571, Outer 18.340000
+Inner 21.600000, Outer 25.183332
+Inner 14.128572, Outer 18.056667
+Inner 11.085714, Outer 14.626667
+MaxDiff 3.928096
+Inner 14.614285, Outer 18.016666
+Inner 21.628571, Outer 25.266666
+Inner 14.242857, Outer 18.139999
+Inner 10.885715, Outer 14.446667
+MaxDiff 3.897142
+Inner 14.557143, Outer 18.040001
+Inner 21.600000, Outer 25.256666
+Inner 14.142858, Outer 18.006666
+Inner 10.785714, Outer 14.340000
+MaxDiff 3.863809
+Inner 15.085714, Outer 18.606667
+Inner 21.928572, Outer 25.500000
+Inner 14.485714, Outer 18.326666
+Inner 11.428572, Outer 14.883333
+MaxDiff 3.840952
+Inner 18.200001, Outer 21.456667
+Inner 21.314285, Outer 24.926666
+Inner 10.814285, Outer 14.406667
+Inner 10.971429, Outer 14.410000
+MaxDiff 3.612381
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(182, 287), PixelCount(102), Intensity(204)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(313, 19), PixelCount(7673), Intensity(15346)
+POG Position(1, 20), PixelCount(9198), Intensity(18396)
+POG Position(53, 161), PixelCount(38), Intensity(76)
+POG Position(334, 133), PixelCount(114), Intensity(228)
+POG Position(60, 63), PixelCount(44), Intensity(88)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(182, 287), PixelCount(102), Intensity(204)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(313, 19), PixelCount(7673), Intensity(15346)
+POG Position(1, 20), PixelCount(9198), Intensity(18396)
+POG Position(53, 161), PixelCount(38), Intensity(76)
+POG Position(334, 133), PixelCount(114), Intensity(228)
+POG Position(60, 63), PixelCount(44), Intensity(88)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(182, 287), PixelCount(102), Intensity(204)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(313, 19), PixelCount(7673), Intensity(15346)
+POG Position(1, 20), PixelCount(9198), Intensity(18396)
+POG Position(53, 161), PixelCount(38), Intensity(76)
+POG Position(334, 133), PixelCount(114), Intensity(228)
+POG Position(60, 63), PixelCount(44), Intensity(88)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(182, 287), PixelCount(102), Intensity(204)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(313, 19), PixelCount(7673), Intensity(15346)
+POG Position(1, 20), PixelCount(9198), Intensity(18396)
+POG Position(53, 161), PixelCount(38), Intensity(76)
+POG Position(334, 133), PixelCount(114), Intensity(228)
+POG Position(60, 63), PixelCount(44), Intensity(88)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(182, 287), PixelCount(102), Intensity(204)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(313, 19), PixelCount(7673), Intensity(15346)
+POG Position(1, 20), PixelCount(9198), Intensity(18396)
+POG Position(53, 161), PixelCount(38), Intensity(76)
+POG Position(334, 133), PixelCount(114), Intensity(228)
+POG Position(60, 63), PixelCount(44), Intensity(88)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(182, 287), PixelCount(102), Intensity(102)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(313, 19), PixelCount(7673), Intensity(7673)
+POG Position(1, 20), PixelCount(9198), Intensity(9198)
+POG Position(53, 161), PixelCount(38), Intensity(38)
+POG Position(334, 133), PixelCount(114), Intensity(114)
+POG Position(60, 63), PixelCount(44), Intensity(44)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 12.042857, Outer 15.533334
+Inner 15.357142, Outer 19.176666
+Inner 16.371429, Outer 20.423334
+Inner 15.385715, Outer 19.186666
+MaxDiff 4.051905
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(295, 19), PixelCount(7661), Intensity(15322)
+POG Position(1, 20), PixelCount(9333), Intensity(18666)
+POG Position(87, 254), PixelCount(41), Intensity(82)
+POG Position(326, 165), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(295, 19), PixelCount(7661), Intensity(7661)
+POG Position(1, 20), PixelCount(9333), Intensity(9333)
+POG Position(87, 254), PixelCount(41), Intensity(41)
+POG Position(326, 165), PixelCount(48), Intensity(48)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 13.857142, Outer 17.293333
+Inner 17.142857, Outer 20.920000
+Inner 18.057142, Outer 21.933332
+Inner 16.971428, Outer 20.690001
+MaxDiff 3.876190
+Inner 11.757143, Outer 15.163333
+Inner 16.700001, Outer 20.573334
+Inner 17.457144, Outer 21.416666
+Inner 15.328571, Outer 19.080000
+MaxDiff 3.959522
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 294), PixelCount(36), Intensity(72)
+POG Position(213, 293), PixelCount(45), Intensity(90)
+POG Position(190, 278), PixelCount(46), Intensity(92)
+POG Position(290, 272), PixelCount(95), Intensity(190)
+POG Position(1, 21), PixelCount(8998), Intensity(17996)
+POG Position(310, 20), PixelCount(6733), Intensity(13466)
+POG Position(317, 265), PixelCount(43), Intensity(86)
+POG Position(343, 182), PixelCount(40), Intensity(80)
+POG Position(345, 171), PixelCount(91), Intensity(182)
+POG Position(343, 162), PixelCount(71), Intensity(142)
+POG Position(52, 160), PixelCount(44), Intensity(88)
+POG Position(332, 138), PixelCount(106), Intensity(212)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 1), PixelCount(40), Intensity(80)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 294), PixelCount(36), Intensity(72)
+POG Position(213, 293), PixelCount(45), Intensity(90)
+POG Position(190, 278), PixelCount(46), Intensity(92)
+POG Position(290, 272), PixelCount(95), Intensity(190)
+POG Position(1, 21), PixelCount(8998), Intensity(17996)
+POG Position(310, 20), PixelCount(6733), Intensity(13466)
+POG Position(317, 265), PixelCount(43), Intensity(86)
+POG Position(343, 182), PixelCount(40), Intensity(80)
+POG Position(345, 171), PixelCount(91), Intensity(182)
+POG Position(343, 162), PixelCount(71), Intensity(142)
+POG Position(52, 160), PixelCount(44), Intensity(88)
+POG Position(332, 138), PixelCount(106), Intensity(212)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 1), PixelCount(40), Intensity(80)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 294), PixelCount(36), Intensity(72)
+POG Position(213, 293), PixelCount(45), Intensity(90)
+POG Position(190, 278), PixelCount(46), Intensity(92)
+POG Position(290, 272), PixelCount(95), Intensity(190)
+POG Position(1, 21), PixelCount(8998), Intensity(17996)
+POG Position(310, 20), PixelCount(6733), Intensity(13466)
+POG Position(317, 265), PixelCount(43), Intensity(86)
+POG Position(343, 182), PixelCount(40), Intensity(80)
+POG Position(345, 171), PixelCount(91), Intensity(182)
+POG Position(343, 162), PixelCount(71), Intensity(142)
+POG Position(52, 160), PixelCount(44), Intensity(88)
+POG Position(332, 138), PixelCount(106), Intensity(212)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 1), PixelCount(40), Intensity(80)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 294), PixelCount(36), Intensity(72)
+POG Position(213, 293), PixelCount(45), Intensity(90)
+POG Position(190, 278), PixelCount(46), Intensity(92)
+POG Position(290, 272), PixelCount(95), Intensity(190)
+POG Position(1, 21), PixelCount(8998), Intensity(17996)
+POG Position(310, 20), PixelCount(6733), Intensity(13466)
+POG Position(317, 265), PixelCount(43), Intensity(86)
+POG Position(343, 182), PixelCount(40), Intensity(80)
+POG Position(345, 171), PixelCount(91), Intensity(182)
+POG Position(343, 162), PixelCount(71), Intensity(142)
+POG Position(52, 160), PixelCount(44), Intensity(88)
+POG Position(332, 138), PixelCount(106), Intensity(212)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 1), PixelCount(40), Intensity(80)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 294), PixelCount(36), Intensity(72)
+POG Position(213, 293), PixelCount(45), Intensity(90)
+POG Position(190, 278), PixelCount(46), Intensity(92)
+POG Position(290, 272), PixelCount(95), Intensity(190)
+POG Position(1, 21), PixelCount(8998), Intensity(17996)
+POG Position(310, 20), PixelCount(6733), Intensity(13466)
+POG Position(317, 265), PixelCount(43), Intensity(86)
+POG Position(343, 182), PixelCount(40), Intensity(80)
+POG Position(345, 171), PixelCount(91), Intensity(182)
+POG Position(343, 162), PixelCount(71), Intensity(142)
+POG Position(52, 160), PixelCount(44), Intensity(88)
+POG Position(332, 138), PixelCount(106), Intensity(212)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 1), PixelCount(40), Intensity(80)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(192, 294), PixelCount(36), Intensity(36)
+POG Position(213, 293), PixelCount(45), Intensity(45)
+POG Position(190, 278), PixelCount(46), Intensity(46)
+POG Position(290, 272), PixelCount(95), Intensity(95)
+POG Position(1, 21), PixelCount(8998), Intensity(8998)
+POG Position(310, 20), PixelCount(6733), Intensity(6733)
+POG Position(317, 265), PixelCount(43), Intensity(43)
+POG Position(343, 182), PixelCount(40), Intensity(40)
+POG Position(345, 171), PixelCount(91), Intensity(91)
+POG Position(343, 162), PixelCount(71), Intensity(71)
+POG Position(52, 160), PixelCount(44), Intensity(44)
+POG Position(332, 138), PixelCount(106), Intensity(106)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(192, 1), PixelCount(40), Intensity(40)
+Inner 12.257143, Outer 15.633333
+Inner 16.885714, Outer 20.566668
+Inner 19.242857, Outer 23.080000
+Inner 17.342857, Outer 21.160000
+MaxDiff 3.837143
+Inner 13.500000, Outer 16.886667
+Inner 16.214285, Outer 19.876667
+Inner 16.700001, Outer 20.646667
+Inner 16.171429, Outer 19.996666
+MaxDiff 3.946667
+Inner 11.885715, Outer 15.310000
+Inner 15.242857, Outer 18.886667
+Inner 14.957143, Outer 18.660000
+Inner 11.957143, Outer 15.616667
+MaxDiff 3.702857
+POG Position(297, 233), PixelCount(89), Intensity(178)
+Inner 12.585714, Outer 15.896667
+Inner 15.785714, Outer 19.330000
+Inner 14.985714, Outer 18.803333
+Inner 12.428572, Outer 15.986667
+MaxDiff 3.817619
+POG Position(296, 233), PixelCount(101), Intensity(202)
+Inner 12.957143, Outer 16.549999
+Inner 23.342857, Outer 27.120001
+Inner 26.700001, Outer 30.283333
+Inner 18.714285, Outer 22.233334
+MaxDiff 3.777143
+Inner 12.857142, Outer 16.423334
+Inner 23.428572, Outer 27.139999
+Inner 26.857143, Outer 30.563334
+Inner 18.828571, Outer 22.356667
+MaxDiff 3.711428
+Inner 11.428572, Outer 14.910000
+Inner 21.842857, Outer 25.616667
+Inner 25.871429, Outer 29.580000
+Inner 17.828571, Outer 21.389999
+MaxDiff 3.773809
+Inner 13.300000, Outer 16.950001
+Inner 23.542856, Outer 27.320000
+Inner 27.628571, Outer 31.330000
+Inner 19.685715, Outer 23.143333
+MaxDiff 3.777143
+Inner 12.585714, Outer 16.153334
+Inner 23.157143, Outer 26.993334
+Inner 27.057142, Outer 30.780001
+Inner 18.828571, Outer 22.290001
+MaxDiff 3.836191
+Inner 11.685715, Outer 15.270000
+Inner 22.357143, Outer 26.116667
+Inner 26.357143, Outer 30.026667
+Inner 18.000000, Outer 21.500000
+MaxDiff 3.759523
+Inner 13.200000, Outer 16.926666
+Inner 23.657143, Outer 27.430000
+Inner 27.914286, Outer 31.570000
+Inner 19.985714, Outer 23.363333
+MaxDiff 3.772858
+Inner 12.400000, Outer 15.813334
+Inner 22.214285, Outer 25.983334
+Inner 27.171429, Outer 30.840000
+Inner 19.342857, Outer 22.740000
+MaxDiff 3.769049
+Inner 12.185715, Outer 15.606667
+Inner 22.385714, Outer 26.170000
+Inner 27.514286, Outer 31.219999
+Inner 19.342857, Outer 22.700001
+MaxDiff 3.784286
+Inner 11.614285, Outer 15.066667
+Inner 21.742857, Outer 25.546667
+Inner 26.814285, Outer 30.356667
+Inner 18.542856, Outer 21.780001
+MaxDiff 3.803810
+Inner 11.685715, Outer 15.293333
+Inner 21.885714, Outer 25.763334
+Inner 27.314285, Outer 31.083334
+Inner 19.100000, Outer 22.190001
+MaxDiff 3.877621
+Inner 10.300000, Outer 13.653334
+Inner 17.457144, Outer 20.770000
+Inner 26.642857, Outer 29.580000
+Inner 15.585714, Outer 18.889999
+MaxDiff 3.353333
+Inner 9.557143, Outer 12.823334
+Inner 16.514286, Outer 19.883333
+Inner 25.885714, Outer 28.950001
+Inner 14.742857, Outer 18.086666
+MaxDiff 3.369047
+POG Position(46, 146), PixelCount(186), Intensity(1148)
+Inner 11.542857, Outer 15.096666
+Inner 23.928572, Outer 27.043333
+Inner 25.557142, Outer 28.186666
+Inner 17.214285, Outer 20.270000
+MaxDiff 3.553809
+Inner 10.142858, Outer 13.766666
+Inner 22.628571, Outer 25.730000
+Inner 24.299999, Outer 26.940001
+Inner 15.885715, Outer 18.873333
+MaxDiff 3.623809
+Inner 10.128572, Outer 13.776667
+Inner 22.657143, Outer 25.803333
+Inner 23.900000, Outer 26.526667
+Inner 15.685715, Outer 18.746666
+MaxDiff 3.648095
+Inner 9.285714, Outer 12.753333
+Inner 16.642857, Outer 20.043333
+Inner 27.528572, Outer 30.476667
+Inner 15.814285, Outer 19.446667
+MaxDiff 3.632381
+Inner 10.114285, Outer 13.553333
+Inner 17.642857, Outer 21.030001
+Inner 28.714285, Outer 31.786667
+Inner 16.614286, Outer 20.200001
+MaxDiff 3.585714
+Inner 9.900000, Outer 13.353333
+Inner 17.471428, Outer 20.816668
+Inner 28.057142, Outer 31.193333
+Inner 16.328571, Outer 19.879999
+MaxDiff 3.551428
+Inner 9.971429, Outer 13.346666
+Inner 17.257143, Outer 20.660000
+Inner 28.414286, Outer 31.466667
+Inner 16.700001, Outer 20.366667
+MaxDiff 3.666666
+Inner 10.814285, Outer 14.170000
+Inner 18.357143, Outer 21.680000
+Inner 29.200001, Outer 32.286667
+Inner 17.257143, Outer 20.760000
+MaxDiff 3.502857
+Inner 10.585714, Outer 14.030000
+Inner 17.257143, Outer 20.566668
+Inner 29.442858, Outer 32.596668
+Inner 19.928572, Outer 23.123333
+MaxDiff 3.444285
+Inner 10.042857, Outer 13.520000
+Inner 16.900000, Outer 20.076666
+Inner 29.571428, Outer 32.616665
+Inner 19.671429, Outer 22.786667
+MaxDiff 3.477143
+Inner 10.057143, Outer 13.606667
+Inner 17.971428, Outer 21.356667
+Inner 30.314285, Outer 33.570000
+Inner 19.957144, Outer 23.003334
+MaxDiff 3.549523
+Inner 10.228572, Outer 13.820000
+Inner 17.914286, Outer 21.433332
+Inner 29.985714, Outer 33.040001
+Inner 19.728571, Outer 22.843334
+MaxDiff 3.591428
+Inner 9.271428, Outer 12.893333
+Inner 17.228571, Outer 20.590000
+Inner 29.471428, Outer 32.630001
+Inner 19.171429, Outer 22.396667
+MaxDiff 3.621905
+Inner 10.742857, Outer 14.203333
+Inner 18.257143, Outer 21.580000
+Inner 31.142857, Outer 34.203335
+Inner 20.500000, Outer 23.923334
+MaxDiff 3.460476
+Inner 10.657143, Outer 14.280000
+Inner 18.799999, Outer 22.093334
+Inner 28.728571, Outer 31.626667
+Inner 19.285715, Outer 22.386667
+MaxDiff 3.622857
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(196, 289), PixelCount(38), Intensity(76)
+POG Position(316, 20), PixelCount(7751), Intensity(15502)
+POG Position(1, 22), PixelCount(7349), Intensity(14698)
+POG Position(320, 220), PixelCount(50), Intensity(100)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(196, 289), PixelCount(38), Intensity(76)
+POG Position(316, 20), PixelCount(7751), Intensity(15502)
+POG Position(1, 22), PixelCount(7349), Intensity(14698)
+POG Position(320, 220), PixelCount(50), Intensity(100)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(196, 289), PixelCount(38), Intensity(76)
+POG Position(316, 20), PixelCount(7751), Intensity(15502)
+POG Position(1, 22), PixelCount(7349), Intensity(14698)
+POG Position(320, 220), PixelCount(50), Intensity(100)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(196, 289), PixelCount(38), Intensity(76)
+POG Position(316, 20), PixelCount(7751), Intensity(15502)
+POG Position(1, 22), PixelCount(7349), Intensity(14698)
+POG Position(320, 220), PixelCount(50), Intensity(100)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(196, 289), PixelCount(38), Intensity(76)
+POG Position(316, 20), PixelCount(7751), Intensity(15502)
+POG Position(1, 22), PixelCount(7349), Intensity(14698)
+POG Position(320, 220), PixelCount(50), Intensity(100)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(196, 289), PixelCount(38), Intensity(38)
+POG Position(316, 20), PixelCount(7751), Intensity(7751)
+POG Position(1, 22), PixelCount(7349), Intensity(7349)
+POG Position(320, 220), PixelCount(50), Intensity(50)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 14.385715, Outer 18.400000
+Inner 17.257143, Outer 21.136667
+Inner 15.971429, Outer 20.043333
+Inner 11.971429, Outer 16.240000
+MaxDiff 4.268571
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 284), PixelCount(38), Intensity(76)
+POG Position(1, 22), PixelCount(6885), Intensity(13770)
+POG Position(320, 22), PixelCount(7737), Intensity(15474)
+POG Position(337, 197), PixelCount(37), Intensity(74)
+POG Position(332, 140), PixelCount(39), Intensity(78)
+POG Position(330, 128), PixelCount(68), Intensity(136)
+POG Position(52, 68), PixelCount(75), Intensity(150)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 284), PixelCount(38), Intensity(76)
+POG Position(1, 22), PixelCount(6885), Intensity(13770)
+POG Position(320, 22), PixelCount(7737), Intensity(15474)
+POG Position(337, 197), PixelCount(37), Intensity(74)
+POG Position(332, 140), PixelCount(39), Intensity(78)
+POG Position(330, 128), PixelCount(68), Intensity(136)
+POG Position(52, 68), PixelCount(75), Intensity(150)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 284), PixelCount(38), Intensity(76)
+POG Position(1, 22), PixelCount(6885), Intensity(13770)
+POG Position(320, 22), PixelCount(7737), Intensity(15474)
+POG Position(337, 197), PixelCount(37), Intensity(74)
+POG Position(332, 140), PixelCount(39), Intensity(78)
+POG Position(330, 128), PixelCount(68), Intensity(136)
+POG Position(52, 68), PixelCount(75), Intensity(150)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 284), PixelCount(38), Intensity(76)
+POG Position(1, 22), PixelCount(6885), Intensity(13770)
+POG Position(320, 22), PixelCount(7737), Intensity(15474)
+POG Position(337, 197), PixelCount(37), Intensity(74)
+POG Position(332, 140), PixelCount(39), Intensity(78)
+POG Position(330, 128), PixelCount(68), Intensity(136)
+POG Position(52, 68), PixelCount(75), Intensity(150)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(192, 284), PixelCount(38), Intensity(76)
+POG Position(1, 22), PixelCount(6885), Intensity(13770)
+POG Position(320, 22), PixelCount(7737), Intensity(15474)
+POG Position(337, 197), PixelCount(37), Intensity(74)
+POG Position(332, 140), PixelCount(39), Intensity(78)
+POG Position(330, 128), PixelCount(68), Intensity(136)
+POG Position(52, 68), PixelCount(75), Intensity(150)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(192, 284), PixelCount(38), Intensity(38)
+POG Position(1, 22), PixelCount(6885), Intensity(6885)
+POG Position(320, 22), PixelCount(7737), Intensity(7737)
+POG Position(337, 197), PixelCount(37), Intensity(37)
+POG Position(332, 140), PixelCount(39), Intensity(39)
+POG Position(330, 128), PixelCount(68), Intensity(68)
+POG Position(52, 68), PixelCount(75), Intensity(75)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 13.342857, Outer 17.500000
+Inner 14.885715, Outer 18.943333
+Inner 12.985714, Outer 17.076666
+Inner 11.071428, Outer 15.413333
+MaxDiff 4.341905
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 19), PixelCount(7277), Intensity(14554)
+POG Position(321, 22), PixelCount(7828), Intensity(15656)
+POG Position(70, 243), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 19), PixelCount(7277), Intensity(14554)
+POG Position(321, 22), PixelCount(7828), Intensity(15656)
+POG Position(70, 243), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 19), PixelCount(7277), Intensity(14554)
+POG Position(321, 22), PixelCount(7828), Intensity(15656)
+POG Position(70, 243), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 19), PixelCount(7277), Intensity(14554)
+POG Position(321, 22), PixelCount(7828), Intensity(15656)
+POG Position(70, 243), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 19), PixelCount(7277), Intensity(14554)
+POG Position(321, 22), PixelCount(7828), Intensity(15656)
+POG Position(70, 243), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(1, 19), PixelCount(7277), Intensity(7277)
+POG Position(321, 22), PixelCount(7828), Intensity(7828)
+POG Position(70, 243), PixelCount(37), Intensity(37)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 13.857142, Outer 17.809999
+Inner 15.857142, Outer 19.576666
+Inner 13.971429, Outer 17.883333
+Inner 11.414286, Outer 15.836667
+MaxDiff 4.422381
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(320, 20), PixelCount(7961), Intensity(15922)
+POG Position(1, 19), PixelCount(7259), Intensity(14518)
+POG Position(363, 140), PixelCount(63), Intensity(126)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(183, 7), PixelCount(41), Intensity(82)
+POG Position(188, 2), PixelCount(64), Intensity(128)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(320, 20), PixelCount(7961), Intensity(15922)
+POG Position(1, 19), PixelCount(7259), Intensity(14518)
+POG Position(363, 140), PixelCount(63), Intensity(126)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(183, 7), PixelCount(41), Intensity(82)
+POG Position(188, 2), PixelCount(64), Intensity(128)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(320, 20), PixelCount(7961), Intensity(15922)
+POG Position(1, 19), PixelCount(7259), Intensity(14518)
+POG Position(363, 140), PixelCount(63), Intensity(126)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(183, 7), PixelCount(41), Intensity(82)
+POG Position(188, 2), PixelCount(64), Intensity(128)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(320, 20), PixelCount(7961), Intensity(15922)
+POG Position(1, 19), PixelCount(7259), Intensity(14518)
+POG Position(363, 140), PixelCount(63), Intensity(126)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(183, 7), PixelCount(41), Intensity(82)
+POG Position(188, 2), PixelCount(64), Intensity(128)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(320, 20), PixelCount(7961), Intensity(15922)
+POG Position(1, 19), PixelCount(7259), Intensity(14518)
+POG Position(363, 140), PixelCount(63), Intensity(126)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(183, 7), PixelCount(41), Intensity(82)
+POG Position(188, 2), PixelCount(64), Intensity(128)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(320, 20), PixelCount(7961), Intensity(7961)
+POG Position(1, 19), PixelCount(7259), Intensity(7259)
+POG Position(363, 140), PixelCount(63), Intensity(63)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(183, 7), PixelCount(41), Intensity(41)
+POG Position(188, 2), PixelCount(64), Intensity(64)
+Inner 15.185715, Outer 19.146667
+Inner 16.085714, Outer 20.063334
+Inner 15.342857, Outer 19.353333
+Inner 13.957143, Outer 18.240000
+MaxDiff 4.282857
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(191, 286), PixelCount(36), Intensity(72)
+POG Position(1, 19), PixelCount(7099), Intensity(14198)
+POG Position(322, 22), PixelCount(7442), Intensity(14884)
+POG Position(71, 240), PixelCount(46), Intensity(92)
+POG Position(35, 162), PixelCount(86), Intensity(172)
+POG Position(398, 143), PixelCount(41), Intensity(82)
+POG Position(41, 123), PixelCount(40), Intensity(80)
+POG Position(331, 35), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(191, 286), PixelCount(36), Intensity(72)
+POG Position(1, 19), PixelCount(7099), Intensity(14198)
+POG Position(322, 22), PixelCount(7442), Intensity(14884)
+POG Position(71, 240), PixelCount(46), Intensity(92)
+POG Position(35, 162), PixelCount(86), Intensity(172)
+POG Position(398, 143), PixelCount(41), Intensity(82)
+POG Position(41, 123), PixelCount(40), Intensity(80)
+POG Position(331, 35), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(191, 286), PixelCount(36), Intensity(72)
+POG Position(1, 19), PixelCount(7099), Intensity(14198)
+POG Position(322, 22), PixelCount(7442), Intensity(14884)
+POG Position(71, 240), PixelCount(46), Intensity(92)
+POG Position(35, 162), PixelCount(86), Intensity(172)
+POG Position(398, 143), PixelCount(41), Intensity(82)
+POG Position(41, 123), PixelCount(40), Intensity(80)
+POG Position(331, 35), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(191, 286), PixelCount(36), Intensity(72)
+POG Position(1, 19), PixelCount(7099), Intensity(14198)
+POG Position(322, 22), PixelCount(7442), Intensity(14884)
+POG Position(71, 240), PixelCount(46), Intensity(92)
+POG Position(35, 162), PixelCount(86), Intensity(172)
+POG Position(398, 143), PixelCount(41), Intensity(82)
+POG Position(41, 123), PixelCount(40), Intensity(80)
+POG Position(331, 35), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(191, 286), PixelCount(36), Intensity(72)
+POG Position(1, 19), PixelCount(7099), Intensity(14198)
+POG Position(322, 22), PixelCount(7442), Intensity(14884)
+POG Position(71, 240), PixelCount(46), Intensity(92)
+POG Position(35, 162), PixelCount(86), Intensity(172)
+POG Position(398, 143), PixelCount(41), Intensity(82)
+POG Position(41, 123), PixelCount(40), Intensity(80)
+POG Position(331, 35), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(191, 286), PixelCount(36), Intensity(36)
+POG Position(1, 19), PixelCount(7099), Intensity(7099)
+POG Position(322, 22), PixelCount(7442), Intensity(7442)
+POG Position(71, 240), PixelCount(46), Intensity(46)
+POG Position(35, 162), PixelCount(86), Intensity(86)
+POG Position(398, 143), PixelCount(41), Intensity(41)
+POG Position(41, 123), PixelCount(40), Intensity(40)
+POG Position(331, 35), PixelCount(37), Intensity(37)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 14.257143, Outer 18.263334
+Inner 15.328571, Outer 19.073334
+Inner 14.228572, Outer 18.163334
+Inner 12.757143, Outer 17.056667
+MaxDiff 4.299524
+Inner 14.800000, Outer 18.776667
+Inner 15.557143, Outer 19.363333
+Inner 14.328571, Outer 18.100000
+Inner 12.185715, Outer 16.510000
+MaxDiff 4.324286
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(175, 294), PixelCount(49), Intensity(98)
+POG Position(192, 286), PixelCount(55), Intensity(110)
+POG Position(315, 17), PixelCount(7720), Intensity(15440)
+POG Position(1, 18), PixelCount(6843), Intensity(13686)
+POG Position(61, 209), PixelCount(50), Intensity(100)
+POG Position(350, 164), PixelCount(36), Intensity(72)
+POG Position(64, 137), PixelCount(49), Intensity(98)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(73, 22), PixelCount(49), Intensity(98)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(175, 294), PixelCount(49), Intensity(98)
+POG Position(192, 286), PixelCount(55), Intensity(110)
+POG Position(315, 17), PixelCount(7720), Intensity(15440)
+POG Position(1, 18), PixelCount(6843), Intensity(13686)
+POG Position(61, 209), PixelCount(50), Intensity(100)
+POG Position(350, 164), PixelCount(36), Intensity(72)
+POG Position(64, 137), PixelCount(49), Intensity(98)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(73, 22), PixelCount(49), Intensity(98)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(175, 294), PixelCount(49), Intensity(98)
+POG Position(192, 286), PixelCount(55), Intensity(110)
+POG Position(315, 17), PixelCount(7720), Intensity(15440)
+POG Position(1, 18), PixelCount(6843), Intensity(13686)
+POG Position(61, 209), PixelCount(50), Intensity(100)
+POG Position(350, 164), PixelCount(36), Intensity(72)
+POG Position(64, 137), PixelCount(49), Intensity(98)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(73, 22), PixelCount(49), Intensity(98)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(175, 294), PixelCount(49), Intensity(98)
+POG Position(192, 286), PixelCount(55), Intensity(110)
+POG Position(315, 17), PixelCount(7720), Intensity(15440)
+POG Position(1, 18), PixelCount(6843), Intensity(13686)
+POG Position(61, 209), PixelCount(50), Intensity(100)
+POG Position(350, 164), PixelCount(36), Intensity(72)
+POG Position(64, 137), PixelCount(49), Intensity(98)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(73, 22), PixelCount(49), Intensity(98)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(175, 294), PixelCount(49), Intensity(98)
+POG Position(192, 286), PixelCount(55), Intensity(110)
+POG Position(315, 17), PixelCount(7720), Intensity(15440)
+POG Position(1, 18), PixelCount(6843), Intensity(13686)
+POG Position(61, 209), PixelCount(50), Intensity(100)
+POG Position(350, 164), PixelCount(36), Intensity(72)
+POG Position(64, 137), PixelCount(49), Intensity(98)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(73, 22), PixelCount(49), Intensity(98)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(175, 294), PixelCount(49), Intensity(49)
+POG Position(192, 286), PixelCount(55), Intensity(55)
+POG Position(315, 17), PixelCount(7720), Intensity(7720)
+POG Position(1, 18), PixelCount(6843), Intensity(6843)
+POG Position(61, 209), PixelCount(50), Intensity(50)
+POG Position(350, 164), PixelCount(36), Intensity(36)
+POG Position(64, 137), PixelCount(49), Intensity(49)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(73, 22), PixelCount(49), Intensity(49)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 14.185715, Outer 18.216667
+Inner 14.742857, Outer 18.646667
+Inner 14.728572, Outer 18.493334
+Inner 13.000000, Outer 17.316668
+MaxDiff 4.316668
+Inner 14.528571, Outer 18.486666
+Inner 15.471429, Outer 19.313334
+Inner 13.985714, Outer 17.826666
+Inner 11.528571, Outer 15.906667
+MaxDiff 4.378096
+Inner 14.414286, Outer 18.350000
+Inner 14.171429, Outer 18.093334
+Inner 12.771428, Outer 16.799999
+Inner 11.842857, Outer 16.080000
+MaxDiff 4.237143
+Inner 14.500000, Outer 18.540001
+Inner 13.528571, Outer 17.420000
+Inner 12.542857, Outer 16.523333
+Inner 12.128572, Outer 16.583334
+MaxDiff 4.454762
+Inner 16.414286, Outer 20.400000
+Inner 15.785714, Outer 19.743334
+Inner 14.828571, Outer 18.750000
+Inner 13.900000, Outer 18.219999
+MaxDiff 4.320000
+Inner 18.157143, Outer 21.950001
+Inner 16.814285, Outer 20.663334
+Inner 14.957143, Outer 18.876667
+Inner 14.385715, Outer 18.496666
+MaxDiff 4.110951
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(186, 293), PixelCount(57), Intensity(114)
+POG Position(1, 19), PixelCount(7282), Intensity(14564)
+POG Position(305, 21), PixelCount(8040), Intensity(16080)
+POG Position(46, 170), PixelCount(36), Intensity(72)
+POG Position(47, 160), PixelCount(61), Intensity(122)
+POG Position(60, 139), PixelCount(55), Intensity(110)
+POG Position(332, 123), PixelCount(83), Intensity(166)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(186, 293), PixelCount(57), Intensity(114)
+POG Position(1, 19), PixelCount(7282), Intensity(14564)
+POG Position(305, 21), PixelCount(8040), Intensity(16080)
+POG Position(46, 170), PixelCount(36), Intensity(72)
+POG Position(47, 160), PixelCount(61), Intensity(122)
+POG Position(60, 139), PixelCount(55), Intensity(110)
+POG Position(332, 123), PixelCount(83), Intensity(166)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(186, 293), PixelCount(57), Intensity(114)
+POG Position(1, 19), PixelCount(7282), Intensity(14564)
+POG Position(305, 21), PixelCount(8040), Intensity(16080)
+POG Position(46, 170), PixelCount(36), Intensity(72)
+POG Position(47, 160), PixelCount(61), Intensity(122)
+POG Position(60, 139), PixelCount(55), Intensity(110)
+POG Position(332, 123), PixelCount(83), Intensity(166)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(186, 293), PixelCount(57), Intensity(114)
+POG Position(1, 19), PixelCount(7282), Intensity(14564)
+POG Position(305, 21), PixelCount(8040), Intensity(16080)
+POG Position(46, 170), PixelCount(36), Intensity(72)
+POG Position(47, 160), PixelCount(61), Intensity(122)
+POG Position(60, 139), PixelCount(55), Intensity(110)
+POG Position(332, 123), PixelCount(83), Intensity(166)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(186, 293), PixelCount(57), Intensity(114)
+POG Position(1, 19), PixelCount(7282), Intensity(14564)
+POG Position(305, 21), PixelCount(8040), Intensity(16080)
+POG Position(46, 170), PixelCount(36), Intensity(72)
+POG Position(47, 160), PixelCount(61), Intensity(122)
+POG Position(60, 139), PixelCount(55), Intensity(110)
+POG Position(332, 123), PixelCount(83), Intensity(166)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(186, 293), PixelCount(57), Intensity(57)
+POG Position(1, 19), PixelCount(7282), Intensity(7282)
+POG Position(305, 21), PixelCount(8040), Intensity(8040)
+POG Position(46, 170), PixelCount(36), Intensity(36)
+POG Position(47, 160), PixelCount(61), Intensity(61)
+POG Position(60, 139), PixelCount(55), Intensity(55)
+POG Position(332, 123), PixelCount(83), Intensity(83)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 17.428572, Outer 21.299999
+Inner 16.985714, Outer 20.930000
+Inner 14.485714, Outer 18.693333
+Inner 13.028571, Outer 17.453333
+MaxDiff 4.424762
+Inner 15.528571, Outer 19.623333
+Inner 15.242857, Outer 19.230000
+Inner 14.014286, Outer 18.173334
+Inner 12.300000, Outer 16.690001
+MaxDiff 4.390000
+Inner 16.671429, Outer 20.756666
+Inner 17.342857, Outer 21.139999
+Inner 15.928572, Outer 19.823334
+Inner 13.242857, Outer 17.476667
+MaxDiff 4.233810
+Inner 15.771428, Outer 19.793333
+Inner 16.057142, Outer 19.766666
+Inner 13.871428, Outer 17.953333
+Inner 11.671429, Outer 16.010000
+MaxDiff 4.338572
+Inner 14.300000, Outer 18.426666
+Inner 14.914286, Outer 18.903334
+Inner 13.128572, Outer 17.226667
+Inner 10.671429, Outer 15.126667
+MaxDiff 4.455238
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(190, 282), PixelCount(58), Intensity(116)
+POG Position(1, 20), PixelCount(7526), Intensity(15052)
+POG Position(318, 22), PixelCount(7767), Intensity(15534)
+POG Position(329, 160), PixelCount(36), Intensity(72)
+POG Position(60, 152), PixelCount(45), Intensity(90)
+POG Position(324, 133), PixelCount(141), Intensity(282)
+POG Position(38, 106), PixelCount(56), Intensity(112)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 1), PixelCount(53), Intensity(106)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(190, 282), PixelCount(58), Intensity(116)
+POG Position(1, 20), PixelCount(7526), Intensity(15052)
+POG Position(318, 22), PixelCount(7767), Intensity(15534)
+POG Position(329, 160), PixelCount(36), Intensity(72)
+POG Position(60, 152), PixelCount(45), Intensity(90)
+POG Position(324, 133), PixelCount(141), Intensity(282)
+POG Position(38, 106), PixelCount(56), Intensity(112)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 1), PixelCount(53), Intensity(106)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(190, 282), PixelCount(58), Intensity(116)
+POG Position(1, 20), PixelCount(7526), Intensity(15052)
+POG Position(318, 22), PixelCount(7767), Intensity(15534)
+POG Position(329, 160), PixelCount(36), Intensity(72)
+POG Position(60, 152), PixelCount(45), Intensity(90)
+POG Position(324, 133), PixelCount(141), Intensity(282)
+POG Position(38, 106), PixelCount(56), Intensity(112)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 1), PixelCount(53), Intensity(106)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(190, 282), PixelCount(58), Intensity(116)
+POG Position(1, 20), PixelCount(7526), Intensity(15052)
+POG Position(318, 22), PixelCount(7767), Intensity(15534)
+POG Position(329, 160), PixelCount(36), Intensity(72)
+POG Position(60, 152), PixelCount(45), Intensity(90)
+POG Position(324, 133), PixelCount(141), Intensity(282)
+POG Position(38, 106), PixelCount(56), Intensity(112)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 1), PixelCount(53), Intensity(106)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(190, 282), PixelCount(58), Intensity(116)
+POG Position(1, 20), PixelCount(7526), Intensity(15052)
+POG Position(318, 22), PixelCount(7767), Intensity(15534)
+POG Position(329, 160), PixelCount(36), Intensity(72)
+POG Position(60, 152), PixelCount(45), Intensity(90)
+POG Position(324, 133), PixelCount(141), Intensity(282)
+POG Position(38, 106), PixelCount(56), Intensity(112)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 1), PixelCount(53), Intensity(106)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(190, 282), PixelCount(58), Intensity(58)
+POG Position(1, 20), PixelCount(7526), Intensity(7526)
+POG Position(318, 22), PixelCount(7767), Intensity(7767)
+POG Position(329, 160), PixelCount(36), Intensity(36)
+POG Position(60, 152), PixelCount(45), Intensity(45)
+POG Position(324, 133), PixelCount(141), Intensity(141)
+POG Position(38, 106), PixelCount(56), Intensity(56)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(189, 1), PixelCount(53), Intensity(53)
+Inner 16.657143, Outer 20.583334
+Inner 17.285715, Outer 21.136667
+Inner 15.485714, Outer 19.510000
+Inner 13.085714, Outer 17.533333
+MaxDiff 4.447618
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(193, 286), PixelCount(69), Intensity(138)
+POG Position(321, 21), PixelCount(7714), Intensity(15428)
+POG Position(1, 21), PixelCount(7291), Intensity(14582)
+POG Position(335, 168), PixelCount(38), Intensity(76)
+POG Position(329, 133), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(184, 1), PixelCount(61), Intensity(122)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(193, 286), PixelCount(69), Intensity(138)
+POG Position(321, 21), PixelCount(7714), Intensity(15428)
+POG Position(1, 21), PixelCount(7291), Intensity(14582)
+POG Position(335, 168), PixelCount(38), Intensity(76)
+POG Position(329, 133), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(184, 1), PixelCount(61), Intensity(122)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(193, 286), PixelCount(69), Intensity(138)
+POG Position(321, 21), PixelCount(7714), Intensity(15428)
+POG Position(1, 21), PixelCount(7291), Intensity(14582)
+POG Position(335, 168), PixelCount(38), Intensity(76)
+POG Position(329, 133), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(184, 1), PixelCount(61), Intensity(122)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(193, 286), PixelCount(69), Intensity(138)
+POG Position(321, 21), PixelCount(7714), Intensity(15428)
+POG Position(1, 21), PixelCount(7291), Intensity(14582)
+POG Position(335, 168), PixelCount(38), Intensity(76)
+POG Position(329, 133), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(184, 1), PixelCount(61), Intensity(122)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(193, 286), PixelCount(69), Intensity(138)
+POG Position(321, 21), PixelCount(7714), Intensity(15428)
+POG Position(1, 21), PixelCount(7291), Intensity(14582)
+POG Position(335, 168), PixelCount(38), Intensity(76)
+POG Position(329, 133), PixelCount(48), Intensity(96)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(184, 1), PixelCount(61), Intensity(122)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(193, 286), PixelCount(69), Intensity(69)
+POG Position(321, 21), PixelCount(7714), Intensity(7714)
+POG Position(1, 21), PixelCount(7291), Intensity(7291)
+POG Position(335, 168), PixelCount(38), Intensity(38)
+POG Position(329, 133), PixelCount(48), Intensity(48)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(184, 1), PixelCount(61), Intensity(61)
+Inner 15.342857, Outer 19.490000
+Inner 14.842857, Outer 18.900000
+Inner 13.885715, Outer 18.049999
+Inner 13.228572, Outer 17.510000
+MaxDiff 4.281428
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(177, 294), PixelCount(45), Intensity(90)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7166), Intensity(14332)
+POG Position(324, 22), PixelCount(7321), Intensity(14642)
+POG Position(51, 208), PixelCount(49), Intensity(98)
+POG Position(331, 128), PixelCount(37), Intensity(74)
+POG Position(55, 127), PixelCount(47), Intensity(94)
+POG Position(344, 104), PixelCount(40), Intensity(80)
+POG Position(49, 58), PixelCount(95), Intensity(190)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(42), Intensity(84)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(177, 294), PixelCount(45), Intensity(90)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7166), Intensity(14332)
+POG Position(324, 22), PixelCount(7321), Intensity(14642)
+POG Position(51, 208), PixelCount(49), Intensity(98)
+POG Position(331, 128), PixelCount(37), Intensity(74)
+POG Position(55, 127), PixelCount(47), Intensity(94)
+POG Position(344, 104), PixelCount(40), Intensity(80)
+POG Position(49, 58), PixelCount(95), Intensity(190)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(42), Intensity(84)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(177, 294), PixelCount(45), Intensity(90)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7166), Intensity(14332)
+POG Position(324, 22), PixelCount(7321), Intensity(14642)
+POG Position(51, 208), PixelCount(49), Intensity(98)
+POG Position(331, 128), PixelCount(37), Intensity(74)
+POG Position(55, 127), PixelCount(47), Intensity(94)
+POG Position(344, 104), PixelCount(40), Intensity(80)
+POG Position(49, 58), PixelCount(95), Intensity(190)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(42), Intensity(84)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(177, 294), PixelCount(45), Intensity(90)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7166), Intensity(14332)
+POG Position(324, 22), PixelCount(7321), Intensity(14642)
+POG Position(51, 208), PixelCount(49), Intensity(98)
+POG Position(331, 128), PixelCount(37), Intensity(74)
+POG Position(55, 127), PixelCount(47), Intensity(94)
+POG Position(344, 104), PixelCount(40), Intensity(80)
+POG Position(49, 58), PixelCount(95), Intensity(190)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(42), Intensity(84)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(177, 294), PixelCount(45), Intensity(90)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7166), Intensity(14332)
+POG Position(324, 22), PixelCount(7321), Intensity(14642)
+POG Position(51, 208), PixelCount(49), Intensity(98)
+POG Position(331, 128), PixelCount(37), Intensity(74)
+POG Position(55, 127), PixelCount(47), Intensity(94)
+POG Position(344, 104), PixelCount(40), Intensity(80)
+POG Position(49, 58), PixelCount(95), Intensity(190)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(42), Intensity(84)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(177, 294), PixelCount(45), Intensity(45)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(1, 21), PixelCount(7166), Intensity(7166)
+POG Position(324, 22), PixelCount(7321), Intensity(7321)
+POG Position(51, 208), PixelCount(49), Intensity(49)
+POG Position(331, 128), PixelCount(37), Intensity(37)
+POG Position(55, 127), PixelCount(47), Intensity(47)
+POG Position(344, 104), PixelCount(40), Intensity(40)
+POG Position(49, 58), PixelCount(95), Intensity(95)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(190, 2), PixelCount(42), Intensity(42)
+Inner 14.985714, Outer 18.953333
+Inner 14.514286, Outer 18.510000
+Inner 12.000000, Outer 16.003334
+Inner 11.571428, Outer 15.993333
+MaxDiff 4.421905
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(319, 21), PixelCount(8014), Intensity(16028)
+POG Position(1, 22), PixelCount(7310), Intensity(14620)
+POG Position(335, 144), PixelCount(45), Intensity(90)
+POG Position(65, 140), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(197, 2), PixelCount(38), Intensity(76)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(319, 21), PixelCount(8014), Intensity(16028)
+POG Position(1, 22), PixelCount(7310), Intensity(14620)
+POG Position(335, 144), PixelCount(45), Intensity(90)
+POG Position(65, 140), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(197, 2), PixelCount(38), Intensity(76)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(319, 21), PixelCount(8014), Intensity(16028)
+POG Position(1, 22), PixelCount(7310), Intensity(14620)
+POG Position(335, 144), PixelCount(45), Intensity(90)
+POG Position(65, 140), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(197, 2), PixelCount(38), Intensity(76)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(319, 21), PixelCount(8014), Intensity(16028)
+POG Position(1, 22), PixelCount(7310), Intensity(14620)
+POG Position(335, 144), PixelCount(45), Intensity(90)
+POG Position(65, 140), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(197, 2), PixelCount(38), Intensity(76)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(319, 21), PixelCount(8014), Intensity(16028)
+POG Position(1, 22), PixelCount(7310), Intensity(14620)
+POG Position(335, 144), PixelCount(45), Intensity(90)
+POG Position(65, 140), PixelCount(36), Intensity(72)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(197, 2), PixelCount(38), Intensity(76)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(319, 21), PixelCount(8014), Intensity(8014)
+POG Position(1, 22), PixelCount(7310), Intensity(7310)
+POG Position(335, 144), PixelCount(45), Intensity(45)
+POG Position(65, 140), PixelCount(36), Intensity(36)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(197, 2), PixelCount(38), Intensity(38)
+Inner 17.071428, Outer 20.863333
+Inner 16.085714, Outer 19.969999
+Inner 13.400000, Outer 17.260000
+Inner 13.471429, Outer 17.686666
+MaxDiff 4.215238
+Inner 14.528571, Outer 18.556667
+Inner 14.457143, Outer 18.459999
+Inner 12.385715, Outer 16.356667
+Inner 11.314285, Outer 15.876667
+MaxDiff 4.562382
+Inner 17.371429, Outer 21.323334
+Inner 17.614286, Outer 21.440001
+Inner 16.299999, Outer 20.286667
+Inner 13.785714, Outer 18.223333
+MaxDiff 4.437619
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(317, 22), PixelCount(7767), Intensity(15534)
+POG Position(1, 20), PixelCount(7055), Intensity(14110)
+POG Position(320, 224), PixelCount(40), Intensity(80)
+POG Position(396, 133), PixelCount(87), Intensity(174)
+POG Position(44, 125), PixelCount(78), Intensity(156)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 15), PixelCount(56), Intensity(112)
+POG Position(186, 8), PixelCount(53), Intensity(106)
+POG Position(213, 3), PixelCount(36), Intensity(72)
+POG Position(192, 2), PixelCount(38), Intensity(76)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(317, 22), PixelCount(7767), Intensity(15534)
+POG Position(1, 20), PixelCount(7055), Intensity(14110)
+POG Position(320, 224), PixelCount(40), Intensity(80)
+POG Position(396, 133), PixelCount(87), Intensity(174)
+POG Position(44, 125), PixelCount(78), Intensity(156)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 15), PixelCount(56), Intensity(112)
+POG Position(186, 8), PixelCount(53), Intensity(106)
+POG Position(213, 3), PixelCount(36), Intensity(72)
+POG Position(192, 2), PixelCount(38), Intensity(76)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(317, 22), PixelCount(7767), Intensity(15534)
+POG Position(1, 20), PixelCount(7055), Intensity(14110)
+POG Position(320, 224), PixelCount(40), Intensity(80)
+POG Position(396, 133), PixelCount(87), Intensity(174)
+POG Position(44, 125), PixelCount(78), Intensity(156)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 15), PixelCount(56), Intensity(112)
+POG Position(186, 8), PixelCount(53), Intensity(106)
+POG Position(213, 3), PixelCount(36), Intensity(72)
+POG Position(192, 2), PixelCount(38), Intensity(76)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(317, 22), PixelCount(7767), Intensity(15534)
+POG Position(1, 20), PixelCount(7055), Intensity(14110)
+POG Position(320, 224), PixelCount(40), Intensity(80)
+POG Position(396, 133), PixelCount(87), Intensity(174)
+POG Position(44, 125), PixelCount(78), Intensity(156)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 15), PixelCount(56), Intensity(112)
+POG Position(186, 8), PixelCount(53), Intensity(106)
+POG Position(213, 3), PixelCount(36), Intensity(72)
+POG Position(192, 2), PixelCount(38), Intensity(76)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(317, 22), PixelCount(7767), Intensity(15534)
+POG Position(1, 20), PixelCount(7055), Intensity(14110)
+POG Position(320, 224), PixelCount(40), Intensity(80)
+POG Position(396, 133), PixelCount(87), Intensity(174)
+POG Position(44, 125), PixelCount(78), Intensity(156)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(192, 15), PixelCount(56), Intensity(112)
+POG Position(186, 8), PixelCount(53), Intensity(106)
+POG Position(213, 3), PixelCount(36), Intensity(72)
+POG Position(192, 2), PixelCount(38), Intensity(76)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(317, 22), PixelCount(7767), Intensity(7767)
+POG Position(1, 20), PixelCount(7055), Intensity(7055)
+POG Position(320, 224), PixelCount(40), Intensity(40)
+POG Position(396, 133), PixelCount(87), Intensity(87)
+POG Position(44, 125), PixelCount(78), Intensity(78)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(192, 15), PixelCount(56), Intensity(56)
+POG Position(186, 8), PixelCount(53), Intensity(53)
+POG Position(213, 3), PixelCount(36), Intensity(36)
+POG Position(192, 2), PixelCount(38), Intensity(38)
+Inner 14.471429, Outer 18.506666
+Inner 14.385715, Outer 18.326666
+Inner 13.214286, Outer 17.363333
+Inner 11.014286, Outer 15.600000
+MaxDiff 4.585714
+Inner 17.314285, Outer 21.420000
+Inner 17.557142, Outer 21.376667
+Inner 14.814285, Outer 19.056667
+Inner 12.757143, Outer 17.330000
+MaxDiff 4.572857
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(185, 294), PixelCount(47), Intensity(94)
+POG Position(1, 19), PixelCount(7147), Intensity(14294)
+POG Position(319, 22), PixelCount(7794), Intensity(15588)
+POG Position(50, 214), PixelCount(36), Intensity(72)
+POG Position(332, 144), PixelCount(107), Intensity(214)
+POG Position(78, 140), PixelCount(38), Intensity(76)
+POG Position(338, 102), PixelCount(38), Intensity(76)
+POG Position(64, 65), PixelCount(54), Intensity(108)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 8), PixelCount(45), Intensity(90)
+POG Position(214, 2), PixelCount(44), Intensity(88)
+POG Position(189, 1), PixelCount(62), Intensity(124)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(185, 294), PixelCount(47), Intensity(94)
+POG Position(1, 19), PixelCount(7147), Intensity(14294)
+POG Position(319, 22), PixelCount(7794), Intensity(15588)
+POG Position(50, 214), PixelCount(36), Intensity(72)
+POG Position(332, 144), PixelCount(107), Intensity(214)
+POG Position(78, 140), PixelCount(38), Intensity(76)
+POG Position(338, 102), PixelCount(38), Intensity(76)
+POG Position(64, 65), PixelCount(54), Intensity(108)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 8), PixelCount(45), Intensity(90)
+POG Position(214, 2), PixelCount(44), Intensity(88)
+POG Position(189, 1), PixelCount(62), Intensity(124)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(185, 294), PixelCount(47), Intensity(94)
+POG Position(1, 19), PixelCount(7147), Intensity(14294)
+POG Position(319, 22), PixelCount(7794), Intensity(15588)
+POG Position(50, 214), PixelCount(36), Intensity(72)
+POG Position(332, 144), PixelCount(107), Intensity(214)
+POG Position(78, 140), PixelCount(38), Intensity(76)
+POG Position(338, 102), PixelCount(38), Intensity(76)
+POG Position(64, 65), PixelCount(54), Intensity(108)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 8), PixelCount(45), Intensity(90)
+POG Position(214, 2), PixelCount(44), Intensity(88)
+POG Position(189, 1), PixelCount(62), Intensity(124)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(185, 294), PixelCount(47), Intensity(94)
+POG Position(1, 19), PixelCount(7147), Intensity(14294)
+POG Position(319, 22), PixelCount(7794), Intensity(15588)
+POG Position(50, 214), PixelCount(36), Intensity(72)
+POG Position(332, 144), PixelCount(107), Intensity(214)
+POG Position(78, 140), PixelCount(38), Intensity(76)
+POG Position(338, 102), PixelCount(38), Intensity(76)
+POG Position(64, 65), PixelCount(54), Intensity(108)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 8), PixelCount(45), Intensity(90)
+POG Position(214, 2), PixelCount(44), Intensity(88)
+POG Position(189, 1), PixelCount(62), Intensity(124)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(185, 294), PixelCount(47), Intensity(94)
+POG Position(1, 19), PixelCount(7147), Intensity(14294)
+POG Position(319, 22), PixelCount(7794), Intensity(15588)
+POG Position(50, 214), PixelCount(36), Intensity(72)
+POG Position(332, 144), PixelCount(107), Intensity(214)
+POG Position(78, 140), PixelCount(38), Intensity(76)
+POG Position(338, 102), PixelCount(38), Intensity(76)
+POG Position(64, 65), PixelCount(54), Intensity(108)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(189, 8), PixelCount(45), Intensity(90)
+POG Position(214, 2), PixelCount(44), Intensity(88)
+POG Position(189, 1), PixelCount(62), Intensity(124)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(185, 294), PixelCount(47), Intensity(47)
+POG Position(1, 19), PixelCount(7147), Intensity(7147)
+POG Position(319, 22), PixelCount(7794), Intensity(7794)
+POG Position(50, 214), PixelCount(36), Intensity(36)
+POG Position(332, 144), PixelCount(107), Intensity(107)
+POG Position(78, 140), PixelCount(38), Intensity(38)
+POG Position(338, 102), PixelCount(38), Intensity(38)
+POG Position(64, 65), PixelCount(54), Intensity(54)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(189, 8), PixelCount(45), Intensity(45)
+POG Position(214, 2), PixelCount(44), Intensity(44)
+POG Position(189, 1), PixelCount(62), Intensity(62)
+Inner 15.714286, Outer 19.756666
+Inner 15.728572, Outer 19.786667
+Inner 15.157143, Outer 19.433332
+Inner 13.028571, Outer 17.563334
+MaxDiff 4.534762
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 286), PixelCount(179), Intensity(358)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 20), PixelCount(6762), Intensity(13524)
+POG Position(322, 22), PixelCount(7610), Intensity(15220)
+POG Position(44, 189), PixelCount(89), Intensity(178)
+POG Position(37, 158), PixelCount(59), Intensity(118)
+POG Position(327, 146), PixelCount(44), Intensity(88)
+POG Position(41, 125), PixelCount(45), Intensity(90)
+POG Position(337, 80), PixelCount(81), Intensity(162)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(55), Intensity(110)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 286), PixelCount(179), Intensity(358)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 20), PixelCount(6762), Intensity(13524)
+POG Position(322, 22), PixelCount(7610), Intensity(15220)
+POG Position(44, 189), PixelCount(89), Intensity(178)
+POG Position(37, 158), PixelCount(59), Intensity(118)
+POG Position(327, 146), PixelCount(44), Intensity(88)
+POG Position(41, 125), PixelCount(45), Intensity(90)
+POG Position(337, 80), PixelCount(81), Intensity(162)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(55), Intensity(110)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 286), PixelCount(179), Intensity(358)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 20), PixelCount(6762), Intensity(13524)
+POG Position(322, 22), PixelCount(7610), Intensity(15220)
+POG Position(44, 189), PixelCount(89), Intensity(178)
+POG Position(37, 158), PixelCount(59), Intensity(118)
+POG Position(327, 146), PixelCount(44), Intensity(88)
+POG Position(41, 125), PixelCount(45), Intensity(90)
+POG Position(337, 80), PixelCount(81), Intensity(162)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(55), Intensity(110)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 286), PixelCount(179), Intensity(358)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 20), PixelCount(6762), Intensity(13524)
+POG Position(322, 22), PixelCount(7610), Intensity(15220)
+POG Position(44, 189), PixelCount(89), Intensity(178)
+POG Position(37, 158), PixelCount(59), Intensity(118)
+POG Position(327, 146), PixelCount(44), Intensity(88)
+POG Position(41, 125), PixelCount(45), Intensity(90)
+POG Position(337, 80), PixelCount(81), Intensity(162)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(55), Intensity(110)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 286), PixelCount(179), Intensity(358)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 20), PixelCount(6762), Intensity(13524)
+POG Position(322, 22), PixelCount(7610), Intensity(15220)
+POG Position(44, 189), PixelCount(89), Intensity(178)
+POG Position(37, 158), PixelCount(59), Intensity(118)
+POG Position(327, 146), PixelCount(44), Intensity(88)
+POG Position(41, 125), PixelCount(45), Intensity(90)
+POG Position(337, 80), PixelCount(81), Intensity(162)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(190, 2), PixelCount(55), Intensity(110)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(188, 286), PixelCount(179), Intensity(179)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(1, 20), PixelCount(6762), Intensity(6762)
+POG Position(322, 22), PixelCount(7610), Intensity(7610)
+POG Position(44, 189), PixelCount(89), Intensity(89)
+POG Position(37, 158), PixelCount(59), Intensity(59)
+POG Position(327, 146), PixelCount(44), Intensity(44)
+POG Position(41, 125), PixelCount(45), Intensity(45)
+POG Position(337, 80), PixelCount(81), Intensity(81)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(190, 2), PixelCount(55), Intensity(55)
+Inner 14.671429, Outer 18.639999
+Inner 14.714286, Outer 18.709999
+Inner 13.028571, Outer 17.246666
+Inner 10.985714, Outer 15.546667
+MaxDiff 4.560953
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(189, 294), PixelCount(71), Intensity(142)
+POG Position(189, 287), PixelCount(59), Intensity(118)
+POG Position(1, 21), PixelCount(7113), Intensity(14226)
+POG Position(325, 21), PixelCount(7531), Intensity(15062)
+POG Position(43, 166), PixelCount(45), Intensity(90)
+POG Position(398, 143), PixelCount(42), Intensity(84)
+POG Position(326, 136), PixelCount(117), Intensity(234)
+POG Position(39, 119), PixelCount(41), Intensity(82)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(189, 294), PixelCount(71), Intensity(142)
+POG Position(189, 287), PixelCount(59), Intensity(118)
+POG Position(1, 21), PixelCount(7113), Intensity(14226)
+POG Position(325, 21), PixelCount(7531), Intensity(15062)
+POG Position(43, 166), PixelCount(45), Intensity(90)
+POG Position(398, 143), PixelCount(42), Intensity(84)
+POG Position(326, 136), PixelCount(117), Intensity(234)
+POG Position(39, 119), PixelCount(41), Intensity(82)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(189, 294), PixelCount(71), Intensity(142)
+POG Position(189, 287), PixelCount(59), Intensity(118)
+POG Position(1, 21), PixelCount(7113), Intensity(14226)
+POG Position(325, 21), PixelCount(7531), Intensity(15062)
+POG Position(43, 166), PixelCount(45), Intensity(90)
+POG Position(398, 143), PixelCount(42), Intensity(84)
+POG Position(326, 136), PixelCount(117), Intensity(234)
+POG Position(39, 119), PixelCount(41), Intensity(82)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(189, 294), PixelCount(71), Intensity(142)
+POG Position(189, 287), PixelCount(59), Intensity(118)
+POG Position(1, 21), PixelCount(7113), Intensity(14226)
+POG Position(325, 21), PixelCount(7531), Intensity(15062)
+POG Position(43, 166), PixelCount(45), Intensity(90)
+POG Position(398, 143), PixelCount(42), Intensity(84)
+POG Position(326, 136), PixelCount(117), Intensity(234)
+POG Position(39, 119), PixelCount(41), Intensity(82)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(189, 294), PixelCount(71), Intensity(142)
+POG Position(189, 287), PixelCount(59), Intensity(118)
+POG Position(1, 21), PixelCount(7113), Intensity(14226)
+POG Position(325, 21), PixelCount(7531), Intensity(15062)
+POG Position(43, 166), PixelCount(45), Intensity(90)
+POG Position(398, 143), PixelCount(42), Intensity(84)
+POG Position(326, 136), PixelCount(117), Intensity(234)
+POG Position(39, 119), PixelCount(41), Intensity(82)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(189, 294), PixelCount(71), Intensity(71)
+POG Position(189, 287), PixelCount(59), Intensity(59)
+POG Position(1, 21), PixelCount(7113), Intensity(7113)
+POG Position(325, 21), PixelCount(7531), Intensity(7531)
+POG Position(43, 166), PixelCount(45), Intensity(45)
+POG Position(398, 143), PixelCount(42), Intensity(42)
+POG Position(326, 136), PixelCount(117), Intensity(117)
+POG Position(39, 119), PixelCount(41), Intensity(41)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 15.100000, Outer 19.123333
+Inner 15.100000, Outer 19.216667
+Inner 13.928572, Outer 18.163334
+Inner 11.885715, Outer 16.350000
+MaxDiff 4.464286
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(174, 293), PixelCount(50), Intensity(100)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(182, 287), PixelCount(84), Intensity(168)
+POG Position(193, 288), PixelCount(61), Intensity(122)
+POG Position(1, 20), PixelCount(7085), Intensity(14170)
+POG Position(327, 21), PixelCount(7616), Intensity(15232)
+POG Position(324, 142), PixelCount(68), Intensity(136)
+POG Position(66, 142), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(313, 21), PixelCount(40), Intensity(80)
+POG Position(107, 19), PixelCount(51), Intensity(102)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(174, 293), PixelCount(50), Intensity(100)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(182, 287), PixelCount(84), Intensity(168)
+POG Position(193, 288), PixelCount(61), Intensity(122)
+POG Position(1, 20), PixelCount(7085), Intensity(14170)
+POG Position(327, 21), PixelCount(7616), Intensity(15232)
+POG Position(324, 142), PixelCount(68), Intensity(136)
+POG Position(66, 142), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(313, 21), PixelCount(40), Intensity(80)
+POG Position(107, 19), PixelCount(51), Intensity(102)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(174, 293), PixelCount(50), Intensity(100)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(182, 287), PixelCount(84), Intensity(168)
+POG Position(193, 288), PixelCount(61), Intensity(122)
+POG Position(1, 20), PixelCount(7085), Intensity(14170)
+POG Position(327, 21), PixelCount(7616), Intensity(15232)
+POG Position(324, 142), PixelCount(68), Intensity(136)
+POG Position(66, 142), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(313, 21), PixelCount(40), Intensity(80)
+POG Position(107, 19), PixelCount(51), Intensity(102)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(174, 293), PixelCount(50), Intensity(100)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(182, 287), PixelCount(84), Intensity(168)
+POG Position(193, 288), PixelCount(61), Intensity(122)
+POG Position(1, 20), PixelCount(7085), Intensity(14170)
+POG Position(327, 21), PixelCount(7616), Intensity(15232)
+POG Position(324, 142), PixelCount(68), Intensity(136)
+POG Position(66, 142), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(313, 21), PixelCount(40), Intensity(80)
+POG Position(107, 19), PixelCount(51), Intensity(102)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(174, 293), PixelCount(50), Intensity(100)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(182, 287), PixelCount(84), Intensity(168)
+POG Position(193, 288), PixelCount(61), Intensity(122)
+POG Position(1, 20), PixelCount(7085), Intensity(14170)
+POG Position(327, 21), PixelCount(7616), Intensity(15232)
+POG Position(324, 142), PixelCount(68), Intensity(136)
+POG Position(66, 142), PixelCount(40), Intensity(80)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(313, 21), PixelCount(40), Intensity(80)
+POG Position(107, 19), PixelCount(51), Intensity(102)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(174, 293), PixelCount(50), Intensity(50)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(182, 287), PixelCount(84), Intensity(84)
+POG Position(193, 288), PixelCount(61), Intensity(61)
+POG Position(1, 20), PixelCount(7085), Intensity(7085)
+POG Position(327, 21), PixelCount(7616), Intensity(7616)
+POG Position(324, 142), PixelCount(68), Intensity(68)
+POG Position(66, 142), PixelCount(40), Intensity(40)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(313, 21), PixelCount(40), Intensity(40)
+POG Position(107, 19), PixelCount(51), Intensity(51)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 15.857142, Outer 19.916666
+Inner 15.800000, Outer 19.809999
+Inner 13.771428, Outer 18.020000
+Inner 11.842857, Outer 16.446667
+MaxDiff 4.603809
+Inner 14.657143, Outer 18.516666
+Inner 14.385715, Outer 18.243334
+Inner 14.042857, Outer 18.166666
+Inner 12.871428, Outer 17.236666
+MaxDiff 4.365237
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7089), Intensity(14178)
+POG Position(307, 22), PixelCount(7921), Intensity(15842)
+POG Position(72, 244), PixelCount(45), Intensity(90)
+POG Position(50, 174), PixelCount(38), Intensity(76)
+POG Position(50, 125), PixelCount(54), Intensity(108)
+POG Position(338, 117), PixelCount(58), Intensity(116)
+POG Position(34, 107), PixelCount(45), Intensity(90)
+POG Position(35, 103), PixelCount(47), Intensity(94)
+POG Position(58, 63), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7089), Intensity(14178)
+POG Position(307, 22), PixelCount(7921), Intensity(15842)
+POG Position(72, 244), PixelCount(45), Intensity(90)
+POG Position(50, 174), PixelCount(38), Intensity(76)
+POG Position(50, 125), PixelCount(54), Intensity(108)
+POG Position(338, 117), PixelCount(58), Intensity(116)
+POG Position(34, 107), PixelCount(45), Intensity(90)
+POG Position(35, 103), PixelCount(47), Intensity(94)
+POG Position(58, 63), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7089), Intensity(14178)
+POG Position(307, 22), PixelCount(7921), Intensity(15842)
+POG Position(72, 244), PixelCount(45), Intensity(90)
+POG Position(50, 174), PixelCount(38), Intensity(76)
+POG Position(50, 125), PixelCount(54), Intensity(108)
+POG Position(338, 117), PixelCount(58), Intensity(116)
+POG Position(34, 107), PixelCount(45), Intensity(90)
+POG Position(35, 103), PixelCount(47), Intensity(94)
+POG Position(58, 63), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7089), Intensity(14178)
+POG Position(307, 22), PixelCount(7921), Intensity(15842)
+POG Position(72, 244), PixelCount(45), Intensity(90)
+POG Position(50, 174), PixelCount(38), Intensity(76)
+POG Position(50, 125), PixelCount(54), Intensity(108)
+POG Position(338, 117), PixelCount(58), Intensity(116)
+POG Position(34, 107), PixelCount(45), Intensity(90)
+POG Position(35, 103), PixelCount(47), Intensity(94)
+POG Position(58, 63), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(1, 21), PixelCount(7089), Intensity(14178)
+POG Position(307, 22), PixelCount(7921), Intensity(15842)
+POG Position(72, 244), PixelCount(45), Intensity(90)
+POG Position(50, 174), PixelCount(38), Intensity(76)
+POG Position(50, 125), PixelCount(54), Intensity(108)
+POG Position(338, 117), PixelCount(58), Intensity(116)
+POG Position(34, 107), PixelCount(45), Intensity(90)
+POG Position(35, 103), PixelCount(47), Intensity(94)
+POG Position(58, 63), PixelCount(37), Intensity(74)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(1, 21), PixelCount(7089), Intensity(7089)
+POG Position(307, 22), PixelCount(7921), Intensity(7921)
+POG Position(72, 244), PixelCount(45), Intensity(45)
+POG Position(50, 174), PixelCount(38), Intensity(38)
+POG Position(50, 125), PixelCount(54), Intensity(54)
+POG Position(338, 117), PixelCount(58), Intensity(58)
+POG Position(34, 107), PixelCount(45), Intensity(45)
+POG Position(35, 103), PixelCount(47), Intensity(47)
+POG Position(58, 63), PixelCount(37), Intensity(37)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+Inner 12.485714, Outer 16.513334
+Inner 17.500000, Outer 21.600000
+Inner 16.500000, Outer 20.629999
+Inner 10.671429, Outer 14.920000
+MaxDiff 4.248571
+Inner 15.685715, Outer 19.366667
+Inner 27.428572, Outer 31.416666
+Inner 22.642857, Outer 26.516666
+Inner 11.414286, Outer 15.153334
+MaxDiff 3.988094
+Inner 16.200001, Outer 19.903334
+Inner 28.000000, Outer 31.879999
+Inner 23.214285, Outer 27.139999
+Inner 11.985714, Outer 15.726666
+MaxDiff 3.925714
+Inner 15.314285, Outer 18.910000
+Inner 27.157143, Outer 31.156666
+Inner 22.357143, Outer 26.316668
+Inner 11.085714, Outer 14.816667
+MaxDiff 3.999523
+Inner 16.014286, Outer 19.603333
+Inner 28.185715, Outer 32.086666
+Inner 23.200001, Outer 27.086666
+Inner 11.757143, Outer 15.470000
+MaxDiff 3.900951
+Inner 15.942857, Outer 19.559999
+Inner 28.028572, Outer 31.976667
+Inner 23.142857, Outer 27.129999
+Inner 11.671429, Outer 15.373333
+MaxDiff 3.987143
+Inner 16.214285, Outer 20.036667
+Inner 24.242857, Outer 28.226667
+Inner 18.157143, Outer 22.153334
+Inner 13.114285, Outer 16.896667
+MaxDiff 3.996191
+Inner 15.728572, Outer 19.443333
+Inner 23.142857, Outer 27.033333
+Inner 17.342857, Outer 21.153334
+Inner 12.500000, Outer 16.413334
+MaxDiff 3.913334
+Inner 16.585714, Outer 20.216667
+Inner 23.928572, Outer 27.966667
+Inner 17.928572, Outer 21.889999
+Inner 13.100000, Outer 16.980000
+MaxDiff 4.038095
+Inner 15.342857, Outer 19.076666
+Inner 23.628571, Outer 27.616667
+Inner 17.214285, Outer 21.219999
+Inner 11.757143, Outer 15.676666
+MaxDiff 4.005714
+Inner 16.742857, Outer 20.420000
+Inner 23.885714, Outer 27.893333
+Inner 17.071428, Outer 20.920000
+Inner 12.685715, Outer 16.523333
+MaxDiff 4.007620
+Inner 16.585714, Outer 20.006666
+Inner 24.157143, Outer 28.070000
+Inner 16.700001, Outer 20.516666
+Inner 11.642858, Outer 15.670000
+MaxDiff 4.027143
+Inner 17.971428, Outer 21.563334
+Inner 25.371429, Outer 29.363333
+Inner 17.971428, Outer 21.863333
+Inner 13.328571, Outer 17.209999
+MaxDiff 3.991903
+Inner 17.200001, Outer 20.750000
+Inner 23.614286, Outer 27.563334
+Inner 15.814285, Outer 19.730000
+Inner 12.357142, Outer 16.196667
+MaxDiff 3.949047
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 295), PixelCount(71), Intensity(142)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(195, 288), PixelCount(48), Intensity(96)
+POG Position(313, 20), PixelCount(7345), Intensity(14690)
+POG Position(53, 268), PixelCount(45), Intensity(90)
+POG Position(228, 272), PixelCount(41), Intensity(82)
+POG Position(1, 20), PixelCount(7118), Intensity(14236)
+POG Position(42, 107), PixelCount(67), Intensity(134)
+POG Position(338, 85), PixelCount(44), Intensity(88)
+POG Position(336, 55), PixelCount(132), Intensity(264)
+POG Position(294, 39), PixelCount(305), Intensity(610)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(214, 2), PixelCount(51), Intensity(102)
+POG Position(221, 2), PixelCount(110), Intensity(220)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 295), PixelCount(71), Intensity(142)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(195, 288), PixelCount(48), Intensity(96)
+POG Position(313, 20), PixelCount(7345), Intensity(14690)
+POG Position(53, 268), PixelCount(45), Intensity(90)
+POG Position(228, 272), PixelCount(41), Intensity(82)
+POG Position(1, 20), PixelCount(7118), Intensity(14236)
+POG Position(42, 107), PixelCount(67), Intensity(134)
+POG Position(338, 85), PixelCount(44), Intensity(88)
+POG Position(336, 55), PixelCount(132), Intensity(264)
+POG Position(294, 39), PixelCount(305), Intensity(610)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(214, 2), PixelCount(51), Intensity(102)
+POG Position(221, 2), PixelCount(110), Intensity(220)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 295), PixelCount(71), Intensity(142)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(195, 288), PixelCount(48), Intensity(96)
+POG Position(313, 20), PixelCount(7345), Intensity(14690)
+POG Position(53, 268), PixelCount(45), Intensity(90)
+POG Position(228, 272), PixelCount(41), Intensity(82)
+POG Position(1, 20), PixelCount(7118), Intensity(14236)
+POG Position(42, 107), PixelCount(67), Intensity(134)
+POG Position(338, 85), PixelCount(44), Intensity(88)
+POG Position(336, 55), PixelCount(132), Intensity(264)
+POG Position(294, 39), PixelCount(305), Intensity(610)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(214, 2), PixelCount(51), Intensity(102)
+POG Position(221, 2), PixelCount(110), Intensity(220)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 295), PixelCount(71), Intensity(142)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(195, 288), PixelCount(48), Intensity(96)
+POG Position(313, 20), PixelCount(7345), Intensity(14690)
+POG Position(53, 268), PixelCount(45), Intensity(90)
+POG Position(228, 272), PixelCount(41), Intensity(82)
+POG Position(1, 20), PixelCount(7118), Intensity(14236)
+POG Position(42, 107), PixelCount(67), Intensity(134)
+POG Position(338, 85), PixelCount(44), Intensity(88)
+POG Position(336, 55), PixelCount(132), Intensity(264)
+POG Position(294, 39), PixelCount(305), Intensity(610)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(214, 2), PixelCount(51), Intensity(102)
+POG Position(221, 2), PixelCount(110), Intensity(220)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(850)
+POG Position(188, 295), PixelCount(71), Intensity(142)
+POG Position(358, 268), PixelCount(384), Intensity(768)
+POG Position(195, 288), PixelCount(48), Intensity(96)
+POG Position(313, 20), PixelCount(7345), Intensity(14690)
+POG Position(53, 268), PixelCount(45), Intensity(90)
+POG Position(228, 272), PixelCount(41), Intensity(82)
+POG Position(1, 20), PixelCount(7118), Intensity(14236)
+POG Position(42, 107), PixelCount(67), Intensity(134)
+POG Position(338, 85), PixelCount(44), Intensity(88)
+POG Position(336, 55), PixelCount(132), Intensity(264)
+POG Position(294, 39), PixelCount(305), Intensity(610)
+POG Position(0, 1), PixelCount(384), Intensity(768)
+POG Position(368, 1), PixelCount(342), Intensity(684)
+POG Position(214, 2), PixelCount(51), Intensity(102)
+POG Position(221, 2), PixelCount(110), Intensity(220)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+POG Position(0, 259), PixelCount(425), Intensity(425)
+POG Position(188, 295), PixelCount(71), Intensity(71)
+POG Position(358, 268), PixelCount(384), Intensity(384)
+POG Position(195, 288), PixelCount(48), Intensity(48)
+POG Position(313, 20), PixelCount(7345), Intensity(7345)
+POG Position(53, 268), PixelCount(45), Intensity(45)
+POG Position(228, 272), PixelCount(41), Intensity(41)
+POG Position(1, 20), PixelCount(7118), Intensity(7118)
+POG Position(42, 107), PixelCount(67), Intensity(67)
+POG Position(338, 85), PixelCount(44), Intensity(44)
+POG Position(336, 55), PixelCount(132), Intensity(132)
+POG Position(294, 39), PixelCount(305), Intensity(305)
+POG Position(0, 1), PixelCount(384), Intensity(384)
+POG Position(368, 1), PixelCount(342), Intensity(342)
+POG Position(214, 2), PixelCount(51), Intensity(51)
+POG Position(221, 2), PixelCount(110), Intensity(110)
+Inner 13.871428, Outer 17.843334
+Inner 19.600000, Outer 23.690001
+Inner 21.557142, Outer 25.620001
+Inner 13.914286, Outer 18.046667
+MaxDiff 4.132381
+Inner 17.957144, Outer 20.823334
+Inner 11.014286, Outer 13.976666
+Inner 10.871428, Outer 14.556666
+Inner 18.414286, Outer 21.780001
+MaxDiff 3.685238
+POG Position(251, 273), PixelCount(47), Intensity(94)

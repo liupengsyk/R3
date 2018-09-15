@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F5E3B34C-D7EE-4827-924C-E71B5767C90C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>OtpSensorInterface</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <CLRSupport>true</CLRSupport>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>$(ProjectName)_d</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;OTPSENSORINTERFACE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" "../../../Execute/$(Configuration)\"
+copy "$(ProjectDir)OtpSensorInterface.h" "../../../Include\"
+copy "$(SolutionDir)$(Configuration)\OtpSensorInterface_d.lib" "../../../lib/$(Configuration)\"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;OTPSENSORINTERFACE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" "../../../Execute/$(Configuration)\"
+copy "$(ProjectDir)OtpSensorInterface.h" "../../../Include\"
+copy "$(SolutionDir)$(Configuration)\OtpSensorInterface.lib" "../../../lib/$(Configuration)\"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EEPROM_BL24SA64.h" />
+    <ClInclude Include="EEPROM_GT24C128_256.h" />
+    <ClInclude Include="EEPROM_GT24C16.h" />
+    <ClInclude Include="EEPROM_GT24C32.h" />
+    <ClInclude Include="EEPROM_M24C64S.h" />
+    <ClInclude Include="OtpSensorInterface.h" />
+    <ClInclude Include="OTP_DW9763_WrtProtect.h" />
+    <ClInclude Include="OTP_DW9767.h" />
+    <ClInclude Include="OTP_DW9807.h" />
+    <ClInclude Include="OTP_GC5025A.h" />
+    <ClInclude Include="OTP_HI544.h" />
+    <ClInclude Include="OTP_Hi556.h" />
+    <ClInclude Include="OTP_OV5675.h" />
+    <ClInclude Include="OTP_OV8856.h" />
+    <ClInclude Include="OTP_S5k4ec.h" />
+    <ClInclude Include="OTP_S5K4H7YX.h" />
+    <ClInclude Include="OTP_S5K4H8_F1X9.h" />
+    <ClInclude Include="OTP_S5k5E8.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EEPROM_BL24SA64.cpp" />
+    <ClCompile Include="EEPROM_GT24C128_256.cpp" />
+    <ClCompile Include="EEPROM_GT24C16.cpp" />
+    <ClCompile Include="EEPROM_GT24C32.cpp" />
+    <ClCompile Include="EEPROM_M24C64S.cpp" />
+    <ClCompile Include="OtpSensorInterface.cpp" />
+    <ClCompile Include="OTP_DW9763_WrtProtect.cpp" />
+    <ClCompile Include="OTP_DW9767.cpp" />
+    <ClCompile Include="OTP_DW9807.cpp" />
+    <ClCompile Include="OTP_GC5025A.cpp" />
+    <ClCompile Include="OTP_HI544.cpp" />
+    <ClCompile Include="OTP_Hi556.cpp" />
+    <ClCompile Include="OTP_OV5675.cpp" />
+    <ClCompile Include="OTP_OV8856.cpp" />
+    <ClCompile Include="OTP_S5k4ec.cpp" />
+    <ClCompile Include="OTP_S5K4H7YX.cpp" />
+    <ClCompile Include="OTP_S5K4H8_F1X9.cpp" />
+    <ClCompile Include="OTP_S5k5E8.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OtpSensorInterface.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

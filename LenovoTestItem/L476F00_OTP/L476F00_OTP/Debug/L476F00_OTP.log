@@ -1,0 +1,63 @@
+﻿生成启动时间为 2018/5/2 11:56:27。
+     1>项目“F:\OHP0792\OTP Source\Moto\L476F00_OTP\L476F00_OTP\L476F00_OTP.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\L476F00_OTP.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\L476F00_OTP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\L476F00_OTP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt L476F00_OTP.cpp L476F00_OTP_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         L476F00_OTP_TestItem.cpp
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(21): warning C4005: “OTP_CHK_MODULE_SERIAL_NUMBER”: 宏重定义
+                 f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.h(15) : 参见“OTP_CHK_MODULE_SERIAL_NUMBER”的前一个定义
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(22): warning C4005: “OTP_CHK_MODULE_ID_REVERSED_ADDR_END”: 宏重定义
+                 f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.h(18) : 参见“OTP_CHK_MODULE_ID_REVERSED_ADDR_END”的前一个定义
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(177): warning C4244: “=”: 从“wchar_t”转换到“unsigned char”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(178): warning C4244: “=”: 从“wchar_t”转换到“unsigned char”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(321): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(323): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(325): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(173): warning C4101: “u16Tmp”: 未引用的局部变量
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(1530): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(1559): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\ohp0792\otp source\moto\l476f00_otp\l476f00_otp\l476f00_otp_testitem.cpp(1583): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         L476F00_OTP.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\L476F00_OTP.res" L476F00_OTP.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\L476F00_OTP.dll.embed.manifest.res" Debug\L476F00_OTP_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\L476F00_OTP.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.lib" /MACHINE:X86 /DLL Debug\L476F00_OTP.res
+         Debug\L476F00_OTP.dll.embed.manifest.res
+         Debug\L476F00_OTP.obj
+         Debug\L476F00_OTP_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.lib 和对象 F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.exp
+       Manifest:
+         正在删除文件“Debug\L476F00_OTP.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\L476F00_OTP.dll.embed.manifest" /manifest Debug\L476F00_OTP.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\L476F00_OTP.dll.embed.manifest.res" Debug\L476F00_OTP_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\L476F00_OTP.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.lib" /MACHINE:X86 /DLL Debug\L476F00_OTP.res
+         Debug\L476F00_OTP.dll.embed.manifest.res
+         Debug\L476F00_OTP.obj
+         Debug\L476F00_OTP_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+         L476F00_OTP.vcxproj -> F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.dll
+       PostBuildEvent:
+         copy "F:\OHP0792\OTP Source\Moto\L476F00_OTP\Debug\L476F00_OTP.dll" ..\..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\L476F00_OTP.unsuccessfulbuild”。
+         正在对“Debug\L476F00_OTP.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\OTP Source\Moto\L476F00_OTP\L476F00_OTP\L476F00_OTP.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.95

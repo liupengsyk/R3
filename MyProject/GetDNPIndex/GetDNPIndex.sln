@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetDNPIndex", "GetDNPIndex\GetDNPIndex.vcxproj", "{8CEB3ED9-49FB-4DB9-8626-757065BB787F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetLEDChannel", "..\SetLEDChannel\SetLEDChannel\SetLEDChannel.vcxproj", "{E5704F74-6F0B-4E93-AC03-684BAA575DDF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OFccmTest", "..\..\Main\OFccmTest\OFccmTest\OFccmTest.vcxproj", "{74CC0697-473B-44B4-9E72-1AEA39B48DDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AE", "..\AE\AE\AE.vcxproj", "{7F7F1767-2368-471C-8F2C-F4FE78547308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEB3ED9-49FB-4DB9-8626-757065BB787F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CEB3ED9-49FB-4DB9-8626-757065BB787F}.Debug|Win32.Build.0 = Debug|Win32
+		{8CEB3ED9-49FB-4DB9-8626-757065BB787F}.Release|Win32.ActiveCfg = Release|Win32
+		{8CEB3ED9-49FB-4DB9-8626-757065BB787F}.Release|Win32.Build.0 = Release|Win32
+		{E5704F74-6F0B-4E93-AC03-684BAA575DDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5704F74-6F0B-4E93-AC03-684BAA575DDF}.Debug|Win32.Build.0 = Debug|Win32
+		{E5704F74-6F0B-4E93-AC03-684BAA575DDF}.Release|Win32.ActiveCfg = Release|Win32
+		{E5704F74-6F0B-4E93-AC03-684BAA575DDF}.Release|Win32.Build.0 = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.Build.0 = Release|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Debug|Win32.Build.0 = Debug|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Release|Win32.ActiveCfg = Release|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{53D1153E-9C96-4240-8EB8-9A6FC20E2AD5}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>VcmDriverInterface</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>$(ProjectName)_d</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;VCMDRIVERINTERFACE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" "../../../Execute/$(Configuration)\"
+copy "$(ProjectDir)VcmDriverInterface.h" "../../../Include\"
+copy "$(SolutionDir)$(Configuration)\VcmDriverInterface_d.lib" "../../../lib/$(Configuration)\"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;VCMDRIVERINTERFACE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>../../../Include\</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <PostBuildEvent>
+      <Command>copy "$(TargetPath)" "../../../Execute/$(Configuration)\"
+copy "$(ProjectDir)VcmDriverInterface.h" "../../../Include\"
+copy "$(SolutionDir)$(Configuration)\VcmDriverInterface.lib" "../../../lib/$(Configuration)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DriverIC_DW9718.h" />
+    <ClInclude Include="Driver_AK7371.h" />
+    <ClInclude Include="Driver_AK7374.h" />
+    <ClInclude Include="Driver_AXD898123XC.h" />
+    <ClInclude Include="Driver_BU64295296297GWZ.h" />
+    <ClInclude Include="Driver_BU64748GWZ.h" />
+    <ClInclude Include="Driver_DW9714.h" />
+    <ClInclude Include="Driver_DW9719.h" />
+    <ClInclude Include="Driver_DW9763.h" />
+    <ClInclude Include="Driver_DW9767.h" />
+    <ClInclude Include="Driver_DW9800.h" />
+    <ClInclude Include="Driver_DW9804.h" />
+    <ClInclude Include="Driver_DW9807.h" />
+    <ClInclude Include="Driver_HI541.h" />
+    <ClInclude Include="Driver_LC898212.h" />
+    <ClInclude Include="Driver_LC898212XD.h" />
+    <ClInclude Include="Driver_LC898214XC_shicoh.h" />
+    <ClInclude Include="Driver_LC898219.h" />
+    <ClInclude Include="Driver_Max14650.h" />
+    <ClInclude Include="Driver_S5k4ec.h" />
+    <ClInclude Include="Driver_WV511A.h" />
+    <ClInclude Include="LC898217_E4_E6.h" />
+    <ClInclude Include="LC898217_E8_EA.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="VcmDriverInterface.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DriverIC_DW9718.cpp" />
+    <ClCompile Include="Driver_AK7371.cpp" />
+    <ClCompile Include="Driver_AK7374.cpp" />
+    <ClCompile Include="Driver_AXD898123XC.cpp" />
+    <ClCompile Include="Driver_BU64295296297GWZ.cpp" />
+    <ClCompile Include="Driver_BU64748GWZ.cpp" />
+    <ClCompile Include="Driver_DW9714.cpp" />
+    <ClCompile Include="Driver_DW9719.cpp" />
+    <ClCompile Include="Driver_DW9763.cpp" />
+    <ClCompile Include="Driver_DW9767.cpp" />
+    <ClCompile Include="Driver_DW9800.cpp" />
+    <ClCompile Include="Driver_DW9804.cpp" />
+    <ClCompile Include="Driver_DW9807.cpp" />
+    <ClCompile Include="Driver_HI541.cpp" />
+    <ClCompile Include="Driver_LC898212.cpp" />
+    <ClCompile Include="Driver_LC898212XD.cpp" />
+    <ClCompile Include="Driver_LC898214XC_shicoh.cpp" />
+    <ClCompile Include="Driver_LC898219.cpp" />
+    <ClCompile Include="Driver_Max14650.cpp" />
+    <ClCompile Include="Driver_S5k4ec.cpp" />
+    <ClCompile Include="Driver_WV511A.cpp" />
+    <ClCompile Include="LC898217_E4_E6.cpp" />
+    <ClCompile Include="LC898217_E8_EA.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="VcmDriverInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VcmDriverInterface.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

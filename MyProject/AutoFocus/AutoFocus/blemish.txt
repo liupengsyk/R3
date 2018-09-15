@@ -1,0 +1,5 @@
+POG Position(0, 4), PixelCount(19270), Intensity(558830)
+POG Position(176, 1), PixelCount(21965), Intensity(636985)
+POG Position(132, 278), PixelCount(50), Intensity(1450)
+POG Position(97, 267), PixelCount(119), Intensity(3451)
+POG Position(0, 1), PixelCount(782), Intensity(22678)

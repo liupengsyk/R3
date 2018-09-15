@@ -1,0 +1,48 @@
+﻿生成启动时间为 2018/5/3 16:37:36。
+     1>项目“F:\OHP0792\MyProject\Shading5\TccmShading\TccmShading.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Shading5.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Shading5.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Inspection_Shading.cpp ShadingOptionDlg.cpp
+         Inspection_Shading.cpp
+     1>Inspection_Shading.cpp(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(338): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(774): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Inspection_Shading.cpp(827): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>Inspection_Shading.cpp(927): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>Inspection_Shading.cpp(1110): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(1111): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Inspection_Shading.cpp(1117): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         ShadingOptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\TccmShading.res" TccmShading.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OHP0792\MyProject\AE\Release\Shading5.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /DEF:".\TccmShading.def" /MANIFEST /ManifestFile:"Release\Shading5.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\OHP0792\MyProject\AE\Release\Shading5.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OHP0792\MyProject\AE\Release\Shading5.lib" /MACHINE:X86 /DLL Release\TccmShading.res
+         Release\Inspection_Shading.obj
+         Release\ShadingOptionDlg.obj
+         Release\stdafx.obj
+         Release\TccmShading.obj
+            正在创建库 F:\OHP0792\MyProject\AE\Release\Shading5.lib 和对象 F:\OHP0792\MyProject\AE\Release\Shading5.exp
+         正在生成代码
+         已完成代码的生成
+         TccmShading.vcxproj -> F:\OHP0792\MyProject\AE\Release\Shading5.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\OHP0792\MyProject\AE\Release\Shading5.dll;#2" /manifest Release\Shading5.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "F:\OHP0792\MyProject\AE\Release\Shading5.dll" "..\..\..\Execute\Release\TestItem"
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\Shading5.unsuccessfulbuild”。
+         正在对“Release\Shading5.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\OHP0792\MyProject\Shading5\TccmShading\TccmShading.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.90

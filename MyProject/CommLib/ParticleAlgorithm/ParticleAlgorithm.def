@@ -1,0 +1,9 @@
+; ParticleAlgorithm.def : Declares the module parameters for the DLL.
+
+LIBRARY      "ParticleAlgorithm"
+DESCRIPTION  'ParticleAlgorithm Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+	ShowPODSpecDlg @1
+	OFPODTest @2

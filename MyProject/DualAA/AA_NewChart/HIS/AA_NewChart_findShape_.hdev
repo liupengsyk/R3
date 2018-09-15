@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.0" halcon_version="10.0" cs="808525382">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image(Image,'E:/CCMSDK_1224/MyProject/DualAA/AA_NewChart/ImgSave/20160728-163114Cam0.jpg')</l>
+<l>get_image_size(Image, Width, Height)</l>
+<l>rgb1_to_gray(Image, GrayImage)</l>
+<l>mean_image(GrayImage, ImageMean, Width/10, Height/10)</l>
+<l>sub_image(GrayImage,ImageMean,ImageSub, 1, 128)</l>
+<l>emphasize(ImageSub, ImageEmphasize, Width, Height, 1)</l>
+<l>threshold(ImageEmphasize, Region, 0, 50)</l>
+<l>read_shape_model('E:/CCMSDK_1224/MyProject/DualAA/AA_NewChart/ImgSave/shapModeT1.shm',ModelID)</l>
+<l>find_shape_model(ImageEmphasize, ModelID, -0.39, 0.78, 0.5, 0, 0.7, 'least_squares', 0, 0.9, Row, Column, Angle, Score)</l>
+<l>tuple_length(Row,Length)</l>
+<l>for Index := 1 to Length-1 by 1</l>
+<l>    gen_cross_contour_xld(Cross, Row[Index], Column[Index], 100, 0)</l>
+<l>endfor</l>
+<c>    </c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

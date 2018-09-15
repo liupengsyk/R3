@@ -1,0 +1,84 @@
+﻿Build started 2017/1/19 11:01:33.
+     1>Project "D:\DualShare_r3\MyProject\SerialPortLED\SerialPortLED\SerialPortLED.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\SerialPortLED.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\SerialPortLED.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\SerialPortLED.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SerialPortLED.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SerialPortLED.cpp
+         SerialPortLED.cpp
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(19): warning C4273: 'CSerialPortLED::CSerialPortLED' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(21) : see previous definition of '{ctor}'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(40): warning C4273: 'CSerialPortLED::~CSerialPortLED' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(22) : see previous definition of '{dtor}'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(62): warning C4273: 'CSerialPortLED::InitPort' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(24) : see previous definition of 'InitPort'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(197): warning C4273: 'CSerialPortLED::CommThread' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(40) : see previous definition of 'CommThread'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(357): warning C4273: 'CSerialPortLED::StartMonitoring' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(27) : see previous definition of 'StartMonitoring'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(368): warning C4273: 'CSerialPortLED::RestartMonitoring' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(28) : see previous definition of 'RestartMonitoring'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(379): warning C4273: 'CSerialPortLED::StopMonitoring' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(29) : see previous definition of 'StopMonitoring'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(390): warning C4273: 'CSerialPortLED::ProcessErrorMessage' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(39) : see previous definition of 'ProcessErrorMessage'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(416): warning C4273: 'CSerialPortLED::WriteChar' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(42) : see previous definition of 'WriteChar'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(498): warning C4273: 'CSerialPortLED::ReceiveChar' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(41) : see previous definition of 'ReceiveChar'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(599): warning C4273: 'CSerialPortLED::WriteToPort' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(35) : see previous definition of 'WriteToPort'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(603): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(613): warning C4273: 'CSerialPortLED::WriteToPort' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(36) : see previous definition of 'WriteToPort'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(631): warning C4273: 'CSerialPortLED::GetDCB' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(33) : see previous definition of 'GetDCB'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(639): warning C4273: 'CSerialPortLED::GetCommEvents' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(32) : see previous definition of 'GetCommEvents'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(647): warning C4273: 'CSerialPortLED::GetWriteBufferSize' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(31) : see previous definition of 'GetWriteBufferSize'
+     1>d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.cpp(652): warning C4273: 'CSerialPortLED::GetPortNO' : inconsistent dll linkage
+                 d:\dualshare_r3\myproject\serialportled\serialportled\serialportled.h(23) : see previous definition of 'GetPortNO'
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\SerialPortLED.res" SerialPortLED.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SerialPortLED.dll.embed.manifest.res" Debug\SerialPortLED_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.dll" /INCREMENTAL /NOLOGO /DEF:".\SerialPortLED.def" /MANIFEST /ManifestFile:"Debug\SerialPortLED.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.lib" /MACHINE:X86 /DLL Debug\SerialPortLED.res
+         Debug\SerialPortLED.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\SerialPortLED.obj
+         Debug\stdafx.obj
+            Creating library D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.lib and object D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.exp
+       Manifest:
+         Deleting file "Debug\SerialPortLED.dll.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SerialPortLED.dll.embed.manifest" /manifest Debug\SerialPortLED.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SerialPortLED.dll.embed.manifest.res" Debug\SerialPortLED_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.dll" /INCREMENTAL /NOLOGO /DEF:".\SerialPortLED.def" /MANIFEST /ManifestFile:"Debug\SerialPortLED.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.lib" /MACHINE:X86 /DLL Debug\SerialPortLED.res
+         Debug\SerialPortLED.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\SerialPortLED.obj
+         Debug\stdafx.obj
+            Creating library D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.lib and object D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.exp
+         SerialPortLED.vcxproj -> D:\DualShare_r3\MyProject\SerialPortLED\Debug\SerialPortLED.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\SerialPortLED.unsuccessfulbuild".
+         Touching "Debug\SerialPortLED.lastbuildstate".
+     1>Done Building Project "D:\DualShare_r3\MyProject\SerialPortLED\SerialPortLED\SerialPortLED.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.66

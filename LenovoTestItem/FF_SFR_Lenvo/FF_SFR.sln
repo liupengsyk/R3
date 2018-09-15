@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FF_SFR", "FF_SFR\FF_SFR.vcxproj", "{CC5566AB-5664-42DF-9704-82D76E0B73FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AE", "..\AE\AE\AE.vcxproj", "{7F7F1767-2368-471C-8F2C-F4FE78547308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5566AB-5664-42DF-9704-82D76E0B73FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC5566AB-5664-42DF-9704-82D76E0B73FE}.Debug|Win32.Build.0 = Debug|Win32
+		{CC5566AB-5664-42DF-9704-82D76E0B73FE}.Release|Win32.ActiveCfg = Release|Win32
+		{CC5566AB-5664-42DF-9704-82D76E0B73FE}.Release|Win32.Build.0 = Release|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Debug|Win32.Build.0 = Debug|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Release|Win32.ActiveCfg = Release|Win32
+		{7F7F1767-2368-471C-8F2C-F4FE78547308}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

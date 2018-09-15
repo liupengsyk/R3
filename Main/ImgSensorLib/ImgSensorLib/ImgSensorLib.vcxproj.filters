@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ImgSensorLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_214.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV8865.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3L8XXM3_FGX9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_278.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K5E2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K5E8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_258_0AQH5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HI_259.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_386.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_298.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_230.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3P3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K4H8_F1X9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV13853.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3P3SP06.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_398.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_350.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_376.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV8835.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2P7SX03_FGX9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV12A10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV16880.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV13855.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AR1335.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HI_846.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_286.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_486.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_319.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV5695.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV13880.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3M3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GC2375.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV12870.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3M2xxM3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV5670.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_362.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3P8SP03-FGX9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3L2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV16B10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_371.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV16885.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV20880.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2T7SP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K4H7YX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2L7SA.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SP2509.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3P9SP04-FGX9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV13358.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GC5025A.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HI_556.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HI_1333.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_268.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_363.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV8856.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2L8SX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2X7SP03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_519.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K5E9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV5675.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_351.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_380.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_498.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_550.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_600.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV08A10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV13A40.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV24A1B.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GC5025.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K2X7SX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3T1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="S5K3L6XX03_FGX9.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_576.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OV02A10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_476.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMX_355.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ImgSensorLib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_214.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV8865.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3L8XXM3_FGX9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_278.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K5E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K5E8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_258_0AQH5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_386.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_298.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_230.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3P3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K4H8_F1X9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV13853.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3P3SP06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_398.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_350.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_376.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV8835.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2P7SX03_FGX9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV12A10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV16880.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV13855.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HI_259.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AR1335.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HI_846.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_286.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_486.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_319.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV5695.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV13880.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3M3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GC2375.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV12870.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3M2xxM3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV5670.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_362.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3P8SP03-FGX9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3L2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV16B10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_371.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV16885.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV20880.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2T7SP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K4H7YX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2L7SA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SP2509.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3P9SP04-FGX9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV13358.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GC5025A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HI_556.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HI_1333.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_268.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_363.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV8856.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2L8SX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K5E9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_519.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2X7SP03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV5675.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_351.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_380.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_498.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_550.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_600.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV08A10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV13A40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV24A1B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GC5025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K2X7SX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3T1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S5K3L6XX03_FGX9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_576.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OV02A10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_476.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMX_355.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ImgSensorLib.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

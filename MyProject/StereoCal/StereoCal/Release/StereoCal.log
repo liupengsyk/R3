@@ -1,0 +1,99 @@
+﻿生成启动时间为 2017/9/27 11:58:34。
+     1>项目“D:\R3\MyProject\StereoCal\StereoCal\StereoCal.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\StereoCal.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\StereoCal.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\StereoCal.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\StereoCal.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OptionDlg.cpp StereoCal.cpp StereoCal_TestItem.cpp
+         OptionDlg.cpp
+         StereoCal.cpp
+         StereoCal_TestItem.cpp
+     1>StereoCal_TestItem.cpp(575): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(588): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(607): warning C4018: “>”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(726): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(863): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(870): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(873): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(880): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(926): warning C4018: “>”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1050): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1118): warning C4018: “>”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1121): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1138): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1306): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1309): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1352): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1355): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1504): warning C4620: 未找到类型“Halcon::HTuple”的“运算符 ++”后缀形式，使用前缀形式
+                 d:\r3\include\lib_halcon\include\cpp\HTuple.h(124) : 参见“Halcon::HTuple”的声明
+     1>StereoCal_TestItem.cpp(1507): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1508): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1656): warning C4305: “=”: 从“double”到“float”截断
+     1>StereoCal_TestItem.cpp(1663): warning C4305: “=”: 从“double”到“float”截断
+     1>StereoCal_TestItem.cpp(1668): warning C4305: “=”: 从“double”到“float”截断
+     1>StereoCal_TestItem.cpp(1675): warning C4305: “=”: 从“double”到“float”截断
+     1>StereoCal_TestItem.cpp(1687): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1688): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1704): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1705): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1706): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1721): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1722): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1736): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1737): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1738): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1777): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1789): warning C4018: “<”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(1830): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1831): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1840): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1841): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1842): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1876): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1883): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1886): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1893): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1954): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1955): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1964): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1965): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1966): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(1982): warning C4018: “>”: 有符号/无符号不匹配
+     1>StereoCal_TestItem.cpp(2041): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>StereoCal_TestItem.cpp(2140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>StereoCal_TestItem.cpp(2145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>StereoCal_TestItem.cpp(2215): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>StereoCal_TestItem.cpp(2223): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\StereoCal.res" StereoCal.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\R3\MyProject\AE\Release\StereoCal.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\Lib\Release TestItemInterface.lib ImageProc.lib /MANIFEST /ManifestFile:"Release\StereoCal.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\R3\MyProject\AE\Release\StereoCal.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\R3\MyProject\AE\Release\StereoCal.lib" /MACHINE:X86 /DLL Release\StereoCal.res
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+         Release\StereoCal.obj
+         Release\StereoCal_TestItem.obj
+            正在创建库 D:\R3\MyProject\AE\Release\StereoCal.lib 和对象 D:\R3\MyProject\AE\Release\StereoCal.exp
+         正在生成代码
+         已完成代码的生成
+         StereoCal.vcxproj -> D:\R3\MyProject\AE\Release\StereoCal.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\R3\MyProject\AE\Release\StereoCal.dll;#2" /manifest Release\StereoCal.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "D:\R3\MyProject\AE\Release\StereoCal.dll" ..\..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\StereoCal.unsuccessfulbuild”。
+         正在对“Release\StereoCal.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\R3\MyProject\StereoCal\StereoCal\StereoCal.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.78

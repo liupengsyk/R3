@@ -1,0 +1,175 @@
+﻿生成启动时间为 2018/8/27 11:15:02。
+     1>项目“E:\R3\Main\VcmDriverInterface\VcmDriverInterface\VcmDriverInterface.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\VcmDriverInterface.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\VcmDriverInterface.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../../Include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VCMDRIVERINTERFACE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\VcmDriverInterface.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../../Include\ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VCMDRIVERINTERFACE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\VcmDriverInterface.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DriverIC_DW9718.cpp Driver_AK7371.cpp Driver_AK7374.cpp Driver_AXD898123XC.cpp Driver_BU64295296297GWZ.cpp Driver_BU64748GWZ.cpp Driver_DW9714.cpp Driver_DW9719.cpp Driver_DW9763.cpp Driver_DW9767.cpp Driver_DW9800.cpp Driver_DW9804.cpp Driver_DW9807.cpp Driver_HI541.cpp Driver_LC898212.cpp Driver_LC898212XD.cpp Driver_LC898214XC_shicoh.cpp Driver_LC898219.cpp Driver_Max14650.cpp Driver_S5k4ec.cpp Driver_WV511A.cpp LC898217_E4_E6.cpp LC898217_E8_EA.cpp VcmDriverInterface.cpp
+         DriverIC_DW9718.cpp
+     1>DriverIC_DW9718.cpp(22): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(25): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(27): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(49): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>DriverIC_DW9718.cpp(50): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_AK7371.cpp
+     1>Driver_AK7371.cpp(20): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7371.cpp(50): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7371.cpp(51): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7371.cpp(58): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7371.cpp(59): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_AK7374.cpp
+     1>Driver_AK7374.cpp(17): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7374.cpp(46): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7374.cpp(47): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7374.cpp(53): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_AK7374.cpp(54): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_AXD898123XC.cpp
+         Driver_BU64295296297GWZ.cpp
+     1>Driver_BU64295296297GWZ.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_BU64295296297GWZ.cpp(25): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_BU64295296297GWZ.cpp(27): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_BU64748GWZ.cpp
+         Driver_DW9714.cpp
+     1>Driver_DW9714.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9714.cpp(25): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9714.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9714.cpp(27): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9714.cpp(28): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9714.cpp(40): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_DW9719.cpp
+     1>Driver_DW9719.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9719.cpp(25): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9719.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9719.cpp(27): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9719.cpp(28): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9719.cpp(29): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_DW9763.cpp
+         Driver_DW9767.cpp
+     1>Driver_DW9767.cpp(42): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9767.cpp(43): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_DW9800.cpp
+         Driver_DW9804.cpp
+     1>Driver_DW9804.cpp(36): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(37): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(53): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(54): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(55): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(56): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(57): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9804.cpp(58): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_DW9807.cpp
+     1>Driver_DW9807.cpp(34): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(35): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(47): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(48): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(51): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(56): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(67): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_DW9807.cpp(68): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_HI541.cpp
+     1>Driver_HI541.cpp(38): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(39): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(40): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(41): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(42): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(43): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_HI541.cpp(44): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_LC898212.cpp
+     1>Driver_LC898212.cpp(117): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         Driver_LC898212XD.cpp
+     1>Driver_LC898212XD.cpp(42): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(43): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(44): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(45): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(58): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(59): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898212XD.cpp(65): warning C4309: “=”: 截断常量值
+         Driver_LC898214XC_shicoh.cpp
+     1>Driver_LC898214XC_shicoh.cpp(98): warning C4244: “初始化”: 从“float”转换到“SHORT”，可能丢失数据
+         Driver_LC898219.cpp
+     1>Driver_LC898219.cpp(22): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898219.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_LC898219.cpp(61): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_Max14650.cpp
+     1>Driver_Max14650.cpp(19): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_Max14650.cpp(20): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_Max14650.cpp(21): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_Max14650.cpp(32): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         Driver_S5k4ec.cpp
+     1>Driver_S5k4ec.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(25): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(34): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(35): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(36): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(37): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(38): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(53): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(54): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(55): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(56): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_S5k4ec.cpp(57): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         正在编译...
+         Driver_WV511A.cpp
+     1>Driver_WV511A.cpp(24): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_WV511A.cpp(26): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+     1>Driver_WV511A.cpp(28): warning C4244: “参数”: 从“USHORT”转换到“UCHAR”，可能丢失数据
+         LC898217_E4_E6.cpp
+         LC898217_E8_EA.cpp
+         VcmDriverInterface.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\VcmDriverInterface.res" VcmDriverInterface.rc 
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\VcmDriverInterface.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.lib" /MACHINE:X86 /DLL Release\VcmDriverInterface.res
+         Release\DriverIC_DW9718.obj
+         Release\Driver_AK7371.obj
+         Release\Driver_AK7374.obj
+         Release\Driver_AXD898123XC.obj
+         Release\Driver_BU64295296297GWZ.obj
+         Release\Driver_BU64748GWZ.obj
+         Release\Driver_DW9714.obj
+         Release\Driver_DW9719.obj
+         Release\Driver_DW9763.obj
+         Release\Driver_DW9767.obj
+         Release\Driver_DW9800.obj
+         Release\Driver_DW9804.obj
+         Release\Driver_DW9807.obj
+         Release\Driver_HI541.obj
+         Release\Driver_LC898212.obj
+         Release\Driver_LC898212XD.obj
+         Release\Driver_LC898214XC_shicoh.obj
+         Release\Driver_LC898219.obj
+         Release\Driver_Max14650.obj
+         Release\Driver_S5k4ec.obj
+         Release\Driver_WV511A.obj
+         Release\LC898217_E4_E6.obj
+         Release\LC898217_E8_EA.obj
+         Release\stdafx.obj
+         Release\VcmDriverInterface.obj
+            正在创建库 E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.lib 和对象 E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.exp
+         正在生成代码
+         已完成代码的生成
+         VcmDriverInterface.vcxproj -> E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.dll;#2" /manifest Release\VcmDriverInterface.dll.intermediate.manifest
+       PostBuildEvent:
+         copy "E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.dll" "../../../Execute/Release\"
+         copy "E:\R3\Main\VcmDriverInterface\VcmDriverInterface\VcmDriverInterface.h" "../../../Include\"
+         copy "E:\R3\Main\OFccmTest\OFccmTest\Release\VcmDriverInterface.lib" "../../../lib/Release"
+         :VCEnd
+         已复制         1 个文件。
+         已复制         1 个文件。
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\VcmDriverInterface.unsuccessfulbuild”。
+         正在对“Release\VcmDriverInterface.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\Main\VcmDriverInterface\VcmDriverInterface\VcmDriverInterface.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.55

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoardChartAutoROI", "BoardChartAutoROI\BoardChartAutoROI.vcxproj", "{0CD41E10-C6FD-4AD1-8AB2-D59DAC8FDC79}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AF_SFR", "..\..\AF_SFR\AF_SFR.vcxproj", "{D7E44C16-70F2-4D02-BC12-E4B45C890420}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OFccmTest", "..\..\..\..\Main\OFccmTest_1.0.3.2\OFccmTest\OFccmTest.vcxproj", "{74CC0697-473B-44B4-9E72-1AEA39B48DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD41E10-C6FD-4AD1-8AB2-D59DAC8FDC79}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CD41E10-C6FD-4AD1-8AB2-D59DAC8FDC79}.Debug|Win32.Build.0 = Debug|Win32
+		{0CD41E10-C6FD-4AD1-8AB2-D59DAC8FDC79}.Release|Win32.ActiveCfg = Release|Win32
+		{0CD41E10-C6FD-4AD1-8AB2-D59DAC8FDC79}.Release|Win32.Build.0 = Release|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Debug|Win32.Build.0 = Debug|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Release|Win32.ActiveCfg = Release|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Release|Win32.Build.0 = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

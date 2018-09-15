@@ -1,0 +1,11 @@
+[FtpSetting]
+ServerIP=192.168.58.65
+
+[MESCHECK]
+MesStation=终检
+MesLine=OGA0445
+CharNum=20  //用于卡控sensor ID，卡控sensor ID不同字符的个数
+CheckFail_Name=Chk_SensorID,FPN,POD,POG
+CheckFail_MaxFailNumber=2,2,2,2
+
+//CheckFail 名称需与要卡控的测试项名称完全相同，最大NG次数要与名称一一对应，以逗号分隔；

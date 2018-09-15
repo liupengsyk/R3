@@ -1,0 +1,65 @@
+﻿生成启动时间为 2017/3/22 10:04:30。
+     1>项目“C:\Users\Administrator\Desktop\DualShare_r3\MyProject\AE\AE\AE.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\AE.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AE.cpp AE_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         AE_TestItem.cpp
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(187): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(195): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(407): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(408): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(412): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(413): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(431): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(431): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(560): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(647): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(649): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(651): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(653): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(655): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(657): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\dualshare_r3\myproject\ae\ae\ae_testitem.cpp(747): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         AE.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\AE.res" AE.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib 和对象 C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AE.dll.embed.manifest" /manifest Debug\AE.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+         AE.vcxproj -> C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll
+       PostBuildEvent:
+         copy "C:\Users\Administrator\Desktop\DualShare_r3\Main\OFccmTest\OFccmTest\Debug\AE.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AE.unsuccessfulbuild”。
+         正在对“Debug\AE.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\DualShare_r3\MyProject\AE\AE\AE.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.54

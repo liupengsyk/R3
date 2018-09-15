@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.0" halcon_version="10.0" cs="933118469">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image(Image,'E:/CCMSDK_1224/MyProject/DualAA/AA_NewChart/ImgSave/20160725-111120Cam0.jpg')</l>
+<l>rgb1_to_gray(Image, GrayImage)</l>
+<l>get_image_size(GrayImage, Width, Height)</l>
+<l>mean_image(GrayImage, ImageMean, Width/10, Width/10)</l>
+<l>sub_image(GrayImage, ImageMean, ImageSub, 1, 128)</l>
+<l>emphasize(ImageSub, ImageEmphasize, Width, Height, 1)</l>
+<l>threshold(ImageEmphasize, Region, 0, 60)</l>
+<l>fill_up(Region, RegionFillUp)</l>
+<l>connection(RegionFillUp, ConnectedRegions)</l>
+<l>*dilation_circle(ConnectedRegions, RegionDilation, 10)</l>
+<l>*erosion1(ConnectedRegions, ConnectedRegions, RegionErosion, 3.5)</l>
+<c></c>
+<l>gen_rectangle1(Rectangle, 30, 2000, 300, 2300)</l>
+<l>stop()</l>
+<l>reduce_domain(ConnectedRegions, Rectangle, ImageReduced)</l>
+<l>union1(ImageReduced, RegionUnion)</l>
+<l>area_center(RegionUnion, Area, Row, Column)</l>
+<l>gen_rectangle1(Rectangle1, Row-100, Column-100, Row+100, Column+100)</l>
+<l>reduce_domain(ImageEmphasize, Rectangle1, ImageReduced1)</l>
+<l>stop()</l>
+<l>create_shape_model(ImageReduced1, 'auto', -0.39, 0.79, 'auto', 'auto', 'use_polarity', 'auto', 'auto', ModelID)</l>
+<l>write_shape_model(ModelID,'E:/CCMSDK_1224/MyProject/DualAA/AA_NewChart/ImgSave/shapModeT1.shm')</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

@@ -1,0 +1,75 @@
+Inner 22.928572, Outer 28.250000
+Inner 27.514286, Outer 31.783333
+Inner 22.299999, Outer 29.180000
+Inner 18.285715, Outer 25.730000
+MaxDiff 7.444284
+Inner 22.928572, Outer 28.250000
+Inner 27.514286, Outer 31.783333
+Inner 22.299999, Outer 29.180000
+Inner 18.285715, Outer 25.730000
+MaxDiff 7.444284
+Inner 22.928572, Outer 28.250000
+Inner 27.514286, Outer 31.783333
+Inner 22.299999, Outer 29.180000
+Inner 18.285715, Outer 25.730000
+MaxDiff 7.444284
+POG Position(137, 66), PixelCount(9), Intensity(38)
+POG Position(92, 113), PixelCount(13), Intensity(55)
+POG Position(139, 73), PixelCount(12), Intensity(54)
+POG Position(129, 58), PixelCount(12), Intensity(74)
+POG Position(108, 27), PixelCount(10), Intensity(41)
+POG Position(92, 111), PixelCount(10), Intensity(40)
+POG Position(22, 59), PixelCount(57), Intensity(263)
+POG Position(139, 63), PixelCount(11), Intensity(44)
+POG Position(62, 61), PixelCount(11), Intensity(44)
+POG Position(92, 111), PixelCount(10), Intensity(40)
+POG Position(22, 59), PixelCount(57), Intensity(263)
+POG Position(139, 63), PixelCount(11), Intensity(44)
+POG Position(62, 61), PixelCount(11), Intensity(44)
+POG Position(92, 111), PixelCount(10), Intensity(40)
+POG Position(22, 59), PixelCount(57), Intensity(263)
+POG Position(139, 63), PixelCount(11), Intensity(44)
+POG Position(62, 61), PixelCount(11), Intensity(44)
+POG Position(92, 113), PixelCount(13), Intensity(55)
+POG Position(139, 73), PixelCount(12), Intensity(54)
+POG Position(129, 58), PixelCount(12), Intensity(74)
+POG Position(108, 27), PixelCount(10), Intensity(41)
+POG Position(92, 113), PixelCount(13), Intensity(55)
+POG Position(139, 73), PixelCount(12), Intensity(54)
+POG Position(129, 58), PixelCount(12), Intensity(74)
+POG Position(108, 27), PixelCount(10), Intensity(41)
+Inner 22.928572, Outer 28.250000
+Inner 27.514286, Outer 31.783333
+Inner 22.299999, Outer 29.180000
+Inner 18.285715, Outer 25.730000
+MaxDiff 7.444284
+Inner 22.928572, Outer 28.250000
+Inner 27.514286, Outer 31.783333
+Inner 22.299999, Outer 29.180000
+Inner 18.285715, Outer 25.730000
+MaxDiff 7.444284
+Inner 18.057142, Outer 21.016666
+Inner 11.142858, Outer 14.656667
+Inner 7.985714, Outer 12.143333
+Inner 15.228572, Outer 18.950001
+MaxDiff 4.157619
+Inner 18.057142, Outer 21.016666
+Inner 11.142858, Outer 14.656667
+Inner 7.985714, Outer 12.143333
+Inner 15.228572, Outer 18.950001
+MaxDiff 4.157619
+Inner 18.057142, Outer 21.016666
+Inner 11.142858, Outer 14.656667
+Inner 7.985714, Outer 12.143333
+Inner 15.228572, Outer 18.950001
+MaxDiff 4.157619
+Inner 18.057142, Outer 21.016666
+Inner 11.142858, Outer 14.656667
+Inner 7.985714, Outer 12.143333
+Inner 15.228572, Outer 18.950001
+MaxDiff 4.157619
+Inner 18.057142, Outer 21.016666
+Inner 11.142858, Outer 14.656667
+Inner 7.985714, Outer 12.143333
+Inner 15.228572, Outer 18.950001
+MaxDiff 4.157619

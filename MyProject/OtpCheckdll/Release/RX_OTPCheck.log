@@ -1,0 +1,160 @@
+﻿生成启动时间为 2018/7/7 15:01:45。
+     1>项目“E:\R3\MyProject\OtpCheckdll\RX_OTPCheck.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\RX_OTPCheck.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\RX_OTPCheck.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\RX_OTPCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\RX_OTPCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OtpCheck_API.cpp RX_OTPCheck.cpp RX_OTPCheck_TestItem.cpp OptionDlg.cpp
+         OtpCheck_API.cpp
+     1>OtpCheck_API.cpp(37): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(40): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276) : 参见“wcscat”的声明
+     1>OtpCheck_API.cpp(60): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(64): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(74): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(77): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276) : 参见“wcscat”的声明
+     1>OtpCheck_API.cpp(136): warning C4996: 'vswprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(97) : 参见“vswprintf”的声明
+     1>OtpCheck_API.cpp(141): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276) : 参见“wcscat”的声明
+     1>OtpCheck_API.cpp(434): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(821): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(825): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(953): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(972): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>OtpCheck_API.cpp(1024): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(1224): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>OtpCheck_API.cpp(1958): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1959): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1960): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1961): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1962): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1963): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1964): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1965): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1966): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1967): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1968): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1969): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1970): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1971): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1972): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1973): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1982): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1983): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1984): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1985): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1986): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1987): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1988): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(1989): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>OtpCheck_API.cpp(2022): warning C4101: “i”: 未引用的局部变量
+     1>OtpCheck_API.cpp(2022): warning C4101: “j”: 未引用的局部变量
+     1>OtpCheck_API.cpp(2125): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(2214): warning C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(817) : 参见“_wfreopen”的声明
+     1>OtpCheck_API.cpp(2261): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2266): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2271): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2276): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2282): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2304): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(2382): warning C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(817) : 参见“_wfreopen”的声明
+     1>OtpCheck_API.cpp(2469): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(2547): warning C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(817) : 参见“_wfreopen”的声明
+     1>OtpCheck_API.cpp(2550): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283) : 参见“wcscpy”的声明
+     1>OtpCheck_API.cpp(2624): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>OtpCheck_API.cpp(2698): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(2704): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(2711): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(2715): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(3850): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(3854): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(3918): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(3922): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(866) : 参见“_itow”的声明
+     1>OtpCheck_API.cpp(4881): warning C4018: “>”: 有符号/无符号不匹配
+     1>OtpCheck_API.cpp(4881): warning C4018: “<”: 有符号/无符号不匹配
+     1>OtpCheck_API.cpp(4949): warning C4018: “>”: 有符号/无符号不匹配
+     1>OtpCheck_API.cpp(4949): warning C4018: “<”: 有符号/无符号不匹配
+     1>OtpCheck_API.cpp(5129): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(5141): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+     1>OtpCheck_API.cpp(5142): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 参见“sscanf”的声明
+     1>OtpCheck_API.cpp(5143): warning C4244: “=”: 从“USHORT”转换到“BYTE”，可能丢失数据
+     1>OtpCheck_API.cpp(5168): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+     1>OtpCheck_API.cpp(5191): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815) : 参见“_wfopen”的声明
+         RX_OTPCheck.cpp
+         RX_OTPCheck_TestItem.cpp
+     1>RX_OTPCheck_TestItem.cpp(72): warning C4018: “<=”: 有符号/无符号不匹配
+     1>RX_OTPCheck_TestItem.cpp(73): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+     1>RX_OTPCheck_TestItem.cpp(203): warning C4244: “=”: 从“USHORT”转换到“BYTE”，可能丢失数据
+     1>RX_OTPCheck_TestItem.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>RX_OTPCheck_TestItem.cpp(255): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         OptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\RX_OTPCheck.res" RX_OTPCheck.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\Lib\Release TestItemInterface.lib ImageProc.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib opencv_nonfree249.lib opencv_objdetect249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_ts249.lib opencv_video249.lib opencv_videostab249.lib /MANIFEST /ManifestFile:"Release\RX_OTPCheck.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.lib" /MACHINE:X86 /DLL Release\RX_OTPCheck.res
+         Release\OtpCheck_API.obj
+         Release\RX_OTPCheck.obj
+         Release\RX_OTPCheck_TestItem.obj
+         Release\OptionDlg.obj
+         Release\stdafx.obj
+            正在创建库 E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.lib 和对象 E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.exp
+         正在生成代码
+         已完成代码的生成
+     1>TestItemInterface.lib(TestItemInterface.obj) : warning LNK4204: “E:\R3\MyProject\OtpCheckdll\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>TestItemInterface.lib(stdafx.obj) : warning LNK4204: “E:\R3\MyProject\OtpCheckdll\Release\vc100.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+         RX_OTPCheck.vcxproj -> E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.dll;#2" /manifest Release\RX_OTPCheck.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       PostBuildEvent:
+         copy "E:\R3\MyProject\OtpCheckdll\Release\RX_OTPCheck.dll" "..\..\Execute\Release\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Release\RX_OTPCheck.unsuccessfulbuild”。
+         正在对“Release\RX_OTPCheck.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\OtpCheckdll\RX_OTPCheck.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:27.38

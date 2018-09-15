@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaveImg", "SaveImg\SaveImg.vcxproj", "{FC112459-9762-41B1-A548-28C02D37C2F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OFccmTest", "..\..\Main\OFccmTest\OFccmTest\OFccmTest.vcxproj", "{74CC0697-473B-44B4-9E72-1AEA39B48DDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StereoCal", "..\StereoCal\StereoCal\StereoCal.vcxproj", "{FC5EAE9D-2D99-49C3-B11F-1B2C49305608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC112459-9762-41B1-A548-28C02D37C2F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC112459-9762-41B1-A548-28C02D37C2F9}.Debug|Win32.Build.0 = Debug|Win32
+		{FC112459-9762-41B1-A548-28C02D37C2F9}.Release|Win32.ActiveCfg = Release|Win32
+		{FC112459-9762-41B1-A548-28C02D37C2F9}.Release|Win32.Build.0 = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{74CC0697-473B-44B4-9E72-1AEA39B48DDD}.Release|Win32.Build.0 = Release|Win32
+		{FC5EAE9D-2D99-49C3-B11F-1B2C49305608}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC5EAE9D-2D99-49C3-B11F-1B2C49305608}.Debug|Win32.Build.0 = Debug|Win32
+		{FC5EAE9D-2D99-49C3-B11F-1B2C49305608}.Release|Win32.ActiveCfg = Release|Win32
+		{FC5EAE9D-2D99-49C3-B11F-1B2C49305608}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

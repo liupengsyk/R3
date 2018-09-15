@@ -1,0 +1,107 @@
+﻿生成启动时间为 2017/11/29 14:18:54。
+     1>项目“E:\R3\MyProject\AE\AE\AE.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\AE.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AE.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AE.cpp AE_TestItem.cpp OptionDlg.cpp
+         OptionDlg.cpp
+         AE_TestItem.cpp
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(198): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(221): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(255): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(259): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(267): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(528): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(529): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(533): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(534): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(696): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(783): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(785): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(787): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(789): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(791): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(793): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(883): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1034): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1238): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1338): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1342): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1343): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1359): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1362): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1365): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1382): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1405): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1421): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1437): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1438): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1439): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1440): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1455): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1456): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1457): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1458): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1509): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1511): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1513): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1515): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1517): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1519): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1538): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1541): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1542): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1558): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1561): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1562): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1579): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1600): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>e:\r3\myproject\ae\ae\ae_testitem.cpp(1615): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         AE.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\AE.res" AE.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AE\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AE\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AE\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+            正在创建库 E:\R3\MyProject\AE\Debug\AE.lib 和对象 E:\R3\MyProject\AE\Debug\AE.exp
+     1>TestItemInterface_d.lib(TestItemInterface.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“TestItemInterface_d.lib(TestItemInterface.obj)”或在“E:\R3\MyProject\AE\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+       Manifest:
+         正在删除文件“Debug\AE.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AE.dll.embed.manifest" /manifest Debug\AE.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AE.dll.embed.manifest.res" Debug\AE_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\R3\MyProject\AE\Debug\AE.dll" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\Lib\Debug TestItemInterface_d.lib ImageProc_d.lib /MANIFEST /ManifestFile:"Debug\AE.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\R3\MyProject\AE\Debug\AE.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\R3\MyProject\AE\Debug\AE.lib" /MACHINE:X86 /DLL Debug\AE.res
+         Debug\AE.dll.embed.manifest.res
+         Debug\AE.obj
+         Debug\AE_TestItem.obj
+         Debug\OptionDlg.obj
+         Debug\stdafx.obj
+         AE.vcxproj -> E:\R3\MyProject\AE\Debug\AE.dll
+       PostBuildEvent:
+         copy "E:\R3\MyProject\AE\Debug\AE.dll" ..\..\..\Execute\Debug\TestItem
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AE.unsuccessfulbuild”。
+         正在对“Debug\AE.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\R3\MyProject\AE\AE\AE.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.53

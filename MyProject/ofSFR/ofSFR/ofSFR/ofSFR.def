@@ -1,0 +1,33 @@
+; ofSFR.def : 声明 DLL 的模块参数。
+
+LIBRARY "ofSFR"
+
+EXPORTS
+    ; 此处可以是显式导出
+
+	SFR_Test	@	1
+	GetAllTestTargetCenter	@	2
+	AllROI_Sort		@	3
+	SaveRoiImageForSFR		@	4
+	GetSfrValueForROI		@	5
+	GetCenterForAF		@	6
+	GetAllTestTargetCenterForMotoChart	@	7
+	GetSfrValueForROI_MotoChart		@	8
+	GetSfrValueForRawBalanceROI		@	9
+	GetCenterMotoChartForAF		@	10
+	GetBestCode		@	11
+	PCutImageBufferDll	@	12
+	RawToGrayscaleImage_Raw10Dll	@	13
+	IsRGB_forQualCali	@	14
+	GetSquareChartTargetCenter	@	15
+	GetNewSquareChartTargetCenter	@ 16
+	GetSquareChartSfrValueForOPPO	@	17
+	GetXChartTargetCenter	@	18
+	GetXChartSfrValue	@	19
+	GetMotoChartTargetCenter	@	20
+	GetMotoChartSfrValue	@	21
+	GetSquareChartSfrValueForWhiteBalance	@	22
+	GetBayerTypeDll		@	23
+	GetHwMmiTargetPosi	@	24
+	GetSnapChartTargetCenter	@	25
+	GetSnapChartSfrValueROI	@	26

@@ -1,0 +1,5 @@
+checkDist 0 = 105.5482
+checkDist 1 = 52.2475
+checkDist 2 = 27.3428
+checkDist 3 = 0.0000
+checkDist 4 = 0.0000

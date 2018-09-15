@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AF_SFR", "AF_SFR.vcxproj", "{D7E44C16-70F2-4D02-BC12-E4B45C890420}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCCM_SFRBurn", "..\..\TCCM_SFRBurn_L12AA00\TCCM_SFRBurn - BurnThroughfocus\TCCM_SFRBurn.vcxproj", "{BFF0C7BA-3538-4ABC-B887-7E530875D4E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VCM_Check", "..\..\VCM_Check\VCM_Check\VCM_Check.vcxproj", "{E30B19F5-62C8-4116-836F-52E3316FB980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Debug|Win32.Build.0 = Debug|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Release|Win32.ActiveCfg = Release|Win32
+		{D7E44C16-70F2-4D02-BC12-E4B45C890420}.Release|Win32.Build.0 = Release|Win32
+		{BFF0C7BA-3538-4ABC-B887-7E530875D4E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFF0C7BA-3538-4ABC-B887-7E530875D4E6}.Debug|Win32.Build.0 = Debug|Win32
+		{BFF0C7BA-3538-4ABC-B887-7E530875D4E6}.Release|Win32.ActiveCfg = Release|Win32
+		{BFF0C7BA-3538-4ABC-B887-7E530875D4E6}.Release|Win32.Build.0 = Release|Win32
+		{E30B19F5-62C8-4116-836F-52E3316FB980}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E30B19F5-62C8-4116-836F-52E3316FB980}.Debug|Win32.Build.0 = Debug|Win32
+		{E30B19F5-62C8-4116-836F-52E3316FB980}.Release|Win32.ActiveCfg = Release|Win32
+		{E30B19F5-62C8-4116-836F-52E3316FB980}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
